@@ -1,4 +1,5 @@
 import pandas as pd 
+from data.mappingFile import mapping
 
 ### Data model to try:
         # - Column 1: Library Name (string)
