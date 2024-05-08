@@ -11,7 +11,21 @@ The Long Island Library Resource Council (LILRC) distributes a survey to all lib
 
 ### Objectives
 
-**1. Create a Python script to take in raw survey data and convert it into a standardized format.
+1. Create a Python script to take in raw survey data and convert it into a standardized format.
+    - Exampe of standardized format, where each row is equal to a unique site and job title and year: 
+        - Column 1: Library Name (string)
+        - Column 2: Employee Number (int)
+        - Column 2: Job Title (string)
+            - Job title selections can include:
+                - Director
+                - Assistant Director
+                - Librarian
+                - Assistant Librarian
+                - .......
+        - Column 3: Part time/Full time (string)
+        - Column 4: Salary (int)
+        - Column 5: Year (int)
+
 2. Create a pipeline for merging and analyzing data between multiple years.
 3. Explore Tableau and Looker Studio as options for data visualization and analysis.**
 
