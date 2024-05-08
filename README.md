@@ -3,7 +3,7 @@ Capstone Project for SBU AHI Program: ingesting and standardizing salary survey 
 
 ## Google Drive Link
 
-https://drive.google.com/drive/folders/1qTpPKbfF_bckmQ0pnDz4ZN3LO44wbmtK
+https://drive.google.com/drive/folders/1vc8jQYpzkczLiXFHjTLitzCv0Gz3uMnx
 
 ### Project Scope
 
