@@ -5,11 +5,11 @@ Capstone Project for SBU AHI Program: ingesting and standardizing salary survey 
 
 https://drive.google.com/drive/folders/1qTpPKbfF_bckmQ0pnDz4ZN3LO44wbmtK
 
-## Project Scope
+### Project Scope
 
 The Long Island Library Resource Council (LILRC) distributes a survey to all libraries collecting data on salaries for all workers. Public libraries submit a spreadsheet containing salary data on all workers, while private libraries individually report their income. The purpose of this project is to develop a system to collect and aggregate data into a standardized format for review and analysis.
 
-## Objectives
+### Objectives
 
 **1. Create a Python script to take in raw survey data and convert it into a standardized format.
 2. Create a pipeline for merging and analyzing data between multiple years.
@@ -19,7 +19,7 @@ The Long Island Library Resource Council (LILRC) distributes a survey to all lib
 5. Find state/national level salary data to compare with our region-level data.
    
 
-## Notes/Guidelines
+### Notes/Guidelines
 
 1. Public libraries must be able to submit a spreadsheet, individual reporting can be flexible in format (currently using an airtable survey).
 2. Survey fields should be open-ended, can be further condensed and constrained in Python aggregation.
