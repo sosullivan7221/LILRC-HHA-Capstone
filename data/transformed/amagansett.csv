@@ -1,10 +1,10 @@
-Employee Number,Part time/Full time,Salary,Year
-1,Full time,130000.0,2024
-2,Full time,65000.0,2024
-3,Full time,60000.0,2024
-4,Part time,,2024
-5,Part time,,2024
-6,Full time,50000.0,2024
-7,Full time,50000.0,2024
-8,Part time,,2024
-9,Part time,,2024
+Year,Library Name,Employee Number,Part time,Salary,Hourly
+2024,Amagansett,1,No,130000.0,
+2024,Amagansett,2,No,65000.0,
+2024,Amagansett,3,No,60000.0,
+2024,Amagansett,4,Yes,,29.0
+2024,Amagansett,5,Yes,,25.0
+2024,Amagansett,6,No,50000.0,
+2024,Amagansett,7,No,50000.0,
+2024,Amagansett,8,Yes,,20.0
+2024,Amagansett,9,Yes,,16.0
