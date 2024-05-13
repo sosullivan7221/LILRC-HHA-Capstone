@@ -11,3 +11,7 @@ dfs = [pd.read_csv(file) for file in files]
 
 # Concatenate all files into one dataframe
 df = pd.concat(dfs, ignore_index=True)
+
+# Export Dataframe as CSV
+
+df.to_csv('data/clean/clean.csv')

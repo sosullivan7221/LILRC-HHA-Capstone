@@ -40,7 +40,7 @@ df['Salary'] = df['Salary'].astype(str).str.replace(',', '').astype(float)
 # Convert 'Hourly' from string to int, removing commas
 df['Hourly'] = df['Hourly'].astype(str).str.replace(',', '').astype(float)
 
-# Fill in missing values for 'Part time/Full time' based on 'Starting Hourly Rate'
+# Fill in values for 'Part time/Full time'
 df['Part time'] = df['Part time'].str.replace('FULL TIME', 'No').str.replace('PART TIME', 'Yes')
 
 # Determine 'Employee Number' and 'Year'

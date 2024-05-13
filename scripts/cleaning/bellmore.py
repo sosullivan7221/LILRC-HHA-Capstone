@@ -22,7 +22,7 @@ df_transformed_column_names = [
 
 
 
-df = pd.read_csv('data/raw/Copy of Bethpage - Salary Data.csv')
+df = pd.read_csv('data/raw/Copy of Bellmore - Salary Data.csv')
 
 # Standardizing column names
 new_columns = {
@@ -34,11 +34,11 @@ df.rename(columns=new_columns, inplace=True)
 
 df.dtypes
 
-# Convert 'Salary' from string to int, removing commas
-df['Salary'] = df['Salary'].astype(str).str.replace(',', '').astype(float)
+# Convert 'Salary' from string to int, removing commas and $
+df['Salary'] = df['Salary'].astype(str).str.replace(',','').str.replace('$','').astype(float)
 
 # Convert 'Hourly' from string to int, removing commas
-df['Hourly'] = df['Hourly'].astype(str).str.replace(',', '').astype(float)
+df['Hourly'] = df['Hourly'].astype(str).str.replace(',','').str.replace('$','').astype(float)
 
 # Fill in values for 'Part time/Full time'
 df['Part time'] = df['Part time'].apply(lambda x: 'Yes' if pd.notna(x) else 'No')
@@ -50,7 +50,7 @@ df['Year'] = today.year
 
 # Add Library Name as a column
 
-df['Library Name'] = 'Bethpage'
+df['Library Name'] = 'Bellmore'
 
 # Selecting and reordering columns to match the desired format
 final_columns = ['Year', 'Library Name','Employee Number', 'Part time', 'Salary', 'Hourly',]
@@ -58,4 +58,4 @@ df = df[final_columns]
 
 df
 
-df.to_csv('data/transformed/bethpage.csv', index=False)
+df.to_csv('data/transformed/bellmore.csv', index=False)
