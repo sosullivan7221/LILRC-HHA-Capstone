@@ -1,0 +1,32 @@
+Amagansett - Yes
+Babylon - No part time column, merged with hourly rate
+Bellmore - Made column for full time
+Bethpage - Yes
+Bridgehampton - Yes
+CSH - Yes
+Connetquot - No part time column
+Copiague - Yes
+Emma Clark - Yes
+Freeport - Labeled everything as part time when they have part time
+Hampton Bays - No part time column, merged with hourly rate
+Hauppauge - Yes
+Island Park - Yes
+Longwood - No part time column, merged with hourly rate
+Lynnbrook - No part time column, merged with hourly rate
+Mattituck-Laurel - Yes
+Montauk - Yes
+North Babylon - Irregular format
+Oyster Bay-East Norwich - No part time column, merged with hourly rate
+Peninsula Public Library - Didn't use check box
+Port Washington - Didn't use check box
+Roslyn (Bryant Libary) - Yes
+Sea Cliff - Yes
+Shelter Island - Yes? No true in part time column
+Smithtown Non-Professional - ?
+Smithtown Professional - ?
+South Country - Yes
+Southhampton (Rogers Memorial) - Yes? No true in part time column
+Unknown Libraries - ?
+Wantagh - Didn't use check box
+West Babylon - Didn't use check box
+Westhampton - Irregular Format
