@@ -1,27 +1,38 @@
 Amagansett - Yes
 Babylon - No part time column, merged with hourly rate
+Bayshore-Brightwater - slightly irregular format
 Bellmore - Made column for full time
 Bethpage - Yes
 Bridgehampton - Yes
 CSH - Yes
-Connetquot - No part time column
+Connetquot - No part time column, is everyone full time ?
 Copiague - Yes
+Deer Park - Didn't use check box
+East Islip - Yes
 Emma Clark - Yes
 Freeport - Labeled everything as part time when they have part time
 Hampton Bays - No part time column, merged with hourly rate
 Hauppauge - Yes
 Island Park - Yes
+Lindenhurst - ?
 Longwood - No part time column, merged with hourly rate
 Lynnbrook - No part time column, merged with hourly rate
+Mastics-Moriches-Shirley - Didn't use check box, labeled PT vs FT
 Mattituck-Laurel - Yes
+Middle Country - No part time column, merged with hourly rate
 Montauk - Yes
 North Babylon - Irregular format
 Oyster Bay-East Norwich - No part time column, merged with hourly rate
 Peninsula Public Library - Didn't use check box
 Port Washington - Didn't use check box
+Riverhead - No part time column, merged with hourly rate
+Rockville Center - Labeled 'PT' in PT column
 Roslyn (Bryant Libary) - Yes
+Sachem - Put hourly rate in part time column, 
 Sea Cliff - Yes
+Seaford - Yes
 Shelter Island - Yes? No true in part time column
+Shelter Rock - Used 'x' to label part time
 Smithtown Non-Professional - ?
 Smithtown Professional - ?
 South Country - Yes
