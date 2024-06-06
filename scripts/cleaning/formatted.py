@@ -20,9 +20,14 @@ def clean_csv(file_path):
 
     # Standardizing column names
     new_columns = {
-        "Starting Annual Salary": "Salary",
-        "Starting Hourly Rate" : "Hourly"
-    }
+        "annual_salary" : "Salary",
+        "Annual Salary" : "Salary",
+        "Hourly Rate" : "Hourly",
+        "hour_rate" : "Hourly",
+        "Hourly Rate (Part-Time)" : "Hourly",
+        "part_time" : "Part Time",
+        "Part-Time" : "Part Time"
+        }
     df.rename(columns=new_columns, inplace=True)
 
     # Convert 'Salary' from string to float, removing commas and dollar signs
@@ -49,8 +54,11 @@ def clean_csv(file_path):
     df['Year'] = today.year  
 
     # Selecting and reordering columns to match the desired format
-    final_columns = ['Year', 'Employee Number', 'Part time', 'Salary', 'Hourly',]
+    final_columns = ['Year', 'Employee Number', 'Part Time', 'Salary', 'Hourly',]
     df = df[final_columns]
+    
+    # Filter out empty rows
+    df = df[df[['Hourly', 'Salary']].notna().any(axis=1)]
 
     # Save the transformed data to CSV
     output_file_path = os.path.join('data/transformed', os.path.basename(file_path))

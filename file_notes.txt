@@ -12,7 +12,7 @@ East Islip - Yes
 Emma Clark - Yes
 Freeport - Labeled everything as part time when they have part time
 Hampton Bays - No part time column, merged with hourly rate
-Hauppauge - Yes
+Hauppauge - Uses Ranges for salary and hourly rate
 Island Park - Yes
 Lindenhurst - ?
 Longwood - No part time column, merged with hourly rate
