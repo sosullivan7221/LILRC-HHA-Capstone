@@ -2,13 +2,14 @@ import pandas as pd
 import datetime
 import os
 
+print('CWD', os.getcwd())
 def clean_csv(file_path):
     # Data model
     df_transformed_column_names = [
         'Library Name', 
         'Employee Number', 
         'Job Title', 
-        'Part time', 
+        'Part Time', 
         'Salary',
         'Hourly', 
         'Year'
@@ -31,7 +32,16 @@ def clean_csv(file_path):
     df['Hourly'] = df['Hourly'].astype(str).str.replace(',', '').str.replace('$','').astype(float)
 
     # Fill in values for 'Part time/Full time'
-    df['Part time'] = df['Part time'].apply(lambda x: 'Yes' if pd.notna(x) else 'No')
+    def convert_PT(value):
+        if pd.isna(value):
+            return 'N'
+        elif value in ['No,', 'no', 'NO' 'FALSE', 'False', 'false']:
+            return 'N'
+        elif value in ['Yes', 'yes', 'YES', 'TRUE', 'True', 'true']:
+            return 'Y'
+        else:
+            return 'N'
+    df['Part Time'] = df['Part Time'].apply(convert_PT)
 
     # Determine 'Employee Number' and 'Year'
     df['Employee Number'] = range(1, len(df) + 1)
