@@ -1,14 +1,14 @@
-Year,Employee Number,Part Time,Salary,Hourly
-2024,1,N,100000.0,
-2024,2,N,83400.0,
-2024,3,N,61000.0,
-2024,4,N,53000.0,
-2024,5,N,,32.0
-2024,6,N,52000.0,
-2024,7,N,,17.5
-2024,8,N,,22.81
-2024,9,N,38000.0,
-2024,10,N,42000.0,
-2024,11,N,,21.0
-2024,12,N,58600.0,
-2024,13,N,,21.22
+Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
+2024,Mattituck-Laurel,1,Executive Director,N,100000.0,
+2024,Mattituck-Laurel,2,Librarian (Head of Youth & Parenting),N,83400.0,
+2024,Mattituck-Laurel,3,Librarian (Head of Adult Services),N,61000.0,
+2024,Mattituck-Laurel,4,Librarian (Teen Services),N,53000.0,
+2024,Mattituck-Laurel,5,Library Assistant,N,,32.0
+2024,Mattituck-Laurel,6,Social Media Marketing & Technology Coordinator,N,52000.0,
+2024,Mattituck-Laurel,7,Library Clerk,N,,17.5
+2024,Mattituck-Laurel,8,Senior Library Clerk,N,,22.81
+2024,Mattituck-Laurel,9,Head Library Clerk,N,38000.0,
+2024,Mattituck-Laurel,10,Tech Services,N,42000.0,
+2024,Mattituck-Laurel,11,Custodian,N,,21.0
+2024,Mattituck-Laurel,12,Readers Advisor,N,58600.0,
+2024,Mattituck-Laurel,13,Bookkeeper,N,,21.22

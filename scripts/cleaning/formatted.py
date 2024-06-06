@@ -26,7 +26,9 @@ def clean_csv(file_path):
         "hour_rate" : "Hourly",
         "Hourly Rate (Part-Time)" : "Hourly",
         "part_time" : "Part Time",
-        "Part-Time" : "Part Time"
+        "Part-Time" : "Part Time",
+        "civil_service_title" : "Title (civil servce title for civil service libraries)",
+        "other_title" : "Other Title (if different than civil service title)"
         }
     df.rename(columns=new_columns, inplace=True)
 
@@ -52,15 +54,23 @@ def clean_csv(file_path):
     df['Employee Number'] = range(1, len(df) + 1)
     today = datetime.date.today()
     df['Year'] = today.year  
-
+    
+    # Merge job titles into one column
+    job_title = df['Title (civil servce title for civil service libraries)'].fillna(df['Other Title (if different than civil service title)'])
+    df.insert(1,'Job Title', job_title)
+    
+    # Add Library Name from file name
+    library_name = os.path.splitext(os.path.basename(file_path))[0]
+    df.insert(0,'Library Name', library_name)
+    
     # Selecting and reordering columns to match the desired format
-    final_columns = ['Year', 'Employee Number', 'Part Time', 'Salary', 'Hourly',]
+    final_columns = ['Year', 'Library Name', 'Employee Number', 'Job Title', 'Part Time', 'Salary', 'Hourly',]
     df = df[final_columns]
     
     # Filter out empty rows
     df = df[df[['Hourly', 'Salary']].notna().any(axis=1)]
-
-    # Save the transformed data to CSV
+    
+     # Save the transformed data to CSV
     output_file_path = os.path.join('data/transformed', os.path.basename(file_path))
     df.to_csv(output_file_path, index=False)
     print(f"Cleaned file saved to: {output_file_path}")

@@ -1,11 +1,11 @@
-Year,Employee Number,Part Time,Salary,Hourly
-2024,1,N,95000.0,
-2024,2,N,66000.0,
-2024,3,N,,32.63
-2024,4,N,,30.93
-2024,5,N,,30.25
-2024,6,N,,16.0
-2024,7,N,,16.0
-2024,8,N,,16.0
-2024,9,N,,18.85
-2024,10,N,,16.75
+Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
+2024,Sea Cliff,1,Library Director,N,95000.0,
+2024,Sea Cliff,2,Librarian I,N,66000.0,
+2024,Sea Cliff,3,Librarian I,N,,32.63
+2024,Sea Cliff,4,Librarian I,N,,30.93
+2024,Sea Cliff,5,Librarian I,N,,30.25
+2024,Sea Cliff,6,Typist Clerk,N,,16.0
+2024,Sea Cliff,7,Typist Clerk,N,,16.0
+2024,Sea Cliff,8,Typist Clerk,N,,16.0
+2024,Sea Cliff,9,Typist Clerk,N,,18.85
+2024,Sea Cliff,10,Typist Clerk,N,,16.75

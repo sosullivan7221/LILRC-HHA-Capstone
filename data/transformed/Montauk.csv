@@ -1,10 +1,10 @@
-Year,Employee Number,Part Time,Salary,Hourly
-2024,1,N,149000.0,
-2024,2,N,,38.5
-2024,3,N,,37.0
-2024,4,N,,36.5
-2024,5,N,,27.75
-2024,6,N,,20.5
-2024,7,N,,20.0
-2024,8,N,,22.75
-2024,9,N,,47.0
+Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
+2024,Montauk,1,Director,N,149000.0,
+2024,Montauk,2,Archivist,N,,38.5
+2024,Montauk,3,Treasurer,N,,37.0
+2024,Montauk,4,Librarian I,N,,36.5
+2024,Montauk,5,Library Assistant,N,,27.75
+2024,Montauk,6,Library Clerk,N,,20.5
+2024,Montauk,7,Page,N,,20.0
+2024,Montauk,8,Custodial Worker I,N,,22.75
+2024,Montauk,9,Network & System Specialist II,N,,47.0

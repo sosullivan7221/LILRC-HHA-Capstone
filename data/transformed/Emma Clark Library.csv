@@ -1,43 +1,43 @@
-Year,Employee Number,Part Time,Salary,Hourly
-2024,1,N,42484.0,
-2024,2,N,40219.0,
-2024,3,N,40219.0,
-2024,4,N,49359.0,
-2024,5,N,67812.0,
-2024,6,N,72982.0,
-2024,7,N,89931.0,
-2024,8,N,87931.0,
-2024,9,N,86172.0,
-2024,10,N,87931.0,
-2024,11,N,123008.0,
-2024,12,N,99149.0,
-2024,13,N,100149.0,
-2024,14,N,101149.0,
-2024,15,N,99149.0,
-2024,16,N,86259.0,
-2024,17,N,95183.0,
-2024,18,N,100149.0,
-2024,19,N,100649.0,
-2024,20,N,70395.0,
-2024,21,N,124508.0,
-2024,22,N,124008.0,
-2024,23,N,87336.0,
-2024,24,N,,16.0
-2024,25,N,,16.27
-2024,26,N,,16.49
-2024,27,N,,16.74
-2024,28,N,,16.94
-2024,29,N,,20.0
-2024,30,N,,20.19
-2024,31,N,,20.36
-2024,32,N,,20.59
-2024,33,N,,20.77
-2024,34,N,,34.28
-2024,35,N,,34.46
-2024,36,N,,34.83
-2024,37,N,,35.07
-2024,38,N,,35.35
-2024,39,N,,34.36
-2024,40,N,,28.74
-2024,41,N,,17.05
-2024,42,N,,17.61
+Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
+2024,Emma Clark Library,1,Clerk I,N,42484.0,
+2024,Emma Clark Library,2,Clerk I,N,40219.0,
+2024,Emma Clark Library,3,Clerk I,N,40219.0,
+2024,Emma Clark Library,4,Clerk II,N,49359.0,
+2024,Emma Clark Library,5,Clerk II,N,67812.0,
+2024,Emma Clark Library,6,Dept Supervisor,N,72982.0,
+2024,Emma Clark Library,7,Dept Supervisor,N,89931.0,
+2024,Emma Clark Library,8,Business Mgr,N,87931.0,
+2024,Emma Clark Library,9,Payroll & Human Resources Mgr,N,86172.0,
+2024,Emma Clark Library,10,Building Mgr,N,87931.0,
+2024,Emma Clark Library,11,Mgr Technology Systems & Services,N,123008.0,
+2024,Emma Clark Library,12,Librarian I,N,99149.0,
+2024,Emma Clark Library,13,Librarian I,N,100149.0,
+2024,Emma Clark Library,14,Librarian I,N,101149.0,
+2024,Emma Clark Library,15,Librarian I,N,99149.0,
+2024,Emma Clark Library,16,Librarian I,N,86259.0,
+2024,Emma Clark Library,17,Librarian I,N,95183.0,
+2024,Emma Clark Library,18,Librarian I,N,100149.0,
+2024,Emma Clark Library,19,Librarian I,N,100649.0,
+2024,Emma Clark Library,20,Librarian I,N,70395.0,
+2024,Emma Clark Library,21,Dept Head (Librarian),N,124508.0,
+2024,Emma Clark Library,22,Dept Head (Librarian),N,124008.0,
+2024,Emma Clark Library,23,Dept Head (Librarian),N,87336.0,
+2024,Emma Clark Library,24,PAGE,N,,16.0
+2024,Emma Clark Library,25,PAGE,N,,16.27
+2024,Emma Clark Library,26,PAGE,N,,16.49
+2024,Emma Clark Library,27,PAGE,N,,16.74
+2024,Emma Clark Library,28,PAGE,N,,16.94
+2024,Emma Clark Library,29,CLERK,N,,20.0
+2024,Emma Clark Library,30,CLERK,N,,20.19
+2024,Emma Clark Library,31,CLERK,N,,20.36
+2024,Emma Clark Library,32,CLERK,N,,20.59
+2024,Emma Clark Library,33,CLERK,N,,20.77
+2024,Emma Clark Library,34,LIBRARIAN,N,,34.28
+2024,Emma Clark Library,35,LIBRARIAN,N,,34.46
+2024,Emma Clark Library,36,LIBRARIAN,N,,34.83
+2024,Emma Clark Library,37,LIBRARIAN,N,,35.07
+2024,Emma Clark Library,38,LIBRARIAN,N,,35.35
+2024,Emma Clark Library,39,MARKETING COMMUNICATIONS MGR,N,,34.36
+2024,Emma Clark Library,40,LIBRARY ASST,N,,28.74
+2024,Emma Clark Library,41,CUSTODIAN,N,,17.05
+2024,Emma Clark Library,42,CUSTODIAN,N,,17.61

@@ -1,21 +1,21 @@
-Year,Employee Number,Part Time,Salary,Hourly
-2024,1,N,147310.8,
-2024,2,N,128746.8,
-2024,3,N,88743.2,
-2024,4,N,86431.8,
-2024,5,N,86741.2,
-2024,6,N,72563.4,
-2024,7,N,55091.4,
-2024,8,N,58804.2,
-2024,9,N,,30.27
-2024,10,N,,30.27
-2024,11,N,59404.8,
-2024,12,N,80171.0,
-2024,13,N,68268.2,
-2024,14,N,52288.6,
-2024,15,N,75439.0,
-2024,16,N,44408.0,
-2024,17,N,,24.72
-2024,18,N,,24.3
-2024,19,N,,21.08
-2024,20,N,,16.0
+Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
+2024,South Country,1,director,N,147310.8,
+2024,South Country,2,assistant director,N,128746.8,
+2024,South Country,3,head of childrens,N,88743.2,
+2024,South Country,4,assistant head of reference,N,86431.8,
+2024,South Country,5,head of reference,N,86741.2,
+2024,South Country,6,head of YA,N,72563.4,
+2024,South Country,7,reference lib,N,55091.4,
+2024,South Country,8,reference lib,N,58804.2,
+2024,South Country,9,PT reference lib,N,,30.27
+2024,South Country,10,PT childrens lib,N,,30.27
+2024,South Country,11,childrens lib,N,59404.8,
+2024,South Country,12,patron service dept head,N,80171.0,
+2024,South Country,13,bookkeeper,N,68268.2,
+2024,South Country,14,security,N,52288.6,
+2024,South Country,15,patron service dept head,N,75439.0,
+2024,South Country,16,patron service clerk,N,44408.0,
+2024,South Country,17,newsletter editor,N,,24.72
+2024,South Country,18,maintenance,N,,24.3
+2024,South Country,19,patron services clerk,N,,21.08
+2024,South Country,20,pages ,N,,16.0

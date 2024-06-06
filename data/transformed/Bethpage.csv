@@ -1,42 +1,42 @@
-Year,Employee Number,Part Time,Salary,Hourly
-2024,1,N,87724.0,
-2024,2,Y,,16.0
-2024,3,Y,,24.04
-2024,4,N,50031.0,
-2024,5,Y,,32.82
-2024,6,Y,,23.0
-2024,7,N,149240.0,
-2024,8,Y,,35.11
-2024,9,N,40131.0,
-2024,10,Y,,16.0
-2024,11,N,82373.0,
-2024,12,N,56838.0,
-2024,13,Y,,16.0
-2024,14,Y,,20.2
-2024,15,Y,,30.88
-2024,16,N,37746.0,
-2024,17,N,53344.0,
-2024,18,N,65065.0,
-2024,19,Y,,18.18
-2024,20,Y,,37.52
-2024,21,Y,,24.22
-2024,22,Y,,18.18
-2024,23,Y,,23.23
-2024,24,N,44298.0,
-2024,25,N,68814.0,
-2024,26,N,58258.0,
-2024,27,N,47629.0,
-2024,28,Y,,22.73
-2024,29,N,64318.0,
-2024,30,N,50013.0,
-2024,31,N,80771.0,
-2024,32,Y,,40.22
-2024,33,N,,22.43
-2024,34,Y,,43.65
-2024,35,N,38420.0,
-2024,36,N,52380.0,
-2024,37,N,50013.0,
-2024,38,Y,,23.36
-2024,39,Y,,16.0
-2024,40,Y,,28.08
-2024,41,N,34925.0,
+Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
+2024,Bethpage,1,Librarian III,N,87724.0,
+2024,Bethpage,2,Page,Y,,16.0
+2024,Bethpage,3,Cleaner,Y,,24.04
+2024,Bethpage,4,Illustrator,N,50031.0,
+2024,Bethpage,5,Library Aide,Y,,32.82
+2024,Bethpage,6,Information Technology Aide I,Y,,23.0
+2024,Bethpage,7,Library Director,N,149240.0,
+2024,Bethpage,8,Librarian I,Y,,35.11
+2024,Bethpage,9,Senior Library Clerk,N,40131.0,
+2024,Bethpage,10,Page,Y,,16.0
+2024,Bethpage,11,Librarian II,N,82373.0,
+2024,Bethpage,12,Librarian II,N,56838.0,
+2024,Bethpage,13,Page,Y,,16.0
+2024,Bethpage,14,Cleaner,Y,,20.2
+2024,Bethpage,15,Typist-Clerk,Y,,30.88
+2024,Bethpage,16,Page,N,37746.0,
+2024,Bethpage,17,Account Clerk,N,53344.0,
+2024,Bethpage,18,Principal Library Clerk,N,65065.0,
+2024,Bethpage,19,Typist-Clerk,Y,,18.18
+2024,Bethpage,20,Library Assistant,Y,,37.52
+2024,Bethpage,21,Cleaner,Y,,24.22
+2024,Bethpage,22,Typist-Clerk,Y,,18.18
+2024,Bethpage,23,Librarian Trainee,Y,,23.23
+2024,Bethpage,24,Cleaner,N,44298.0,
+2024,Bethpage,25,Librarian II,N,68814.0,
+2024,Bethpage,26,Librarian II,N,58258.0,
+2024,Bethpage,27,Clerk,N,47629.0,
+2024,Bethpage,28,Cleaner,Y,,22.73
+2024,Bethpage,29,Librarian II,N,64318.0,
+2024,Bethpage,30,Librarian I,N,50013.0,
+2024,Bethpage,31,Librarian II,N,80771.0,
+2024,Bethpage,32,Librarian I,Y,,40.22
+2024,Bethpage,33,Page,N,,22.43
+2024,Bethpage,34,Librarian I,Y,,43.65
+2024,Bethpage,35,Typist-Clerk,N,38420.0,
+2024,Bethpage,36,Librarian I,N,52380.0,
+2024,Bethpage,37,Librarian I,N,50013.0,
+2024,Bethpage,38,Librarian Trainee,Y,,23.36
+2024,Bethpage,39,Page,Y,,16.0
+2024,Bethpage,40,Typist-Clerk,Y,,28.08
+2024,Bethpage,41,Typist-Clerk,N,34925.0,

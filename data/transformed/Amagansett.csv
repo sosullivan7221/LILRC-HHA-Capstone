@@ -1,12 +1,12 @@
-Year,Employee Number,Part Time,Salary,Hourly
-2024,1,N,137651.88,75.63
-2024,2,N,74347.0,40.85
-2024,3,N,54363.4,29.87
-2024,4,N,73054.8,40.14
-2024,5,N,65611.0,36.05
-2024,6,N,50614.2,27.81
-2024,7,Y,,29.07
-2024,8,Y,,20.6
-2024,9,Y,,18.5
-2024,10,Y,,31.9
-2024,11,Y,,16.0
+Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
+2024,Amagansett,1,Director,N,137651.88,75.63
+2024,Amagansett,2,Head of Adult & Teen Services (Adult Dept head),N,74347.0,40.85
+2024,Amagansett,3,Children's Services Coordinator (Library Assistant),N,54363.4,29.87
+2024,Amagansett,4,Head of Circulation,N,73054.8,40.14
+2024,Amagansett,5,Head of Tech Services,N,65611.0,36.05
+2024,Amagansett,6,Clerk,N,50614.2,27.81
+2024,Amagansett,7,Clerk,Y,,29.07
+2024,Amagansett,8,Clerk,Y,,20.6
+2024,Amagansett,9,Clerk,Y,,18.5
+2024,Amagansett,10,Library Assistant (Reference),Y,,31.9
+2024,Amagansett,11,Seasonal Page,Y,,16.0

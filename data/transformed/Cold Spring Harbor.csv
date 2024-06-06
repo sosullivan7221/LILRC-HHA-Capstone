@@ -1,12 +1,12 @@
-Year,Employee Number,Part Time,Salary,Hourly
-2024,2,N,160500.0,
-2024,3,N,89000.0,
-2024,4,N,65000.0,
-2024,5,N,56000.0,
-2024,6,N,,30.0
-2024,7,N,50900.0,
-2024,8,N,40000.0,
-2024,9,N,,18.0
-2024,10,N,79000.0,
-2024,11,N,,20.0
-2024,12,N,,17.0
+Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
+2024,Cold Spring Harbor,2,Director,N,160500.0,
+2024,Cold Spring Harbor,3,Asst. Director,N,89000.0,
+2024,Cold Spring Harbor,4,Librarian Supervisor,N,65000.0,
+2024,Cold Spring Harbor,5,Librarian FT,N,56000.0,
+2024,Cold Spring Harbor,6,Librarian PT,N,,30.0
+2024,Cold Spring Harbor,7,Clerk Supervisor,N,50900.0,
+2024,Cold Spring Harbor,8,Clerk FT,N,40000.0,
+2024,Cold Spring Harbor,9,Clerk PT,N,,18.0
+2024,Cold Spring Harbor,10,Custodian FT,N,79000.0,
+2024,Cold Spring Harbor,11,Custodian PT,N,,20.0
+2024,Cold Spring Harbor,12,Page,N,,17.0
