@@ -27,6 +27,7 @@ def clean_csv(file_path):
         "Hourly Rate (Part-Time)" : "Hourly",
         "part_time" : "Part Time",
         "Part-Time" : "Part Time",
+        "Full/Part Time" : "Part Time",
         "civil_service_title" : "Title (civil servce title for civil service libraries)",
         "other_title" : "Other Title (if different than civil service title)"
         }
@@ -42,9 +43,9 @@ def clean_csv(file_path):
     def convert_PT(value):
         if pd.isna(value):
             return 'N'
-        elif value in ['No,', 'no', 'NO' 'FALSE', 'False', 'false']:
+        elif value in ['No,', 'no', 'NO' 'FALSE', 'False', 'false', 'Full Time']:
             return 'N'
-        elif value in ['Yes', 'yes', 'YES', 'TRUE', 'True', 'true']:
+        elif value in ['Yes', 'yes', 'YES', 'TRUE', 'True', 'true', 'Part Time']:
             return 'Y'
         else:
             return 'N'
