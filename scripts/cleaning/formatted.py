@@ -43,9 +43,9 @@ def clean_csv(file_path):
     def convert_PT(value):
         if pd.isna(value):
             return 'N'
-        elif value in ['No,', 'no', 'NO' 'FALSE', 'False', 'false', 'Full Time']:
+        elif value in ['No,', 'no', 'NO' 'FALSE', 'False', 'false', 'Full Time', 'F/T', 'FT']:
             return 'N'
-        elif value in ['Yes', 'yes', 'YES', 'TRUE', 'True', 'true', 'Part Time']:
+        elif value in ['Yes', 'yes', 'YES', 'TRUE', 'True', 'true', 'Part Time', 'P/T', 'PT', 'x']:
             return 'Y'
         else:
             return 'N'
