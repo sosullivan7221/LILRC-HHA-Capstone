@@ -23,6 +23,7 @@ def clean_csv(file_path):
         "annual_salary" : "Salary",
         "Annual Salary" : "Salary",
         "Hourly Rate" : "Hourly",
+        "Hourly Rate " : "Hourly",
         "hour_rate" : "Hourly",
         "Hourly Rate (Part-Time)" : "Hourly",
         "part_time" : "Part Time",
