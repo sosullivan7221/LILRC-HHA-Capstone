@@ -1,3 +1,5 @@
+###Follows standard Format:
+
 Amagansett - Yes (Y)
 Babylon - No part time column, merged with hourly rate
 Bayshore-Brightwater - slightly irregular format
