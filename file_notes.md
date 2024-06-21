@@ -18,7 +18,6 @@
 
 ### Part time merged w hourly: 
 
-- Babylon - No part time column, merged with hourly rate
 - Hampton Bays - No part time column, merged with hourly rate
 - Longwood - No part time column, merged with hourly rate
 - Lynnbrook - No part time column, merged with hourly rate
@@ -53,3 +52,4 @@
 - Smithtown Professional - ?
 - Unknown Libraries - ?
 - Westhampton - Irregular Format
+- Babylon - Irregular Format
