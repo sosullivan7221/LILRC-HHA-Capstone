@@ -19,13 +19,13 @@
 ### Part time merged w hourly: 
 
 - Hampton Bays - No part time column, merged with hourly rate (Uses ranges)
-- Longwood - No part time column, merged with hourly rate
-- Lynnbrook - No part time column, merged with hourly rate
-- Middle Country - No part time column, merged with hourly rate
-- Oyster Bay-East Norwich - No part time column, merged with hourly rate
-- Wantagh - Didn't use check box
-- Riverhead - No part time column, merged with hourly rate
-- Sachem - Put hourly rate in part time column, 
+- Longwood - No part time column, merged with hourly rate (Y)
+- Lynnbrook - No part time column, merged with hourly rate (Y)
+- Middle Country - No part time column, merged with hourly rate (Y)
+- Oyster Bay-East Norwich - No part time column, merged with hourly rate (Y)
+- Wantagh - Didn't use check box (Y)
+- Riverhead - No part time column, merged with hourly rate (Y)
+- Sachem - Put hourly rate in part time column (Y)
 
 ### check box: 
 
