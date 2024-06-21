@@ -31,10 +31,10 @@
 
 - Deer Park - Didn't use check box
 - Mastics-Moriches-Shirley - Didn't use check box, labeled PT vs FT (Y)
-- North Bellmore - Uses P/T and F/T
+- North Bellmore - Uses P/T and F/T (Y)
 - Peninsula Public Library - Didn't use check box
 - Port Washington - Didn't use check box
-- Rockville Center - Labeled 'PT' in PT column
+- Rockville Center - Labeled 'PT' in PT column (Y)
 - Shelter Island - Yes? No true in part time column
 - Shelter Rock - Used 'x' to label part time
 - West Babylon - Didn't use check box
