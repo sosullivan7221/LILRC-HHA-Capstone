@@ -18,7 +18,7 @@
 
 ### Part time merged w hourly: 
 
-- Hampton Bays - No part time column, merged with hourly rate
+- Hampton Bays - No part time column, merged with hourly rate (Uses ranges)
 - Longwood - No part time column, merged with hourly rate
 - Lynnbrook - No part time column, merged with hourly rate
 - Middle Country - No part time column, merged with hourly rate
@@ -35,8 +35,8 @@
 - Peninsula Public Library - Didn't use check box
 - Port Washington - Didn't use check box
 - Rockville Center - Labeled 'PT' in PT column (Y)
-- Shelter Island - Yes? No true in part time column
-- Shelter Rock - Used 'x' to label part time
+- Shelter Island - Yes? No true in part time column (Y)
+- Shelter Rock - Used 'x' to label part time (Y)
 - West Babylon - Didn't use check box
 - Southhampton (Rogers Memorial) - Yes? No true in part time column
 
