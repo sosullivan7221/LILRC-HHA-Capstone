@@ -18,7 +18,6 @@
 
 ### Part time merged w hourly: 
 
-- Hampton Bays - No part time column, merged with hourly rate (Uses ranges)
 - Longwood - No part time column, merged with hourly rate (Y)
 - Lynnbrook - No part time column, merged with hourly rate (Y)
 - Middle Country - No part time column, merged with hourly rate (Y)
@@ -29,27 +28,28 @@
 
 ### check box: 
 
-- Deer Park - Didn't use check box
+- Deer Park - Didn't use check box (Y)
 - Mastics-Moriches-Shirley - Didn't use check box, labeled PT vs FT (Y)
 - North Bellmore - Uses P/T and F/T (Y)
-- Peninsula Public Library - Didn't use check box
-- Port Washington - Didn't use check box
+- Peninsula Public Library - Didn't use check box (Y)
+- Port Washington - Didn't use check box (Y)
 - Rockville Center - Labeled 'PT' in PT column (Y)
 - Shelter Island - Yes? No true in part time column (Y)
 - Shelter Rock - Used 'x' to label part time (Y)
-- West Babylon - Didn't use check box
-- Southhampton (Rogers Memorial) - Yes? No true in part time column
+- West Babylon - Didn't use check box (Y)
+- Southhampton (Rogers Memorial) - Yes? No true in part time column (Y)
 
 ### Other: 
 - Bayshore-Brightwater - slightly irregular format
-- Bellmore - Made column for full time
-- Connetquot - No part time column, is everyone full time ?
-- Freeport - Labeled everything as part time when they have part time
-- Hauppauge - Uses Ranges for salary and hourly rate
+- Bellmore - Made column for full time (Y)
+- Connetquot - No part time column, is everyone full time (x)
+- Freeport - Labeled everything as part time when they have part time (x)
+- Hauppauge - Uses Ranges for salary and hourly rate (x)
 - Lindenhurst - ?
 - North Babylon - Irregular format
 - Smithtown Non-Professional - ?
 - Smithtown Professional - ?
-- Unknown Libraries - ?
+- Unknown Libraries - ? (x)
 - Westhampton - Irregular Format
 - Babylon - Irregular Format
+- Hampton Bays - No part time column, merged with hourly rate (Uses ranges) (x)

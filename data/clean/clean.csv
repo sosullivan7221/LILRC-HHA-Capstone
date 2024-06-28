@@ -10,844 +10,1132 @@
 8,2024,Amagansett,9,Clerk,Y,,18.5
 9,2024,Amagansett,10,Library Assistant (Reference),Y,,31.9
 10,2024,Amagansett,11,Seasonal Page,Y,,16.0
-11,2024,Bethpage,1,Librarian III,N,87724.0,
-12,2024,Bethpage,2,Page,Y,,16.0
-13,2024,Bethpage,3,Cleaner,Y,,24.04
-14,2024,Bethpage,4,Illustrator,N,50031.0,
-15,2024,Bethpage,5,Library Aide,Y,,32.82
-16,2024,Bethpage,6,Information Technology Aide I,Y,,23.0
-17,2024,Bethpage,7,Library Director,N,149240.0,
-18,2024,Bethpage,8,Librarian I,Y,,35.11
-19,2024,Bethpage,9,Senior Library Clerk,N,40131.0,
-20,2024,Bethpage,10,Page,Y,,16.0
-21,2024,Bethpage,11,Librarian II,N,82373.0,
-22,2024,Bethpage,12,Librarian II,N,56838.0,
-23,2024,Bethpage,13,Page,Y,,16.0
-24,2024,Bethpage,14,Cleaner,Y,,20.2
-25,2024,Bethpage,15,Typist-Clerk,Y,,30.88
-26,2024,Bethpage,16,Page,N,37746.0,
-27,2024,Bethpage,17,Account Clerk,N,53344.0,
-28,2024,Bethpage,18,Principal Library Clerk,N,65065.0,
-29,2024,Bethpage,19,Typist-Clerk,Y,,18.18
-30,2024,Bethpage,20,Library Assistant,Y,,37.52
-31,2024,Bethpage,21,Cleaner,Y,,24.22
-32,2024,Bethpage,22,Typist-Clerk,Y,,18.18
-33,2024,Bethpage,23,Librarian Trainee,Y,,23.23
-34,2024,Bethpage,24,Cleaner,N,44298.0,
-35,2024,Bethpage,25,Librarian II,N,68814.0,
-36,2024,Bethpage,26,Librarian II,N,58258.0,
-37,2024,Bethpage,27,Clerk,N,47629.0,
-38,2024,Bethpage,28,Cleaner,Y,,22.73
-39,2024,Bethpage,29,Librarian II,N,64318.0,
-40,2024,Bethpage,30,Librarian I,N,50013.0,
-41,2024,Bethpage,31,Librarian II,N,80771.0,
-42,2024,Bethpage,32,Librarian I,Y,,40.22
-43,2024,Bethpage,33,Page,N,,22.43
-44,2024,Bethpage,34,Librarian I,Y,,43.65
-45,2024,Bethpage,35,Typist-Clerk,N,38420.0,
-46,2024,Bethpage,36,Librarian I,N,52380.0,
-47,2024,Bethpage,37,Librarian I,N,50013.0,
-48,2024,Bethpage,38,Librarian Trainee,Y,,23.36
-49,2024,Bethpage,39,Page,Y,,16.0
-50,2024,Bethpage,40,Typist-Clerk,Y,,28.08
-51,2024,Bethpage,41,Typist-Clerk,N,34925.0,
-52,2024,Bridgehampton,1,Circulation clerk/ILL,N,43917.0,
-53,2024,Bridgehampton,2,Circulation / Children's Room clerk,N,34689.0,
-54,2024,Bridgehampton,3,Circulation clerk,N,20760.0,22.18
-55,2024,Bridgehampton,4,Circulation clerk,N,14119.0,16.97
-56,2024,Bridgehampton,5,Circulation clerk,N,13312.0,16.0
-57,2024,Bridgehampton,6,Circulation clerk,N,18720.0,20.0
-58,2024,Bridgehampton,7,Circulation clerk,N,26473.0,16.97
-59,2024,Bridgehampton,8,Head of Circulation,N,42603.0,29.26
-60,2024,Bridgehampton,9,Reference Librarian,N,12744.0,35.01
-61,2024,Bridgehampton,10,Reference Librarian,N,61862.0,
-62,2024,Bridgehampton,11,Reference Librarian,N,44616.0,33.0
-63,2024,Bridgehampton,12,Business Manager,N,84630.0,
-64,2024,Bridgehampton,13,Children's Librarian,N,60060.0,
-65,2024,Bridgehampton,14,Children's Librarian,N,63718.0,
-66,2024,Bridgehampton,15,Young Adult Librarian,N,61862.0,
-67,2024,Bridgehampton,16,Head of Youth Services,N,75421.0,
-68,2024,Bridgehampton,17,Head of Technical Services,N,50960.0,
-69,2024,Bridgehampton,18,Custodian,N,10816.0,20.8
-70,2024,Bridgehampton,19,Page,N,6843.0,16.45
-71,2024,Bridgehampton,20,Executive Director,N,135000.0,
-72,2024,Cold Spring Harbor,2,Director,N,160500.0,
-73,2024,Cold Spring Harbor,3,Asst. Director,N,89000.0,
-74,2024,Cold Spring Harbor,4,Librarian Supervisor,N,65000.0,
-75,2024,Cold Spring Harbor,5,Librarian FT,N,56000.0,
-76,2024,Cold Spring Harbor,6,Librarian PT,Y,,30.0
-77,2024,Cold Spring Harbor,7,Clerk Supervisor,N,50900.0,
-78,2024,Cold Spring Harbor,8,Clerk FT,N,40000.0,
-79,2024,Cold Spring Harbor,9,Clerk PT,Y,,18.0
-80,2024,Cold Spring Harbor,10,Custodian FT,N,79000.0,
-81,2024,Cold Spring Harbor,11,Custodian PT,Y,,20.0
-82,2024,Cold Spring Harbor,12,Page,Y,,17.0
-83,2024,Copiague,2,Library Director,N,166210.0,
-84,2024,Copiague,4,Bus. Mgr. II,N,164895.0,
-85,2024,Copiague,6,Libn. III,N,109162.0,
-86,2024,Copiague,7,Libn. III,N,102231.0,
-87,2024,Copiague,8,Libn. III,N,87205.0,
-88,2024,Copiague,9,Libn. I,N,87373.0,
-89,2024,Copiague,10,Libn. I,N,72522.0,
-90,2024,Copiague,11,Libn. I,N,72522.0,
-91,2024,Copiague,12,Libn. I,N,71594.0,
-92,2024,Copiague,14,Libn. Trainee,N,66601.0,
-93,2024,Copiague,16,Libn. I  P/T,N,,37.39
-94,2024,Copiague,17,Libn. I  P/T,N,,37.39
-95,2024,Copiague,19,Library Asst.,N,69819.0,
-96,2024,Copiague,21,Sr. Acct. Clerk,N,88720.0,
-97,2024,Copiague,22,Sr. Acct. Clerk,N,75830.0,
-98,2024,Copiague,24,Prin. Lib. Clerk,N,60091.0,
-99,2024,Copiague,26,Sr. Lib. Clerk ,N,52877.0,
-100,2024,Copiague,27,Sr. Lib. Clerk ,N,52877.0,
-101,2024,Copiague,29,Library Clerk,N,51758.0,
-102,2024,Copiague,30,Library Clerk,N,48573.0,
-103,2024,Copiague,32,Office Assistant,N,51758.0,
-104,2024,Copiague,34,Lib. Clerk P/T,N,,19.53
-105,2024,Copiague,35,Lib. Clerk P/T,N,,20.75
-106,2024,Copiague,36,Lib. Clerk P/T,N,,19.09
-107,2024,Copiague,37,Lib. Clerk P/T,N,,20.75
-108,2024,Copiague,38,Lib. Clerk P/T,N,,20.41
-109,2024,Copiague,39,Lib. Clerk P/T,N,,25.82
-110,2024,Copiague,40,Lib. Clerk P/T,N,,19.09
-111,2024,Copiague,41,Lib. Clerk P/T,N,,27.12
-112,2024,Copiague,43,Network Sys.Ad.,N,103795.0,
-113,2024,Copiague,44,Network & Sys Tech.,N,80652.0,
-114,2024,Copiague,46,Network & Sys Tech.P/T,N,,28.85
-115,2024,Copiague,48,Page P/T,N,,20.5
-116,2024,Copiague,49,Page P/T,N,,18.03
-117,2024,Copiague,51,Cust. Wkr. II F/T,N,61298.0,
-118,2024,Copiague,52,Cust. Wkr. II F/T,N,61298.0,
-119,2024,Copiague,53,Cust. Wkr. I  F/T,N,46756.0,
-120,2024,Copiague,55,Treasurer,N,13850.0,
-121,2024,East Islip,1,Clerk,N,52353.86,
-122,2024,East Islip,2,FT - Library Clerk,N,59506.46,
-123,2024,East Islip,3,FT - Principal Clerk,N,65147.16,
-124,2024,East Islip,4,FT Clerk Typist,N,54876.12,
-125,2024,East Islip,5,FT Librarian I,N,82421.3,
-126,2024,East Islip,6,FT Librarian I,N,62677.67999999999,
-127,2024,East Islip,7,FT Librarian Ii,N,92532.44,
-128,2024,East Islip,8,FT Librarian Ii,N,96404.36,
-129,2024,East Islip,9,FT Librarian Ii,N,86298.94,
-130,2024,East Islip,10,FT Librarian Iii,N,89989.90000000001,
-131,2024,East Islip,11,FT Librarian Iii,N,89649.04,
-132,2024,East Islip,12,FT Library Clerk,N,57773.82000000001,
-133,2024,East Islip,13,FT Library Clerk,N,57745.48,
-134,2024,East Islip,14,Account Clerk,N,22683.7312,27.2641
-135,2024,East Islip,15,Custodial Worker I,N,5505.76,26.47
-136,2024,East Islip,16,Custodial Worker I,N,22360.0,21.5
-137,2024,East Islip,17,Custodian I,N,15805.919999999998,25.33
-138,2024,East Islip,18,Custodian I,N,4209.92,20.24
-139,2024,East Islip,19,Page,N,16956.16,20.38
-140,2024,East Islip,20,Page,N,6240.0,15.0
-141,2024,East Islip,21,Page,N,15749.76,18.93
-142,2024,East Islip,22,Page,N,8190.0,15.0
-143,2024,East Islip,23,Page,N,8580.0,15.0
-144,2024,East Islip,24,Page,N,8580.0,15.0
-145,2024,East Islip,25,Page,N,12920.96,15.53
-146,2024,East Islip,26,Page,N,8356.4,16.07
-147,2024,East Islip,27,Page,N,8356.4,16.07
-148,2024,East Islip,28,Page,N,12717.12,20.38
-149,2024,East Islip,29,Page,N,8356.4,16.07
-150,2024,East Islip,30,Page,N,7800.0,15.0
-151,2024,East Islip,31,Page,N,7800.0,15.0
-152,2024,East Islip,32,PT Clerk,N,24087.7,26.47
-153,2024,East Islip,33,PT Clerk,N,24087.7,26.47
-154,2024,East Islip,34,PT Clerk,N,13888.679999999998,18.42
-155,2024,East Islip,35,PT Librarian I,N,6938.88,33.36
-156,2024,East Islip,36,PT Librarian I,N,6805.76,32.72
-157,2024,East Islip,37,PT Librarian I,N,6805.76,32.72
-158,2024,East Islip,38,PT Librarian I,N,5955.04,32.72
-159,2024,East Islip,39,PT Librarian I,N,7977.060000000001,34.09
-160,2024,East Islip,40,PT Librarian I,N,8160.88,33.04
-161,2024,East Islip,41,PT Librarian I,N,18853.12,45.32
-162,2024,East Islip,42,PT Librarian I,N,2977.52,32.72
-163,2024,East Islip,43,PT Librarian I,N,2977.52,32.72
-164,2024,East Islip,44,PT Librarian I (Cs),N,9174.88,44.11
-165,2024,East Islip,45,PT Librarian I (Cs),N,14538.419999999998,29.43
-166,2024,East Islip,46,PT Librarian Ii,N,8243.04,39.63
-167,2024,East Islip,47,PT Library Clerk,N,24087.7,26.47
-168,2024,East Islip,48,PT Library Clerk,N,34246.16,25.33
-169,2024,East Islip,49,PT Library Clerk,N,24087.7,26.47
-170,2024,East Islip,50,PT Library Clerk,N,16607.5,18.25
-171,2024,East Islip,51,PT Library Clerk,N,7117.5,18.25
-172,2024,East Islip,52,PT Library Clerk,N,11068.98,18.51
-173,2024,East Islip,53,PT Library Clerk,N,6592.56,21.13
-174,2024,East Islip,54,PT Library Clerk,N,10831.6,20.83
-175,2024,East Islip,55,PT Library Clerk,N,10667.8,18.65
-176,2024,East Islip,56,PT Network/Sys.Special,N,27902.160000000003,32.52
-177,2024,Emma Clark Library,1,Clerk I,N,42484.0,
-178,2024,Emma Clark Library,2,Clerk I,N,40219.0,
-179,2024,Emma Clark Library,3,Clerk I,N,40219.0,
-180,2024,Emma Clark Library,4,Clerk II,N,49359.0,
-181,2024,Emma Clark Library,5,Clerk II,N,67812.0,
-182,2024,Emma Clark Library,6,Dept Supervisor,N,72982.0,
-183,2024,Emma Clark Library,7,Dept Supervisor,N,89931.0,
-184,2024,Emma Clark Library,8,Business Mgr,N,87931.0,
-185,2024,Emma Clark Library,9,Payroll & Human Resources Mgr,N,86172.0,
-186,2024,Emma Clark Library,10,Building Mgr,N,87931.0,
-187,2024,Emma Clark Library,11,Mgr Technology Systems & Services,N,123008.0,
-188,2024,Emma Clark Library,12,Librarian I,N,99149.0,
-189,2024,Emma Clark Library,13,Librarian I,N,100149.0,
-190,2024,Emma Clark Library,14,Librarian I,N,101149.0,
-191,2024,Emma Clark Library,15,Librarian I,N,99149.0,
-192,2024,Emma Clark Library,16,Librarian I,N,86259.0,
-193,2024,Emma Clark Library,17,Librarian I,N,95183.0,
-194,2024,Emma Clark Library,18,Librarian I,N,100149.0,
-195,2024,Emma Clark Library,19,Librarian I,N,100649.0,
-196,2024,Emma Clark Library,20,Librarian I,N,70395.0,
-197,2024,Emma Clark Library,21,Dept Head (Librarian),N,124508.0,
-198,2024,Emma Clark Library,22,Dept Head (Librarian),N,124008.0,
-199,2024,Emma Clark Library,23,Dept Head (Librarian),N,87336.0,
-200,2024,Emma Clark Library,24,PAGE,N,,16.0
-201,2024,Emma Clark Library,25,PAGE,N,,16.27
-202,2024,Emma Clark Library,26,PAGE,N,,16.49
-203,2024,Emma Clark Library,27,PAGE,N,,16.74
-204,2024,Emma Clark Library,28,PAGE,N,,16.94
-205,2024,Emma Clark Library,29,CLERK,N,,20.0
-206,2024,Emma Clark Library,30,CLERK,N,,20.19
-207,2024,Emma Clark Library,31,CLERK,N,,20.36
-208,2024,Emma Clark Library,32,CLERK,N,,20.59
-209,2024,Emma Clark Library,33,CLERK,N,,20.77
-210,2024,Emma Clark Library,34,LIBRARIAN,N,,34.28
-211,2024,Emma Clark Library,35,LIBRARIAN,N,,34.46
-212,2024,Emma Clark Library,36,LIBRARIAN,N,,34.83
-213,2024,Emma Clark Library,37,LIBRARIAN,N,,35.07
-214,2024,Emma Clark Library,38,LIBRARIAN,N,,35.35
-215,2024,Emma Clark Library,39,MARKETING COMMUNICATIONS MGR,N,,34.36
-216,2024,Emma Clark Library,40,LIBRARY ASST,N,,28.74
-217,2024,Emma Clark Library,41,CUSTODIAN,N,,17.05
-218,2024,Emma Clark Library,42,CUSTODIAN,N,,17.61
-219,2024,Island Park,1,LIBRARIAN I,N,52780.0,
-220,2024,Island Park,2,LIBRARIAN I PART-TIME SUBSTITUTE,N,,22.0
-221,2024,Island Park,3,TREASURER PART-TIME,N,,55.0
-222,2024,Island Park,4,LIBRARIAN 1 PART-TIME,N,,26.25
-223,2024,Island Park,5,LIBRARY DIRECTOR,N,123622.0,
-224,2024,Island Park,6,"ACCOUNT CLERK, PART-TIME",N,,55.0
-225,2024,Island Park,7,"LIBRARIAN 1, PART-TIME",N,,24.0
-226,2024,Island Park,8,ASSISTANT LIBRARY DIRECTOR,N,77003.0,
-227,2024,Island Park,9,LIBRARIAN I PART-TIME,N,,27.05
-228,2024,Island Park,10,LIBRARIAN I PART-TIME,N,,26.25
-229,2024,Island Park,11,SENIOR LIBRARY CLERK,N,,20.75
-230,2024,Island Park,12,TYPIST CLERK PART-TIME,N,,16.5
-231,2024,Island Park,13,SECRETARY TO THE LIBRARY BOARD,N,,25.0
-232,2024,Island Park,14,TYPIST CLERK PART-TIME,N,,18.0
-233,2024,Island Park,15,PRINCIPAL LIBRARY CLERK,N,61370.0,
-234,2024,Island Park,16,LIBRARY AIDE,N,39694.0,
-235,2024,Island Park,17,LIBRARY AIDE PART-TIME,N,,21.3
-236,2024,Island Park,18,TYPIST CLERK PART-TIME,N,,16.75
-237,2024,Island Park,19,SENIOR LIBRARY CLERK,N,,20.75
-238,2024,Island Park,20,PAGE PART-TIME,N,,16.0
-239,2024,Island Park,21,CLEANER,N,,18.65
-240,2024,Island Park,22,CLEANER PART-TIME SUBSTITUTE,N,,16.0
-241,2024,Island Park,23,CUSTODIAN,N,47775.0,
-242,2024,Island Park,24,CLEANER,N,,17.0
-243,2024,Longwood,1,HEAD CUSTODIAN,N,59017.0,
-244,2024,Longwood,2,LIBRARIAN I,N,57769.0,
-245,2024,Longwood,3,LIBRARIAN II,N,75031.0,
-246,2024,Longwood,4,LIBRARIAN II,N,71178.0,
-247,2024,Longwood,5,LIBRARIAN III,N,91827.0,
-248,2024,Longwood,6,CUSTODIAL WORKER I,N,38855.0,
-249,2024,Longwood,7,LIBRARIAN I-CHILDRENS SERVICES,N,60875.0,
-250,2024,Longwood,8,LIBRARY CLERK,N,56803.0,
-251,2024,Longwood,9,LIBRARIAN III,N,111205.0,
-252,2024,Longwood,10,LIBRARY CLERK,N,49782.0,
-253,2024,Longwood,11,BUSINESS MANAGER,N,81300.0,
-254,2024,Longwood,12,CUSTODIAL WORKER II,N,41841.0,
-255,2024,Longwood,13,ASSISTANT LIBRARY DIRECTOR,N,120612.0,
-256,2024,Longwood,14,SENIOR LIBRARY CLERK,N,56768.0,
-257,2024,Longwood,15,LIBRARY DIRECTOR,N,164194.56,
-258,2024,Longwood,16,LIBRARIAN I-CHILDRENS SERVICES,N,57769.0,
-259,2024,Longwood,17,LIBRARY CLERK,N,34928.0,
-260,2024,Longwood,18,LIBRARIAN II,N,85633.0,
-261,2024,Longwood,19,LIBRARIAN III ,N,103467.0,
-262,2024,Longwood,20,LIBRARIAN III,N,111205.0,
-263,2024,Longwood,21,NETWORK & SYSTEMS SPECIALIST I,N,92137.0,
-264,2024,Longwood,22,LIBRARIAN II,N,79100.0,
-265,2024,Longwood,23,SENIOR ACCOUNT CLERK TYPIST,N,42364.0,
-266,2024,Longwood,24,LIBRARIAN II,N,64071.0,
-267,2024,Longwood,25,LIBRARY CLERK,N,35833.0,
-268,2024,Longwood,26,LIBRARIAN I,N,57769.0,
-269,2024,Longwood,27,LOCAL HISTORY,N,59302.0,
-270,2024,Longwood,28,LIBRARIAN II,N,100954.0,
-271,2024,Longwood,29,LIBRARIAN I-CHILDRENS SERVICES,N,59302.0,
-272,2024,Longwood,30,LIBRARIAN II,N,71178.0,
-273,2024,Longwood,31,OFFICE ASSISTANT,N,53411.0,
-274,2024,Longwood,32,SENIOR LIBRARY CLERK,N,60944.0,
-275,2024,Longwood,33,LIBRARY CLERK,N,36760.0,
-276,2024,Longwood,34,PRINCIPAL LIBRARY CLERK,N,76731.0,
-277,2024,Longwood,35,LIBRARIAN III,N,89425.0,
-278,2024,Longwood,36,LIBRARY CLERK,N,37716.0,
-279,2024,Longwood,37,LIBRARIAN I,N,90907.0,
-280,2024,Longwood,38,LIBRARIAN I,N,62494.0,
-281,2024,Longwood,39,LIBRARIAN I-CHILDRENS SERVICES,Y,,26.0
-282,2024,Longwood,40,LIBRARY CLERK,Y,,20.04
-283,2024,Longwood,41,LIBRARY CLERK,Y,,18.25
-284,2024,Longwood,42,PAGE,Y,,15.97
-285,2024,Longwood,43,LIBRARY CLERK,Y,,24.77
-286,2024,Longwood,44,CUSTODIAL WORKER I,Y,,19.31
-287,2024,Longwood,45,LIBRARIAN I,Y,,42.51
-288,2024,Longwood,46,LIBRARY CLERK,Y,,24.77
-289,2024,Longwood,47,LIBRARY CLERK,Y,,27.63
-290,2024,Longwood,48,GUARD,Y,,28.37
-291,2024,Longwood,49,LIBRARIAN I,Y,,52.02
-292,2024,Longwood,50,LIBRARIAN I-CHILDRENS SERVICES,Y,,26.0
-293,2024,Longwood,51,LIBRARY CLERK,Y,,25.06
-294,2024,Longwood,52,PAGE,Y,,17.12
-295,2024,Longwood,53,PAGE,Y,,15.97
-296,2024,Longwood,54,PAGE,Y,,15.97
-297,2024,Longwood,55,LIBRARY CLERK,Y,,20.61
-298,2024,Longwood,56,LIBRARY CLERK,Y,,29.24
-299,2024,Longwood,57,TECHNICAL SUPPORT AIDE,Y,,22.0
-300,2024,Longwood,58,PAGE,Y,,15.5
-301,2024,Longwood,59,LIBRARY CLERK,Y,,21.72
-302,2024,Longwood,60,PAGE,Y,,16.43
-303,2024,Longwood,61,GUARD,Y,,29.98
-304,2024,Longwood,62,LIBRARIAN I,Y,,38.73
-305,2024,Longwood,63,SENIOR ACCOUNT CLERK TYPIST,Y,,24.54
-306,2024,Longwood,64,LIBRARY CLERK,Y,,18.8
-307,2024,Longwood,65,GUARD,Y,,25.5
-308,2024,Longwood,66,PAGE,Y,,15.97
-309,2024,Longwood,67,LIBRARIAN TRAINEE,Y,,26.78
-310,2024,Longwood,68,PAGE,Y,,16.43
-311,2024,Longwood,69,LIBRARIAN I-CHILDRENS SERVICES,Y,,29.87
-312,2024,Longwood,70,LIBRARIAN I,Y,,39.06
-313,2024,Longwood,71,LIBRARY CLERK,Y,,19.49
-314,2024,Longwood,72,LIBRARIAN I,Y,,26.0
-315,2024,Longwood,73,LIBRARIAN I,Y,,26.78
-316,2024,Longwood,74,LIBRARIAN TRAINEE,Y,,26.0
-317,2024,Longwood,75,LIBRARIAN I,Y,,47.32
-318,2024,Longwood,76,GRAPHIC MATERIALS DESIGNER,Y,,29.73
-319,2024,Longwood,77,LIBRARIAN I,Y,,32.72
-320,2024,Longwood,78,PAGE,Y,,16.43
-321,2024,Longwood,79,PAGE,Y,,16.83
-322,2024,Longwood,80,LIBRARY CLERK,Y,,21.16
-323,2024,Longwood,81,LIBRARIAN I,Y,,31.01
-324,2024,Longwood,82,LIBRARY CLERK,Y,,20.04
-325,2024,Longwood,83,LIBRARIAN I,Y,,26.0
-326,2024,Longwood,84,LIBRARIAN TRAINEE,Y,,27.57
-327,2024,Longwood,85,LIBRARY CLERK,Y,,18.8
-328,2024,Longwood,86,LIBRARY CLERK,Y,,19.34
-329,2024,Longwood,87,TECHNICAL SUPPORT AIDE,Y,,25.98
-330,2024,Longwood,88,PAGE,Y,,16.43
-331,2024,Longwood,89,LIBRARY CLERK,Y,,19.49
-332,2024,Longwood,90,PAGE,Y,,15.5
-333,2024,Longwood,91,LIBRARIAN I,Y,,30.76
-334,2024,Longwood,92,LIBRARY CLERK,Y,,18.8
-335,2024,Longwood,93,LIBRARY CLERK,Y,,19.34
-336,2024,Longwood,94,LIBRARY CLERK,Y,,18.8
-337,2024,Longwood,95,LIBRARIAN I,Y,,46.45
-338,2024,Longwood,96,LIBRARIAN I,Y,,35.8
-339,2024,Longwood,97,LIBRARY CLERK,Y,,19.34
-340,2024,Longwood,98,LIBRARY CLERK,Y,,30.22
-341,2024,Longwood,99,LOCAL HISTORY,Y,,46.43
-342,2024,Longwood,100,LIBRARIAN I,Y,,44.63
-343,2024,Longwood,101,LIBRARY CLERK,Y,,26.01
-344,2024,Longwood,102,LIBRARIAN I,Y,,46.45
-345,2024,Longwood,103,LIBRARIAN I,Y,,48.22
-346,2024,Longwood,104,PAGE,Y,,16.54
-347,2024,Longwood,105,LIBRARIAN I,Y,,29.87
-348,2024,Longwood,106,LIBRARIAN I,Y,,31.82
-349,2024,Longwood,107,PAGE,Y,,18.44
-350,2024,Longwood,108,PAGE,Y,,16.43
-351,2024,Longwood,109,LIBRARIAN I,Y,,30.76
-352,2024,Longwood,110,LIBRARY CLERK,Y,,19.34
-353,2024,Longwood,111,PAGE,Y,,15.97
-354,2024,Longwood,112,PAGE,Y,,16.43
-355,2024,Longwood,113,PAGE,Y,,16.43
-356,2024,Longwood,114,LIBRARY CLERK,Y,,27.96
-357,2024,Longwood,115,GUARD,Y,,26.27
-358,2024,Longwood,116,PAGE,Y,,18.74
-359,2024,Longwood,117,LIBRARY CLERK,Y,,32.28
-360,2024,Lynnbrook,2,CLEANER,N,56536.19,
-361,2024,Lynnbrook,3,CLEANER (PART-TIME),Y,,18.0
-362,2024,Lynnbrook,4,TYPIST-CLERK (PART-TIME),Y,,18.75
-363,2024,Lynnbrook,5,TYPIST-CLERK (PART-TIME),Y,,18.5
-364,2024,Lynnbrook,6,TYPIST-CLERK (PART-TIME),Y,,26.7859
-365,2024,Lynnbrook,7,TYPIST-CLERK (PART-TIME),Y,,26.0057
-366,2024,Lynnbrook,8,TYPIST-CLERK (PART-TIME),Y,,18.0
-367,2024,Lynnbrook,9,TYPIST-CLERK (PART-TIME),Y,,18.0
-368,2024,Lynnbrook,10,TYPIST-CLERK,N,48562.61,
-369,2024,Lynnbrook,11,TYPIST-CLERK,N,47597.68,
-370,2024,Lynnbrook,12,TYPIST-CLERK,N,69405.38,
-371,2024,Lynnbrook,13,ACCOUNT CLERK,N,66567.39,
-372,2024,Lynnbrook,14,PAGE (PART-TIME),Y,,21.0297
-373,2024,Lynnbrook,15,PAGE (PART-TIME),Y,,17.262
-374,2024,Lynnbrook,16,PAGE (PART-TIME),Y,,16.75
-375,2024,Lynnbrook,17,PAGE (PART-TIME),Y,,16.0
-376,2024,Lynnbrook,18,PAGE (PART-TIME),Y,,16.75
-377,2024,Lynnbrook,19,PAGE (SEASONAL WORKER),Y,,16.75
-378,2024,Lynnbrook,20,PAGE (SEASONAL WORKER),Y,,16.75
-379,2024,Lynnbrook,21,LIBRARIAN I (PART-TIME),Y,,28.1484
-380,2024,Lynnbrook,22,LIBRARIAN I (PART-TIME),Y,,25.3876
-381,2024,Lynnbrook,23,LIBRARIAN I (PART-TIME),Y,,25.6444
-382,2024,Lynnbrook,24,LIBRARIAN I,N,65948.43,
-383,2024,Lynnbrook,25,LIBRARIAN I,N,56536.19,
-384,2024,Lynnbrook,26,LIBRARIAN II,N,95466.83,
-385,2024,Lynnbrook,27,ASSISTANT LIBRARY DIRECTOR,N,102262.31,
-386,2024,Lynnbrook,28,LIBRARY DIRECTOR,N,166230.02,
-387,2024,Mastics-Moriches-Shirley,1,ACCOUNT CLERK TYPIST,N,47187.66,
-388,2024,Mastics-Moriches-Shirley,2,ASSISTANT DIRECTOR,N,125047.52,
-389,2024,Mastics-Moriches-Shirley,3,BUSINESS MANAGER II,N,132698.02,
-390,2024,Mastics-Moriches-Shirley,4,COMMUNITY SERV AIDE,Y,,16.0
-391,2024,Mastics-Moriches-Shirley,5,COMPUTER TECHNICIAN,Y,,20.31
-392,2024,Mastics-Moriches-Shirley,6,CUSTODIAL WORKER I,Y,,16.0
-393,2024,Mastics-Moriches-Shirley,7,CUSTODIAL WORKER I,Y,,18.39
-394,2024,Mastics-Moriches-Shirley,8,CUSTODIAL WORKER I,Y,,26.54
-395,2024,Mastics-Moriches-Shirley,9,CUSTODIAL WORKER II,N,43477.2,
-396,2024,Mastics-Moriches-Shirley,10,CUSTODIAL WORKER III,N,58000.0,
-397,2024,Mastics-Moriches-Shirley,11,CUSTODIAL WORKER III,N,64479.22,
-398,2024,Mastics-Moriches-Shirley,12,GUARD,Y,,21.5
-399,2024,Mastics-Moriches-Shirley,13,GUARD,Y,,22.02
-400,2024,Mastics-Moriches-Shirley,14,GUARD,Y,,22.09
-401,2024,Mastics-Moriches-Shirley,15,GUARD,Y,,22.18
-402,2024,Mastics-Moriches-Shirley,16,GUARD,Y,,23.31
-403,2024,Mastics-Moriches-Shirley,17,GUARD,Y,,23.77
-404,2024,Mastics-Moriches-Shirley,18,GUARD,Y,,25.22
-405,2024,Mastics-Moriches-Shirley,19,LIB I CHILDRENS SERV,N,59730.58,
-406,2024,Mastics-Moriches-Shirley,20,LIB I CHILDRENS SERV,Y,,24.72
-407,2024,Mastics-Moriches-Shirley,21,LIB I CHILDRENS SERV,Y,,25.92
-408,2024,Mastics-Moriches-Shirley,22,LIB I CHILDRENS SERV,Y,,29.85
-409,2024,Mastics-Moriches-Shirley,23,LIB I CHILDRENS SERV,Y,,38.84
-410,2024,Mastics-Moriches-Shirley,24,LIBRARIAN I,N,53207.44,
-411,2024,Mastics-Moriches-Shirley,25,LIBRARIAN I,N,54483.78,
-412,2024,Mastics-Moriches-Shirley,26,LIBRARIAN I,N,72677.54,
-413,2024,Mastics-Moriches-Shirley,27,LIBRARIAN I,Y,,22.25
-414,2024,Mastics-Moriches-Shirley,28,LIBRARIAN I,Y,,24.72
-415,2024,Mastics-Moriches-Shirley,29,LIBRARIAN I,Y,,25.31
-416,2024,Mastics-Moriches-Shirley,30,LIBRARIAN I,Y,,26.54
-417,2024,Mastics-Moriches-Shirley,31,LIBRARIAN I,Y,,29.85
-418,2024,Mastics-Moriches-Shirley,32,LIBRARIAN I,Y,,31.68
-419,2024,Mastics-Moriches-Shirley,33,LIBRARIAN I,Y,,37.57
-420,2024,Mastics-Moriches-Shirley,34,LIBRARIAN I,Y,,58.62
-421,2024,Mastics-Moriches-Shirley,35,LIBRARIAN II,N,59961.46,
-422,2024,Mastics-Moriches-Shirley,36,LIBRARIAN II,N,70772.52,
-423,2024,Mastics-Moriches-Shirley,37,LIBRARIAN II,N,75372.7,
-424,2024,Mastics-Moriches-Shirley,38,LIBRARIAN II,N,81050.32,
-425,2024,Mastics-Moriches-Shirley,39,LIBRARIAN II,N,83923.84,
-426,2024,Mastics-Moriches-Shirley,40,LIBRARIAN II,N,103077.78,
-427,2024,Mastics-Moriches-Shirley,41,LIBRARIAN III,N,84557.2,
-428,2024,Mastics-Moriches-Shirley,42,LIBRARIAN III,N,90172.94,
-429,2024,Mastics-Moriches-Shirley,43,LIBRARIAN III,N,93639.52,
-430,2024,Mastics-Moriches-Shirley,44,LIBRARIAN III,N,95810.0,
-431,2024,Mastics-Moriches-Shirley,45,LIBRARIAN III,N,114135.06,
-432,2024,Mastics-Moriches-Shirley,46,LIBRARIAN TRAINEE,N,47902.66,
-433,2024,Mastics-Moriches-Shirley,47,LIBRARIAN TRAINEE,Y,,22.25
-434,2024,Mastics-Moriches-Shirley,48,LIBRARY ASSISTANT,Y,,23.54
-435,2024,Mastics-Moriches-Shirley,49,LIBRARY ASSISTANT,N,46524.92,
-436,2024,Mastics-Moriches-Shirley,50,LIBRARY ASSISTANT,Y,,18.16
-437,2024,Mastics-Moriches-Shirley,51,LIBRARY ASSISTANT,Y,,26.76
-438,2024,Mastics-Moriches-Shirley,52,LIBRARY CLERK,N,31893.42,
-439,2024,Mastics-Moriches-Shirley,53,LIBRARY CLERK,N,32658.86,
-440,2024,Mastics-Moriches-Shirley,54,LIBRARY CLERK,Y,,16.0
-441,2024,Mastics-Moriches-Shirley,55,LIBRARY CLERK,Y,,17.15
-442,2024,Mastics-Moriches-Shirley,56,LIBRARY CLERK,Y,,20.48
-443,2024,Mastics-Moriches-Shirley,57,LIBRARY CLERK SS,N,38716.6,
-444,2024,Mastics-Moriches-Shirley,58,LIBRARY CLERK SS,Y,,16.0
-445,2024,Mastics-Moriches-Shirley,59,LIBRARY DIRECTOR,N,193687.0,
-446,2024,Mastics-Moriches-Shirley,60,LIT VOL PROG ASST SS,N,35394.84,
-447,2024,Mastics-Moriches-Shirley,61,LIT VOL PROG CO ORD,N,88404.68,
-448,2024,Mastics-Moriches-Shirley,62,NETWRK   SYSTEMS TEC,N,111616.18,
-449,2024,Mastics-Moriches-Shirley,63,PAGE,Y,,16.0
-450,2024,Mastics-Moriches-Shirley,64,PAGE,N,29120.0,
-451,2024,Mastics-Moriches-Shirley,65,PRINCIPAL ACCOUNT CLERK,N,59000.0,
-452,2024,Mastics-Moriches-Shirley,66,PRINCIPAL LIB CLERK,N,62914.28,
-453,2024,Mastics-Moriches-Shirley,67,PUBLIC RELATIONS SPC,N,58626.62,
-454,2024,Mastics-Moriches-Shirley,68,SENIOR LIBRARY CLERK,N,47347.82,
-455,2024,Mastics-Moriches-Shirley,69,SR ACCOUNT CLERK TYP,N,70938.14,
-456,2024,Mastics-Moriches-Shirley,70,WEBSITE MANAGER,Y,,48.73
-457,2024,Mattituck-Laurel,1,Executive Director,N,100000.0,
-458,2024,Mattituck-Laurel,2,Librarian (Head of Youth & Parenting),N,83400.0,
-459,2024,Mattituck-Laurel,3,Librarian (Head of Adult Services),N,61000.0,
-460,2024,Mattituck-Laurel,4,Librarian (Teen Services),N,53000.0,
-461,2024,Mattituck-Laurel,5,Library Assistant,N,,32.0
-462,2024,Mattituck-Laurel,6,Social Media Marketing & Technology Coordinator,N,52000.0,
-463,2024,Mattituck-Laurel,7,Library Clerk,N,,17.5
-464,2024,Mattituck-Laurel,8,Senior Library Clerk,N,,22.81
-465,2024,Mattituck-Laurel,9,Head Library Clerk,N,38000.0,
-466,2024,Mattituck-Laurel,10,Tech Services,N,42000.0,
-467,2024,Mattituck-Laurel,11,Custodian,N,,21.0
-468,2024,Mattituck-Laurel,12,Readers Advisor,N,58600.0,
-469,2024,Mattituck-Laurel,13,Bookkeeper,N,,21.22
-470,2024,Middle Country,1,Library Clerk,N,39216.0,
-471,2024,Middle Country,2,Senior Library Clerk,N,45398.0,
-472,2024,Middle Country,3,Custodial Worker I,N,43235.0,
-473,2024,Middle Country,4,Custodial Worker II,N,52553.0,
-474,2024,Middle Country,5,Network and Systems Technician I ,N,57940.0,
-475,2024,Middle Country,6,Principal Library Clerk,N,63879.0,
-476,2024,Middle Country,7,Administrative Assistant,N,81528.0,
-477,2024,Middle Country,8,Custodial Worker III,N,81528.0,
-478,2024,Middle Country,9,Library Assistant,N,54281.0,
-479,2024,Middle Country,10,Librarian Trainee,N,59844.0,
-480,2024,Middle Country,11,Librarian I,N,65978.0,
-481,2024,Middle Country,12,Librarian II,N,76380.0,
-482,2024,Middle Country,13,Librarian III,N,88418.0,
-483,2024,Middle Country,14,Librarian IV,N,92838.0,
-484,2024,Middle Country,15,Network and Systems Specialist I,N,65978.0,
-485,2024,Middle Country,16,Netwrok and Systems Specialist II,N,72743.0,
-486,2024,Middle Country,17,Netwrok and Systems Administrator,N,88418.0,
-487,2024,Middle Country,18,Business Manager I,N,97480.0,
-488,2024,Middle Country,19,Assistant Library Director,N,102356.0,
-489,2024,Montauk,1,Director,N,149000.0,
-490,2024,Montauk,2,Archivist,N,,38.5
-491,2024,Montauk,3,Treasurer,N,,37.0
-492,2024,Montauk,4,Librarian I,N,,36.5
-493,2024,Montauk,5,Library Assistant,N,,27.75
-494,2024,Montauk,6,Library Clerk,N,,20.5
-495,2024,Montauk,7,Page,N,,20.0
-496,2024,Montauk,8,Custodial Worker I,N,,22.75
-497,2024,Montauk,9,Network & System Specialist II,N,,47.0
-498,2024,North Bellmore,1,HET - Page,Y,,33.48
-499,2024,North Bellmore,2,NME - Librarian I,Y,,38.5
-500,2024,North Bellmore,3,ACD - Clerk,N,55222.24,
-501,2024,North Bellmore,4,AGA - Typist Clerk,N,45000.0,
-502,2024,North Bellmore,5,NLL - Principle Library Clerk,Y,,41.72
-503,2024,North Bellmore,6,NNA - Librarian II,N,76968.0,
-504,2024,North Bellmore,7,NNA - Librarian II,N,72800.0,
-505,2024,North Bellmore,8,ACA - Clerk,Y,,31.42
-506,2024,North Bellmore,9,ACA - Clerk,Y,,25.24
-507,2024,North Bellmore,10,NMF - Librarian I,N,67600.0,
-508,2024,North Bellmore,11,1KK - Cleaner,N,45000.0,
-509,2024,North Bellmore,12,1OP - Head Custodian I,N,78000.0,
-510,2024,North Bellmore,13,NNA - Librarian II,N,75400.0,
-511,2024,North Bellmore,14,NMH - Librarian I,Y,,34.63
-512,2024,North Bellmore,15,HET - Page,Y,,17.5
-513,2024,North Bellmore,16,HET - Page,Y,,24.46
-514,2024,North Bellmore,17,HET - Page,Y,,16.0
-515,2024,North Bellmore,18,CAF - Account Clerk,Y,,52.0
-516,2024,North Bellmore,19,NLA - Senior Library Clerk,N,57678.4,
-517,2024,North Bellmore,20,NNA - Librarian II,N,94700.0,
-518,2024,North Bellmore,21,NQF - Assistant Library Director,N,97850.0,
-519,2024,North Bellmore,22,HET - Page,Y,,24.46
-520,2024,North Bellmore,23,1KI - Cleaner Temporary,Y,,20.0
-521,2024,North Bellmore,24,HET - Page,Y,,19.57
-522,2024,North Bellmore,25,1KJ - Cleaner,Y,,33.48
-523,2024,North Bellmore,26,NME - Librarian I,Y,,35.67
-524,2024,North Bellmore,27,BWD - Info. Tech. Specialist I,Y,,43.26
-525,2024,North Bellmore,28,NMH - Librarian I ,Y,,35.84
-526,2024,North Bellmore,29,AGB - Typist Clerk Substitute,Y,,20.0
-527,2024,North Bellmore,30,HET - Page,Y,,16.0
-528,2024,North Bellmore,31,HET - Page,Y,,16.0
-529,2024,North Bellmore,32,NMA - Librarian Trainee,N,50000.0,
-530,2024,North Bellmore,33,HET - Page,Y,,35.65
-531,2024,North Bellmore,34,AFT - Typist Clerk,Y,,20.0
-532,2024,North Bellmore,35,NNA - Librarian II,N,79919.52,
-533,2024,North Bellmore,36,HET - Page,Y,,33.48
-534,2024,North Bellmore,37,NQK - Library Director,N,137582.64,
-535,2024,North Bellmore,38,HET - Page,Y,,33.31
-536,2024,North Bellmore,39,NME - Librarian I,Y,,49.94
-537,2024,North Bellmore,40,NME - Librarian I,Y,,39.08
-538,2024,North Bellmore,41,EDO - Public Info. Assistant,Y,,25.0
-539,2024,North Bellmore,42,HET - Page,Y,,16.0
-540,2024,Oyster Bay-East Norwich,1,Clerk Typist FT,N,31504.2,
-541,2024,Oyster Bay-East Norwich,2,Clerk Typist PT,Y,,20.55
-542,2024,Oyster Bay-East Norwich,3,Clerk Tyoist PT,Y,,17.31
-543,2024,Oyster Bay-East Norwich,4,Clerk Typist PT,Y,,18.84
-544,2024,Oyster Bay-East Norwich,5,Senior Library Clerk FT,N,42770.0,
-545,2024,Oyster Bay-East Norwich,6,Senior Library Clerk FT,N,41186.6,
-546,2024,Oyster Bay-East Norwich,7,Librarian II FT,N,79570.4,
-547,2024,Oyster Bay-East Norwich,8,Librarian I FT,N,66229.8,
-548,2024,Oyster Bay-East Norwich,9,Libraran I  FT,N,65283.4,
-549,2024,Oyster Bay-East Norwich,10,Librarian I FT,N,60769.8,
-550,2024,Oyster Bay-East Norwich,11,Librarian I FT,N,58403.8,
-551,2024,Oyster Bay-East Norwich,12,Librarian I PT,Y,,33.52
-552,2024,Oyster Bay-East Norwich,13,Librarian 1 PT,Y,,32.07
-553,2024,Oyster Bay-East Norwich,14,Librarian Sub,Y,,33.97
-554,2024,Oyster Bay-East Norwich,15,Librarian Sub,Y,,35.39
-555,2024,Oyster Bay-East Norwich,16,Cleaner FT,N,51708.8,
-556,2024,Oyster Bay-East Norwich,17,Cleaner PT,Y,,18.44
-557,2024,Oyster Bay-East Norwich,18,Cleaner PT,Y,,17.07
-558,2024,Oyster Bay-East Norwich,19,Personnel Clerk FT,N,56929.6,
-559,2024,Riverhead,1,Director,N,137491.38,
-560,2024,Riverhead,2,Assistant Director,N,95429.0,
-561,2024,Riverhead,3,Business Manager,N,75000.0,
-562,2024,Riverhead,4,Adult & Info Serv Coordin,N,71500.0,
-563,2024,Riverhead,5,Youth Family Serv Coordin,N,73500.0,
-564,2024,Riverhead,6,Computer & Tech Coordin,N,75000.0,
-565,2024,Riverhead,7,Purchasing Coordinator,Y,,27.0
-566,2024,Riverhead,8,Patron Serv Coordinator,N,45000.0,
-567,2024,Riverhead,9,Building & Mainten Mngr,N,65000.0,
-568,2024,Riverhead,10,Librarian trainee,N,47778.06,
-569,2024,Riverhead,11,Librarian trainee part time,Y,,26.08
-570,2024,Riverhead,12,Librarian ,N,53482.57,
-571,2024,Riverhead,13,Librarian part time,Y,,30.28
-572,2024,Riverhead,14,Librarian II,N,59167.24,
-573,2024,Riverhead,15,Senior clerk,Y,,18.31
-574,2024,Riverhead,16,Clerk,Y,,16.29
-575,2024,Riverhead,17,Page,Y,,16.0
-576,2024,Riverhead,18,Bookkeeper part time,Y,,25.34
-577,2024,Riverhead,19,Custodian,Y,,25.0
-578,2024,Riverhead,20,Security guard part time,Y,,22.25
-579,2024,Rockville Center,1,Director,N,156139.0,85.79065934
-580,2024,Rockville Center,2,Assistant Director,N,120060.0,65.96703297
-581,2024,Rockville Center,3,Principal Account Clerk,N,90789.0,49.88406593
-582,2024,Rockville Center,4,Librarian II,N,90031.0,49.46758242
-583,2024,Rockville Center,5,Librarian II,N,79761.0,43.82472527
-584,2024,Rockville Center,6,Head Custodian,N,79761.0,43.82472527
-585,2024,Rockville Center,7,Senior Account Clerk,N,64795.0,35.60164835
-586,2024,Rockville Center,8,Senior Account Clerk,N,64635.0,35.51373626
-587,2024,Rockville Center,9,IT Specialist I,N,75190.0,41.31318681
-588,2024,Rockville Center,10,Librarian II,N,60118.0,33.03186813
-589,2024,Rockville Center,11,Librarian II,N,61395.0,33.73351648
-590,2024,Rockville Center,12,Librarian II,N,65530.0,36.00549451
-591,2024,Rockville Center,13,Librarian II,N,69212.0,38.02857143
-592,2024,Rockville Center,14,Librarian II,N,77530.0,42.5989011
-593,2024,Rockville Center,15,Librarian II,N,61395.0,33.73351648
-594,2024,Rockville Center,16,Librarian II,N,64199.0,35.27417582
-595,2024,Rockville Center,17,Librarian Trainee,N,50000.0,27.47252747
-596,2024,Rockville Center,18,Sr. Library Clerk,N,49572.0,27.23736264
-597,2024,Rockville Center,19,Sr. Library Clerk,N,47386.0,26.03626374
-598,2024,Rockville Center,20,Sr. Library Clerk,N,49454.0,27.17252747
-599,2024,Rockville Center,21,Sr. Library Clerk,N,46125.0,25.34340659
-600,2024,Rockville Center,22,Typist Clerk,N,42000.0,23.07692308
-601,2024,Rockville Center,23,Maintainer,N,73876.0,40.59120879
-602,2024,Rockville Center,24,Cleaner,N,47320.0,26.0
-603,2024,Rockville Center,25,PT Librarian II ,Y,,52.09
-604,2024,Rockville Center,26,PT Librarian I,Y,,30.75
-605,2024,Rockville Center,27,PT Librarian I,Y,,30.0
-606,2024,Rockville Center,28,PT Librarian I,Y,,30.75
-607,2024,Rockville Center,29,PT Librarian I,Y,,30.0
-608,2024,Rockville Center,30,PT Librarian I,Y,,30.75
-609,2024,Rockville Center,31,PT Librarian I,Y,,30.75
-610,2024,Rockville Center,32,PT Librarian I,Y,,33.3
-611,2024,Rockville Center,33,PT Librarian I,Y,,30.75
-612,2024,Rockville Center,34,PT Librarian I,Y,,37.35
-613,2024,Rockville Center,35,PT Librarian I,Y,,35.48
-614,2024,Rockville Center,36,PT Librarian I,Y,,31.75
-615,2024,Rockville Center,37,PT Library Assistant,Y,,30.26
-616,2024,Rockville Center,38,Librarian Trainee PT,Y,,25.63
-617,2024,Rockville Center,39,Librarian Trainee PT,Y,,25.63
-618,2024,Rockville Center,40,Clerk PT,Y,,26.75
-619,2024,Rockville Center,41,Clerk PT,Y,,26.05
-620,2024,Rockville Center,42,Typist Clerk PT,Y,,26.39
-621,2024,Rockville Center,43,Typist Clerk PT,Y,,23.23
-622,2024,Rockville Center,44,Page,Y,,16.0
-623,2024,Rockville Center,45,Page,Y,,16.0
-624,2024,Rockville Center,46,Page,Y,,16.0
-625,2024,Rockville Center,47,Page,Y,,17.18
-626,2024,Rockville Center,48,Page,Y,,21.25
-627,2024,Rockville Center,49,Page,Y,,16.0
-628,2024,Rockville Center,50,Cleaner PT,Y,,25.5
-629,2024,Rockville Center,51,Cleaner PT,Y,,30.38
-630,2024,Rockville Center,52,Cleaner PT,Y,,28.14
-631,2024,Rockville Center,53,Cleaner PT,Y,,20.5
-632,2024,Roslyn (Bryant Library),1,Director,N,155000.04,
-633,2024,Roslyn (Bryant Library),2,Assistant Director,N,104847.6,
-634,2024,Roslyn (Bryant Library),3,Financial Administrator,N,99509.8,
-635,2024,Roslyn (Bryant Library),4,Computer Support Tech II,N,77109.5,
-636,2024,Roslyn (Bryant Library),5,Director of Public Relations & Programming,N,72000.24,
-637,2024,Roslyn (Bryant Library),6,Librarian III,N,137613.32,
-638,2024,Roslyn (Bryant Library),7,Librarian II ,N,81955.12,
-639,2024,Roslyn (Bryant Library),8,Librarian II,N,81955.12,
-640,2024,Roslyn (Bryant Library),9,Librarian II,N,93080.26,
-641,2024,Roslyn (Bryant Library),10,Librarian II,N,85280.26,
-642,2024,Roslyn (Bryant Library),11,Librarian II,N,83315.7,
-643,2024,Roslyn (Bryant Library),12,Librarian II,N,75344.1,
-644,2024,Roslyn (Bryant Library),13,Librarian II,N,81120.0,
-645,2024,Roslyn (Bryant Library),14,Librarian I,N,70467.8,
-646,2024,Roslyn (Bryant Library),15,Librarian I,N,70279.04,
-647,2024,Roslyn (Bryant Library),16,Librarian I,N,73061.3,
-648,2024,Roslyn (Bryant Library),17,Librarian I,N,75240.1,
-649,2024,Roslyn (Bryant Library),18,Librarian I,N,70279.04,
-650,2024,Roslyn (Bryant Library),19,Librarian Trainee,N,50081.46,
-651,2024,Roslyn (Bryant Library),20,Principal Clerk,N,70065.84,
-652,2024,Roslyn (Bryant Library),21,Senior Clerk,N,60075.6,
-653,2024,Roslyn (Bryant Library),22,Clerk,N,45057.22,
-654,2024,Roslyn (Bryant Library),23,Clerk,N,45057.22,
-655,2024,Roslyn (Bryant Library),24,Clerk,N,41468.18,
-656,2024,Roslyn (Bryant Library),25,Facilities Manager,N,77899.64,
-657,2024,Roslyn (Bryant Library),26,Custodian,N,45500.0,
-658,2024,Roslyn (Bryant Library),27,Archivist,N,,45.92
-659,2024,Roslyn (Bryant Library),28,Librarian,N,,57.5
-660,2024,Roslyn (Bryant Library),29,Librarian,N,,43.16
-661,2024,Roslyn (Bryant Library),30,Librarian,N,,36.47
-662,2024,Roslyn (Bryant Library),31,Librarian,N,,34.2
-663,2024,Roslyn (Bryant Library),32,Librarian,N,,36.47
-664,2024,Roslyn (Bryant Library),33,Librarian,N,,37.25
-665,2024,Roslyn (Bryant Library),34,Librarian,N,,33.53
-666,2024,Roslyn (Bryant Library),35,Librarian,N,,34.2
-667,2024,Roslyn (Bryant Library),36,Librarian Trainee,N,,27.52
-668,2024,Roslyn (Bryant Library),37,Librarian Trainee,N,,28.07
-669,2024,Roslyn (Bryant Library),38,Library Aide,N,,23.02
-670,2024,Roslyn (Bryant Library),39,Library Aide,N,,22.59
-671,2024,Roslyn (Bryant Library),40,Library Aide,N,,20.5
-672,2024,Roslyn (Bryant Library),41,Clerk,N,,27.1
-673,2024,Roslyn (Bryant Library),42,Clerk,N,,21.23
-674,2024,Roslyn (Bryant Library),43,Clerk,N,,37.04
-675,2024,Roslyn (Bryant Library),44,Clerk,N,,19.09
-676,2024,Roslyn (Bryant Library),45,Clerk,N,,19.99
-677,2024,Roslyn (Bryant Library),46,Clerk,N,,25.25
-678,2024,Roslyn (Bryant Library),47,Clerk,N,,19.09
-679,2024,Roslyn (Bryant Library),48,Custodian,N,,40.35
-680,2024,Sachem,2,Head Custodian,N,73310.0,
-681,2024,Sachem,3,Custodian III,N,50442.0,
-682,2024,Sachem,4,Custodian II,N,46942.0,
-683,2024,Sachem,5,Custodian ,N,40000.0,
-684,2024,Sachem,6,PT Custodian,Y,,16.0
-685,2024,Sachem,8,Principal Clerk,N,51842.0,
-686,2024,Sachem,9,Senior Clerk,N,49392.0,
-687,2024,Sachem,10,FT Library Clerk,N,46942.0,
-688,2024,Sachem,11,PT Clerk,Y,,17.0
-689,2024,Sachem,13,Principal Account Clerk,N,92000.0,
-690,2024,Sachem,14,Senior Account Clerk,N,69895.0,
-691,2024,Sachem,15,Account Clerk,N,57000.0,
-692,2024,Sachem,16,Office Assistant,N,47500.0,
-693,2024,Sachem,18,Public Relations Assistant,Y,,35.8
-694,2024,Sachem,20,Librarian III,N,69987.67,
-695,2024,Sachem,21,Librarian II,N,65487.67,
-696,2024,Sachem,22,Librarian,N,59237.67,
-697,2024,Sachem,23,PT Librarian,Y,,27.0
-698,2024,Sachem,25,Page,Y,,16.0
-699,2024,Sachem,27,Network & Systems Specialist I,N,81076.0,
-700,2024,Sachem,28,Network and Systems Technician,N,55031.0,
-701,2024,Sachem,30,Director,N,202700.0,
-702,2024,Sachem,31,Assistant Director,N,137000.0,
-703,2024,Sea Cliff,1,Library Director,N,95000.0,
-704,2024,Sea Cliff,2,Librarian I,N,66000.0,
-705,2024,Sea Cliff,3,Librarian I,N,,32.63
-706,2024,Sea Cliff,4,Librarian I,N,,30.93
-707,2024,Sea Cliff,5,Librarian I,N,,30.25
-708,2024,Sea Cliff,6,Typist Clerk,N,,16.0
-709,2024,Sea Cliff,7,Typist Clerk,N,,16.0
-710,2024,Sea Cliff,8,Typist Clerk,N,,16.0
-711,2024,Sea Cliff,9,Typist Clerk,N,,18.85
-712,2024,Sea Cliff,10,Typist Clerk,N,,16.75
-713,2024,Seaford,1,Library Director,N,149000.0,
-714,2024,Seaford,2,Assistant Director,N,115916.0,
-715,2024,Seaford,3,Librarian III,N,96983.0,
-716,2024,Seaford,4,Librarian II,N,56952.0,
-717,2024,Seaford,5,Librarian II,N,70616.0,
-718,2024,Seaford,6,Librarian II,N,77282.0,
-719,2024,Seaford,7,Librarian I,N,49480.0,
-720,2024,Seaford,8,Librarian I,N,83760.0,
-721,2024,Seaford,9,Library Trainee,N,,23.0
-722,2024,Seaford,10,Library Trainee,N,,23.0
-723,2024,Seaford,11,Library Trainee,N,,23.0
-724,2024,Seaford,12,Senior Account Clerk,N,136512.0,
-725,2024,Seaford,13,Library Clerk,N,46410.0,
-726,2024,Seaford,14,Senior Account Clerk,N,80586.0,
-727,2024,Seaford,15,Library Clerk,N,38560.0,
-728,2024,Seaford,16,Library Clerk,N,,18.0
-729,2024,Seaford,17,Library Clerk,N,,18.0
-730,2024,Seaford,18,Library Clerk,N,,18.0
-731,2024,Seaford,19,Cleaners,N,,16.45
-732,2024,Seaford,20,Cleaners,N,,16.45
-733,2024,Seaford,21,Cleaners,N,,16.25
-734,2024,Seaford,22,Cleaners,N,,15.0
-735,2024,Seaford,23,Page,N,,15.0
-736,2024,Seaford,24,Page,N,,15.0
-737,2024,Seaford,25,Page,N,,15.0
-738,2024,Seaford,26,Page,N,,15.0
-739,2024,Shelter Rock,4,Librarian II,N,72800.0,40.0
-740,2024,Shelter Rock,5,Page ,Y,17972.5,19.75
-741,2024,Shelter Rock,6,Typist Clerk,Y,16835.0,18.5
-742,2024,Shelter Rock,7,Cleaner,Y,21385.0,23.5
-743,2024,Shelter Rock,8,Page ,Y,15925.0,17.5
-744,2024,Shelter Rock,9,Librarian I Sub,Y,28100.8,30.88
-745,2024,Shelter Rock,10,Typist Clerk,N,54436.2,29.91
-746,2024,Shelter Rock,11,Librarian I Sub,Y,28164.5,30.95
-747,2024,Shelter Rock,12,Administrative Assistant,N,82009.2,45.06
-748,2024,Shelter Rock,13,Cleaner,N,70379.4,38.67
-749,2024,Shelter Rock,14,Page ,Y,15015.0,16.5
-750,2024,Shelter Rock,15,Page ,Y,18655.0,20.5
-751,2024,Shelter Rock,16,Librarian I,N,61880.0,34.0
-752,2024,Shelter Rock,17,Librarian I,N,56656.6,31.13
-753,2024,Shelter Rock,18,Cleaner,Y,35945.0,19.75
-754,2024,Shelter Rock,19,Page ,Y,18655.0,20.5
-755,2024,Shelter Rock,20,Typist Clerk,Y,16835.0,18.5
-756,2024,Shelter Rock,21,Librarian II,N,129602.2,71.21
-757,2024,Shelter Rock,22,Librarian I,N,56656.6,31.13
-758,2024,Shelter Rock,23,Librarian I Sub,N,56456.4,31.02
-759,2024,Shelter Rock,24,Senior Clerk,N,55619.2,30.56
-760,2024,Shelter Rock,25,Cleaner,Y,19110.0,21.0
-761,2024,Shelter Rock,26,Librarian I Sub,N,57603.0,31.65
-762,2024,Shelter Rock,27,Custodian,N,60970.0,33.5
-763,2024,Shelter Rock,28,Typist Clerk,Y,16835.0,18.5
-764,2024,Shelter Rock,29,Cleaner,Y,17972.5,19.75
-765,2024,Shelter Rock,30,Director,N,183274.0,100.7
-766,2024,Shelter Rock,31,Secretary,N,61552.4,33.82
-767,2024,Shelter Rock,32,Information Technology Aide,Y,18882.5,20.75
-768,2024,Shelter Rock,33,Page ,Y,18655.0,20.5
-769,2024,Shelter Rock,34,Librarian II,N,81244.8,44.64
-770,2024,Shelter Rock,35,Typist Clerk,N,38220.0,21.0
-771,2024,Shelter Rock,36,Assistant Director,N,102138.4,56.12
-772,2024,Shelter Rock,37,Page ,N,45063.2,24.76
-773,2024,Shelter Rock,38,Page ,Y,15925.0,17.5
-774,2024,Shelter Rock,39,Page ,Y,15925.0,17.5
-775,2024,Shelter Rock,40,Information Technology Aide,N,40040.0,22.0
-776,2024,Shelter Rock,41,Information Technology Aide,Y,21157.5,23.25
-777,2024,Shelter Rock,42,Information Technology Specialist,N,68832.4,37.82
-778,2024,Shelter Rock,43,Page ,Y,15925.0,17.5
-779,2024,South Country,1,director,N,147310.8,
-780,2024,South Country,2,assistant director,N,128746.8,
-781,2024,South Country,3,head of childrens,N,88743.2,
-782,2024,South Country,4,assistant head of reference,N,86431.8,
-783,2024,South Country,5,head of reference,N,86741.2,
-784,2024,South Country,6,head of YA,N,72563.4,
-785,2024,South Country,7,reference lib,N,55091.4,
-786,2024,South Country,8,reference lib,N,58804.2,
-787,2024,South Country,9,PT reference lib,N,,30.27
-788,2024,South Country,10,PT childrens lib,N,,30.27
-789,2024,South Country,11,childrens lib,N,59404.8,
-790,2024,South Country,12,patron service dept head,N,80171.0,
-791,2024,South Country,13,bookkeeper,N,68268.2,
-792,2024,South Country,14,security,N,52288.6,
-793,2024,South Country,15,patron service dept head,N,75439.0,
-794,2024,South Country,16,patron service clerk,N,44408.0,
-795,2024,South Country,17,newsletter editor,N,,24.72
-796,2024,South Country,18,maintenance,N,,24.3
-797,2024,South Country,19,patron services clerk,N,,21.08
-798,2024,South Country,20,pages ,N,,16.0
-799,2024,Southampton (Rogers Memorial),1,"Supervisor, Librarian, Reference",N,101370.0,
-800,2024,Southampton (Rogers Memorial),2,"Supervisor, Librarian, Childrens",N,112563.0,
-801,2024,Southampton (Rogers Memorial),3,"Supervisor, Librarian, Teen",N,86073.0,
-802,2024,Southampton (Rogers Memorial),4,"Supervisor, Librarian, Computer/Tech",N,81882.0,
-803,2024,Southampton (Rogers Memorial),5,"Supervisor, Tech Services (non mls)",N,96534.0,
-804,2024,Southampton (Rogers Memorial),6,Supervisor Circulations (non-mls),N,65213.0,
-805,2024,Southampton (Rogers Memorial),7,"Supervisor, Buildings and Grounds",N,107217.0,
-806,2024,Southampton (Rogers Memorial),8,"Asst Supervisor Librarian, Childrens",N,96121.0,
-807,2024,Southampton (Rogers Memorial),9,"Librarian, Reference",N,70295.0,
-808,2024,Southampton (Rogers Memorial),10,"Librarian, Reference",N,67000.0,
-809,2024,Southampton (Rogers Memorial),11,"Librarian, Reference",N,66000.0,
-810,2024,Southampton (Rogers Memorial),12,"Librarian Trainee, Reference",N,45500.0,
-811,2024,Southampton (Rogers Memorial),13,"Librarian, Childrens",N,75118.0,
-812,2024,Southampton (Rogers Memorial),14,"Librarian Trainee, Teen",N,45500.0,
-813,2024,Southampton (Rogers Memorial),15,"Clerk, Childrens",N,58913.0,
-814,2024,Southampton (Rogers Memorial),16,"Clerk, Childrens",N,47320.0,
-815,2024,Southampton (Rogers Memorial),17,"Clerk, Childrens, PT",N,,26.83
-816,2024,Southampton (Rogers Memorial),18,"Clerk, Childrens, PT",N,,20.9
-817,2024,Southampton (Rogers Memorial),19,"Clerk, Teen",N,50554.0,
-818,2024,Southampton (Rogers Memorial),20,"Clerk, Computer/Tech",N,37856.0,
-819,2024,Southampton (Rogers Memorial),21,"Clerk, Tech Services",N,47320.0,
-820,2024,Southampton (Rogers Memorial),22,Clerk Tech Services,N,37856.0,
-821,2024,Southampton (Rogers Memorial),23,"Clerk, Tech Services",N,36135.0,
-822,2024,Southampton (Rogers Memorial),24,"Clerk, Tech Services",N,34580.0,
-823,2024,Southampton (Rogers Memorial),25,"Clerk, Circulation",N,38038.0,
-824,2024,Southampton (Rogers Memorial),26,"Clerk, Circulation",N,34000.0,
-825,2024,Southampton (Rogers Memorial),27,"Clerk, Circulation, PT",N,,20.9
-826,2024,Southampton (Rogers Memorial),28,"Custodian, PT",N,,22.61
-827,2024,Southampton (Rogers Memorial),29,"Custodian, PT",N,,20.13
-828,2024,Southampton (Rogers Memorial),30,"Page, PT",N,,16.0
-829,2024,Southampton (Rogers Memorial),31,Director,N,179000.0,
-830,2024,Wantagh,2,NLA - SENIOR LIBRARY CLERK,N,62974.0,
-831,2024,Wantagh,3,NMH - LIBRARIAN I part time substitute,Y,,30.0
-832,2024,Wantagh,4,AFL - TYPIST-CLERK (PART-TIME),Y,,19.93
-833,2024,Wantagh,5,EAF - Personnel Clerk,Y,,59.0
-834,2024,Wantagh,6,1KJ - CLEANER (PART-TIME),Y,,18.78
-835,2024,Wantagh,7,1KK - CLEANER,N,59098.0,
-836,2024,Wantagh,8,NME - LIBRARIAN I (PART-TIME),Y,,37.1
-837,2024,Wantagh,9,NMF - LIBRARIAN I,N,69726.0,
-838,2024,Wantagh,10, NMF - LIBRARIAN I,N,69726.0,
-839,2024,Wantagh,11,NNA - LIBRARIAN II,N,77168.0,
-840,2024,Wantagh,12,ACD - CLERK,N,64111.0,
-841,2024,Wantagh,13,AGB - TYPIST-CLERK(PART TIME SUBSTITUTE),Y,,19.0
-842,2024,Wantagh,14,NMF - LIBRARIAN I,N,71291.0,
-843,2024,Wantagh,15,AFL - TYPIST-CLERK (PART-TIME),Y,,18.0
-844,2024,Wantagh,16,NQK - LIBRARY DIRECTOR,N,126880.0,
-845,2024,Wantagh,17,1MA - CUSTODIAN,N,62097.0,
-846,2024,Wantagh,18,NME - LIBRARIAN I (PART-TIME),Y,,37.1
-847,2024,Wantagh,19,NMH - LIBRARIAN I part time substitute,Y,,35.0
-848,2024,Wantagh,20,NMR - Part Time Librarian II,Y,,49.66
-849,2024,Wantagh,21,AFT - Part Time Typist Clerk,Y,,19.92
-850,2024,Wantagh,22,AGA - TYPIST-CLERK,N,55076.0,
-851,2024,Wantagh,23,NNA - LIBRARIAN II,Y,,74610.0
+11,2024,Bellmore,1,NQK-Library Director ,N,142162.02,72.9
+12,2024,Bellmore,2,NNF-Librarian III Department Head ,N,104403.0,53.54
+13,2024,Bellmore,3,NNA-Librarian II ,N,103408.5,53.03
+14,2024,Bellmore,4,NNA-Librarian II ,N,65578.5,33.63
+15,2024,Bellmore,5,NNA-Librarian II ,N,62595.0,32.1
+16,2024,Bellmore,7,NMF-Librarian I ,N,64428.0,33.04
+17,2024,Bellmore,8,NMF-Librarian I ,N,59241.0,30.38
+18,2024,Bellmore,9,NMF-Librarian I ,N,57037.5,29.25
+19,2024,Bellmore,11,NME-Librarian I Part time (Non Comp.) ,Y,,27.0
+20,2024,Bellmore,12,NME-Librarian I Part time (Non Comp.) ,Y,,26.0
+21,2024,Bellmore,13,NME-Librarian I Part time (Non Comp.) ,Y,,25.5
+22,2024,Bellmore,14,NMH-Librarian I Part time Sub.,Y,,28.73
+23,2024,Bellmore,15,NMH-Librarian I Part time Sub.,Y,,25.5
+24,2024,Bellmore,17,NMA Librarian Trainee,N,46312.5,23.75
+25,2024,Bellmore,19,NLK Principal Library Clerk,N,81042.0,41.56
+26,2024,Bellmore,20,CBA Principal Account Clerk,N,81841.5,41.97
+27,2024,Bellmore,21,ACM Principal Clerk,N,79345.5,40.69
+28,2024,Bellmore,23,ACK Senior Clerk,N,72423.0,37.14
+29,2024,Bellmore,25,ACD Clerk,N,47053.5,24.13
+30,2024,Bellmore,26,ACD Clerk,N,45513.0,23.34
+31,2024,Bellmore,27,ACD Clerk,N,40462.5,20.75
+32,2024,Bellmore,28,AGA Typist Clerk,N,47053.5,24.13
+33,2024,Bellmore,30,AFL Typist Clerk Part time,Y,,21.12
+34,2024,Bellmore,31,ACA Clerk Part time (Non Comp.),Y,,21.96
+35,2024,Bellmore,32,ACA Clerk Part time (Non Comp.),Y,,20.0
+36,2024,Bellmore,33,ACA Clerk Part time (Non Comp.),Y,,18.0
+37,2024,Bellmore,34,AFT Typist Clerk Part time (Non Comp.),Y,,20.0
+38,2024,Bellmore,37,EHP Community Services Information Asst.,N,48262.5,24.75
+39,2024,Bellmore,38,6JF Maintainer,N,73690.5,37.79
+40,2024,Bellmore,39,WQF Library Monitor,N,66963.0,34.34
+41,2024,Bellmore,40,1KK Cleaner,N,73437.0,37.66
+42,2024,Bellmore,41,1KK Cleaner,N,33150.0,17.0
+43,2024,Bellmore,43,HET Page Part time (6 employees),Y,,15.37
+44,2024,Bethpage,1,Librarian III,N,87724.0,
+45,2024,Bethpage,2,Page,Y,,16.0
+46,2024,Bethpage,3,Cleaner,Y,,24.04
+47,2024,Bethpage,4,Illustrator,N,50031.0,
+48,2024,Bethpage,5,Library Aide,Y,,32.82
+49,2024,Bethpage,6,Information Technology Aide I,Y,,23.0
+50,2024,Bethpage,7,Library Director,N,149240.0,
+51,2024,Bethpage,8,Librarian I,Y,,35.11
+52,2024,Bethpage,9,Senior Library Clerk,N,40131.0,
+53,2024,Bethpage,10,Page,Y,,16.0
+54,2024,Bethpage,11,Librarian II,N,82373.0,
+55,2024,Bethpage,12,Librarian II,N,56838.0,
+56,2024,Bethpage,13,Page,Y,,16.0
+57,2024,Bethpage,14,Cleaner,Y,,20.2
+58,2024,Bethpage,15,Typist-Clerk,Y,,30.88
+59,2024,Bethpage,16,Page,N,37746.0,
+60,2024,Bethpage,17,Account Clerk,N,53344.0,
+61,2024,Bethpage,18,Principal Library Clerk,N,65065.0,
+62,2024,Bethpage,19,Typist-Clerk,Y,,18.18
+63,2024,Bethpage,20,Library Assistant,Y,,37.52
+64,2024,Bethpage,21,Cleaner,Y,,24.22
+65,2024,Bethpage,22,Typist-Clerk,Y,,18.18
+66,2024,Bethpage,23,Librarian Trainee,Y,,23.23
+67,2024,Bethpage,24,Cleaner,N,44298.0,
+68,2024,Bethpage,25,Librarian II,N,68814.0,
+69,2024,Bethpage,26,Librarian II,N,58258.0,
+70,2024,Bethpage,27,Clerk,N,47629.0,
+71,2024,Bethpage,28,Cleaner,Y,,22.73
+72,2024,Bethpage,29,Librarian II,N,64318.0,
+73,2024,Bethpage,30,Librarian I,N,50013.0,
+74,2024,Bethpage,31,Librarian II,N,80771.0,
+75,2024,Bethpage,32,Librarian I,Y,,40.22
+76,2024,Bethpage,33,Page,N,,22.43
+77,2024,Bethpage,34,Librarian I,Y,,43.65
+78,2024,Bethpage,35,Typist-Clerk,N,38420.0,
+79,2024,Bethpage,36,Librarian I,N,52380.0,
+80,2024,Bethpage,37,Librarian I,N,50013.0,
+81,2024,Bethpage,38,Librarian Trainee,Y,,23.36
+82,2024,Bethpage,39,Page,Y,,16.0
+83,2024,Bethpage,40,Typist-Clerk,Y,,28.08
+84,2024,Bethpage,41,Typist-Clerk,N,34925.0,
+85,2024,Bridgehampton,1,Circulation clerk/ILL,N,43917.0,
+86,2024,Bridgehampton,2,Circulation / Children's Room clerk,N,34689.0,
+87,2024,Bridgehampton,3,Circulation clerk,N,20760.0,22.18
+88,2024,Bridgehampton,4,Circulation clerk,N,14119.0,16.97
+89,2024,Bridgehampton,5,Circulation clerk,N,13312.0,16.0
+90,2024,Bridgehampton,6,Circulation clerk,N,18720.0,20.0
+91,2024,Bridgehampton,7,Circulation clerk,N,26473.0,16.97
+92,2024,Bridgehampton,8,Head of Circulation,N,42603.0,29.26
+93,2024,Bridgehampton,9,Reference Librarian,N,12744.0,35.01
+94,2024,Bridgehampton,10,Reference Librarian,N,61862.0,
+95,2024,Bridgehampton,11,Reference Librarian,N,44616.0,33.0
+96,2024,Bridgehampton,12,Business Manager,N,84630.0,
+97,2024,Bridgehampton,13,Children's Librarian,N,60060.0,
+98,2024,Bridgehampton,14,Children's Librarian,N,63718.0,
+99,2024,Bridgehampton,15,Young Adult Librarian,N,61862.0,
+100,2024,Bridgehampton,16,Head of Youth Services,N,75421.0,
+101,2024,Bridgehampton,17,Head of Technical Services,N,50960.0,
+102,2024,Bridgehampton,18,Custodian,N,10816.0,20.8
+103,2024,Bridgehampton,19,Page,N,6843.0,16.45
+104,2024,Bridgehampton,20,Executive Director,N,135000.0,
+105,2024,Cold Spring Harbor,2,Director,N,160500.0,
+106,2024,Cold Spring Harbor,3,Asst. Director,N,89000.0,
+107,2024,Cold Spring Harbor,4,Librarian Supervisor,N,65000.0,
+108,2024,Cold Spring Harbor,5,Librarian FT,N,56000.0,
+109,2024,Cold Spring Harbor,6,Librarian PT,Y,,30.0
+110,2024,Cold Spring Harbor,7,Clerk Supervisor,N,50900.0,
+111,2024,Cold Spring Harbor,8,Clerk FT,N,40000.0,
+112,2024,Cold Spring Harbor,9,Clerk PT,Y,,18.0
+113,2024,Cold Spring Harbor,10,Custodian FT,N,79000.0,
+114,2024,Cold Spring Harbor,11,Custodian PT,Y,,20.0
+115,2024,Cold Spring Harbor,12,Page,Y,,17.0
+116,2024,Connetquot,2,Library Clerk,N,52453.0,
+117,2024,Connetquot,3,Library Clerk,N,55680.0,
+118,2024,Connetquot,4,Library Clerk,N,55680.0,
+119,2024,Connetquot,5,Library Clerk,N,56799.0,
+120,2024,Connetquot,6,Senior Library Clerk,N,54108.0,
+121,2024,Connetquot,7,Principal Library Clerk,N,76549.0,
+122,2024,Connetquot,8,Principal Library Clerk,N,87069.0,
+123,2024,Connetquot,9,Custodial Worker I,N,53042.0,
+124,2024,Connetquot,10,Custodial Worker I,N,63239.0,
+125,2024,Connetquot,11,Custodial Worker I,N,65794.0,
+126,2024,Connetquot,12,Custodial Worker III,N,77292.0,
+127,2024,Connetquot,13,Public Relations Assistant,N,50854.0,
+128,2024,Connetquot,14,Librarian I,N,60120.0,
+129,2024,Connetquot,15,Librarian I,N,68188.0,
+130,2024,Connetquot,16,Librarian I,N,71597.0,
+131,2024,Connetquot,17,Librarian I,N,74461.0,
+132,2024,Connetquot,18,Librarian I,N,86397.0,
+133,2024,Connetquot,19,Librarian II,N,78229.0,
+134,2024,Connetquot,20,Librarian II,N,79794.0,
+135,2024,Connetquot,21,Librarian II,N,82973.0,
+136,2024,Connetquot,22,Librarian II,N,84694.0,
+137,2024,Connetquot,23,Librarian II,N,91767.0,
+138,2024,Connetquot,24,Librarian II,N,99132.0,
+139,2024,Connetquot,25,Librarian III,N,96355.0,
+140,2024,Connetquot,26,Librarian III,N,103216.0,
+141,2024,Connetquot,27,Librarian III,N,105280.0,
+142,2024,Connetquot,28,Network and Systems Specialist II,N,95264.0,
+143,2024,Connetquot,29,Assistant Library Director,N,131600.0,
+144,2024,Connetquot,30,Library Director,N,160845.0,
+145,2024,Copiague,2,Library Director,N,166210.0,
+146,2024,Copiague,4,Bus. Mgr. II,N,164895.0,
+147,2024,Copiague,6,Libn. III,N,109162.0,
+148,2024,Copiague,7,Libn. III,N,102231.0,
+149,2024,Copiague,8,Libn. III,N,87205.0,
+150,2024,Copiague,9,Libn. I,N,87373.0,
+151,2024,Copiague,10,Libn. I,N,72522.0,
+152,2024,Copiague,11,Libn. I,N,72522.0,
+153,2024,Copiague,12,Libn. I,N,71594.0,
+154,2024,Copiague,14,Libn. Trainee,N,66601.0,
+155,2024,Copiague,16,Libn. I  P/T,N,,37.39
+156,2024,Copiague,17,Libn. I  P/T,N,,37.39
+157,2024,Copiague,19,Library Asst.,N,69819.0,
+158,2024,Copiague,21,Sr. Acct. Clerk,N,88720.0,
+159,2024,Copiague,22,Sr. Acct. Clerk,N,75830.0,
+160,2024,Copiague,24,Prin. Lib. Clerk,N,60091.0,
+161,2024,Copiague,26,Sr. Lib. Clerk ,N,52877.0,
+162,2024,Copiague,27,Sr. Lib. Clerk ,N,52877.0,
+163,2024,Copiague,29,Library Clerk,N,51758.0,
+164,2024,Copiague,30,Library Clerk,N,48573.0,
+165,2024,Copiague,32,Office Assistant,N,51758.0,
+166,2024,Copiague,34,Lib. Clerk P/T,N,,19.53
+167,2024,Copiague,35,Lib. Clerk P/T,N,,20.75
+168,2024,Copiague,36,Lib. Clerk P/T,N,,19.09
+169,2024,Copiague,37,Lib. Clerk P/T,N,,20.75
+170,2024,Copiague,38,Lib. Clerk P/T,N,,20.41
+171,2024,Copiague,39,Lib. Clerk P/T,N,,25.82
+172,2024,Copiague,40,Lib. Clerk P/T,N,,19.09
+173,2024,Copiague,41,Lib. Clerk P/T,N,,27.12
+174,2024,Copiague,43,Network Sys.Ad.,N,103795.0,
+175,2024,Copiague,44,Network & Sys Tech.,N,80652.0,
+176,2024,Copiague,46,Network & Sys Tech.P/T,N,,28.85
+177,2024,Copiague,48,Page P/T,N,,20.5
+178,2024,Copiague,49,Page P/T,N,,18.03
+179,2024,Copiague,51,Cust. Wkr. II F/T,N,61298.0,
+180,2024,Copiague,52,Cust. Wkr. II F/T,N,61298.0,
+181,2024,Copiague,53,Cust. Wkr. I  F/T,N,46756.0,
+182,2024,Copiague,55,Treasurer,N,13850.0,
+183,2024,Deer Park,1,Librarian 1,Y,61662.0,33.88
+184,2024,Deer Park,2,Librarian 2,N,71743.8,
+185,2024,Deer Park,3,Librarian 2,N,79952.6,
+186,2024,Deer Park,4,Librarian 2,Y,,54.8
+187,2024,Deer Park,5,Librarian 3,N,94458.8,
+188,2024,Deer Park,6,Senior Clerk,N,55400.0,
+189,2024,Deer Park,7,Account Clerk,N,41441.4,
+190,2024,Deer Park,8,Account Clerk,Y,,22.6
+191,2024,Deer Park,9,Custodian 2,N,73873.8,
+192,2024,Deer Park,10,Custodian ,Y,,19.23
+193,2024,Deer Park,11,Guard,Y,,28.22
+194,2024,Deer Park,12,Guard,Y,,21.51
+195,2024,Deer Park,13,Page,Y,,15.0
+196,2024,Deer Park,14,Director,N,134050.0,
+197,2024,Deer Park,15,Business Manager,N,83704.8,
+198,2024,East Islip,1,Clerk,N,52353.86,
+199,2024,East Islip,2,FT - Library Clerk,N,59506.46,
+200,2024,East Islip,3,FT - Principal Clerk,N,65147.16,
+201,2024,East Islip,4,FT Clerk Typist,N,54876.12,
+202,2024,East Islip,5,FT Librarian I,N,82421.3,
+203,2024,East Islip,6,FT Librarian I,N,62677.67999999999,
+204,2024,East Islip,7,FT Librarian Ii,N,92532.44,
+205,2024,East Islip,8,FT Librarian Ii,N,96404.36,
+206,2024,East Islip,9,FT Librarian Ii,N,86298.94,
+207,2024,East Islip,10,FT Librarian Iii,N,89989.90000000001,
+208,2024,East Islip,11,FT Librarian Iii,N,89649.04,
+209,2024,East Islip,12,FT Library Clerk,N,57773.82000000001,
+210,2024,East Islip,13,FT Library Clerk,N,57745.48,
+211,2024,East Islip,14,Account Clerk,N,22683.7312,27.2641
+212,2024,East Islip,15,Custodial Worker I,N,5505.76,26.47
+213,2024,East Islip,16,Custodial Worker I,N,22360.0,21.5
+214,2024,East Islip,17,Custodian I,N,15805.919999999998,25.33
+215,2024,East Islip,18,Custodian I,N,4209.92,20.24
+216,2024,East Islip,19,Page,N,16956.16,20.38
+217,2024,East Islip,20,Page,N,6240.0,15.0
+218,2024,East Islip,21,Page,N,15749.76,18.93
+219,2024,East Islip,22,Page,N,8190.0,15.0
+220,2024,East Islip,23,Page,N,8580.0,15.0
+221,2024,East Islip,24,Page,N,8580.0,15.0
+222,2024,East Islip,25,Page,N,12920.96,15.53
+223,2024,East Islip,26,Page,N,8356.4,16.07
+224,2024,East Islip,27,Page,N,8356.4,16.07
+225,2024,East Islip,28,Page,N,12717.12,20.38
+226,2024,East Islip,29,Page,N,8356.4,16.07
+227,2024,East Islip,30,Page,N,7800.0,15.0
+228,2024,East Islip,31,Page,N,7800.0,15.0
+229,2024,East Islip,32,PT Clerk,N,24087.7,26.47
+230,2024,East Islip,33,PT Clerk,N,24087.7,26.47
+231,2024,East Islip,34,PT Clerk,N,13888.679999999998,18.42
+232,2024,East Islip,35,PT Librarian I,N,6938.88,33.36
+233,2024,East Islip,36,PT Librarian I,N,6805.76,32.72
+234,2024,East Islip,37,PT Librarian I,N,6805.76,32.72
+235,2024,East Islip,38,PT Librarian I,N,5955.04,32.72
+236,2024,East Islip,39,PT Librarian I,N,7977.060000000001,34.09
+237,2024,East Islip,40,PT Librarian I,N,8160.88,33.04
+238,2024,East Islip,41,PT Librarian I,N,18853.12,45.32
+239,2024,East Islip,42,PT Librarian I,N,2977.52,32.72
+240,2024,East Islip,43,PT Librarian I,N,2977.52,32.72
+241,2024,East Islip,44,PT Librarian I (Cs),N,9174.88,44.11
+242,2024,East Islip,45,PT Librarian I (Cs),N,14538.419999999998,29.43
+243,2024,East Islip,46,PT Librarian Ii,N,8243.04,39.63
+244,2024,East Islip,47,PT Library Clerk,N,24087.7,26.47
+245,2024,East Islip,48,PT Library Clerk,N,34246.16,25.33
+246,2024,East Islip,49,PT Library Clerk,N,24087.7,26.47
+247,2024,East Islip,50,PT Library Clerk,N,16607.5,18.25
+248,2024,East Islip,51,PT Library Clerk,N,7117.5,18.25
+249,2024,East Islip,52,PT Library Clerk,N,11068.98,18.51
+250,2024,East Islip,53,PT Library Clerk,N,6592.56,21.13
+251,2024,East Islip,54,PT Library Clerk,N,10831.6,20.83
+252,2024,East Islip,55,PT Library Clerk,N,10667.8,18.65
+253,2024,East Islip,56,PT Network/Sys.Special,N,27902.160000000003,32.52
+254,2024,Emma Clark Library,1,Clerk I,N,42484.0,
+255,2024,Emma Clark Library,2,Clerk I,N,40219.0,
+256,2024,Emma Clark Library,3,Clerk I,N,40219.0,
+257,2024,Emma Clark Library,4,Clerk II,N,49359.0,
+258,2024,Emma Clark Library,5,Clerk II,N,67812.0,
+259,2024,Emma Clark Library,6,Dept Supervisor,N,72982.0,
+260,2024,Emma Clark Library,7,Dept Supervisor,N,89931.0,
+261,2024,Emma Clark Library,8,Business Mgr,N,87931.0,
+262,2024,Emma Clark Library,9,Payroll & Human Resources Mgr,N,86172.0,
+263,2024,Emma Clark Library,10,Building Mgr,N,87931.0,
+264,2024,Emma Clark Library,11,Mgr Technology Systems & Services,N,123008.0,
+265,2024,Emma Clark Library,12,Librarian I,N,99149.0,
+266,2024,Emma Clark Library,13,Librarian I,N,100149.0,
+267,2024,Emma Clark Library,14,Librarian I,N,101149.0,
+268,2024,Emma Clark Library,15,Librarian I,N,99149.0,
+269,2024,Emma Clark Library,16,Librarian I,N,86259.0,
+270,2024,Emma Clark Library,17,Librarian I,N,95183.0,
+271,2024,Emma Clark Library,18,Librarian I,N,100149.0,
+272,2024,Emma Clark Library,19,Librarian I,N,100649.0,
+273,2024,Emma Clark Library,20,Librarian I,N,70395.0,
+274,2024,Emma Clark Library,21,Dept Head (Librarian),N,124508.0,
+275,2024,Emma Clark Library,22,Dept Head (Librarian),N,124008.0,
+276,2024,Emma Clark Library,23,Dept Head (Librarian),N,87336.0,
+277,2024,Emma Clark Library,24,PAGE,N,,16.0
+278,2024,Emma Clark Library,25,PAGE,N,,16.27
+279,2024,Emma Clark Library,26,PAGE,N,,16.49
+280,2024,Emma Clark Library,27,PAGE,N,,16.74
+281,2024,Emma Clark Library,28,PAGE,N,,16.94
+282,2024,Emma Clark Library,29,CLERK,N,,20.0
+283,2024,Emma Clark Library,30,CLERK,N,,20.19
+284,2024,Emma Clark Library,31,CLERK,N,,20.36
+285,2024,Emma Clark Library,32,CLERK,N,,20.59
+286,2024,Emma Clark Library,33,CLERK,N,,20.77
+287,2024,Emma Clark Library,34,LIBRARIAN,N,,34.28
+288,2024,Emma Clark Library,35,LIBRARIAN,N,,34.46
+289,2024,Emma Clark Library,36,LIBRARIAN,N,,34.83
+290,2024,Emma Clark Library,37,LIBRARIAN,N,,35.07
+291,2024,Emma Clark Library,38,LIBRARIAN,N,,35.35
+292,2024,Emma Clark Library,39,MARKETING COMMUNICATIONS MGR,N,,34.36
+293,2024,Emma Clark Library,40,LIBRARY ASST,N,,28.74
+294,2024,Emma Clark Library,41,CUSTODIAN,N,,17.05
+295,2024,Emma Clark Library,42,CUSTODIAN,N,,17.61
+296,2024,Freeport,3,Assistant Library Director,N,103728.0,
+297,2024,Freeport,4,Cleaner,N,37094.0,
+298,2024,Freeport,5,Cleaner,N,40829.0,
+299,2024,Freeport,6,Cleaner,Y,,18.73
+300,2024,Freeport,7,Clerk,N,47728.0,
+301,2024,Freeport,8,Clerk Typist,N,47316.0,
+302,2024,Freeport,9,Community Service Information Assistant,Y,,40.139
+303,2024,Freeport,10,Custodian,N,67750.0,
+304,2024,Freeport,11,Custodian,N,40319.0,
+305,2024,Freeport,12,Head Custodian,N,71400.0,
+306,2024,Freeport,13,Librarian III,N,94383.0,
+307,2024,Freeport,14,Librarian III,N,87485.0,
+308,2024,Freeport,15,Librarian III,N,83360.0,
+309,2024,Freeport,16,Librarian II,N,63094.0,
+310,2024,Freeport,17,Librarian II,N,93797.0,
+311,2024,Freeport,18,Librarian II,N,61274.0,
+312,2024,Freeport,19,Librarian II,N,63844.0,
+313,2024,Freeport,20,Librarian II,N,111818.0,
+314,2024,Freeport,21,Librarian II,Y,,42.2703
+315,2024,Freeport,22,Librarian I,N,55274.0,
+316,2024,Freeport,23,Librarian I,N,55274.0,
+317,2024,Freeport,24,Librarian I,N,55000.0,
+318,2024,Freeport,25,Librarian I,N,55274.0,
+319,2024,Freeport,26,Librarian I,Y,,40.5582
+320,2024,Freeport,27,Librarian I P/T (Sub),Y,,30.537
+321,2024,Freeport,28,Librarian I P/T ,Y,,27.0
+322,2024,Freeport,29,Librarian I P/T,Y,,45.5441
+323,2024,Freeport,30,Librarian I P/T (Sub),Y,,28.7
+324,2024,Freeport,31,Librarian I P/T,Y,,27.0
+325,2024,Freeport,32,Librarian I P/T (Non-Comp),Y,,27.0
+326,2024,Freeport,33,Librarian I P/T,Y,,39.6839
+327,2024,Freeport,34,Librarian I P/T,Y,,30.537
+328,2024,Freeport,35,Librarian Trainee,N,42274.0,
+329,2024,Freeport,36,Library Aide,N,61511.0,
+330,2024,Freeport,37,Library Aide,N,58680.0,
+331,2024,Freeport,38,Library Aide,N,41904.0,
+332,2024,Freeport,39,Library Aide,N,57104.0,
+333,2024,Freeport,40,Library Aide,N,58281.0,
+334,2024,Freeport,41,Library Aide,N,54091.0,
+335,2024,Freeport,42,Library Aide,Y,,29.718
+336,2024,Freeport,43,Library Director,N,128000.0,
+337,2024,Freeport,44,Monitor,Y,,23.4758
+338,2024,Freeport,45,Monitor,Y,,22.6375
+339,2024,Freeport,46,Page ,N,29120.0,
+340,2024,Freeport,47,Page ,N,33124.0,
+341,2024,Freeport,48,Page ,Y,,20.1945
+342,2024,Freeport,49,Page P/T,Y,,18.2
+343,2024,Freeport,50,Page P/T,Y,,16.85
+344,2024,Freeport,51,Page P/T,Y,,16.85
+345,2024,Freeport,52,Page P/T,Y,,16.0
+346,2024,Freeport,53,Page P/T,Y,,16.0
+347,2024,Freeport,54,Page P/T,Y,,16.35
+348,2024,Freeport,55,Page,Y,,30.0873
+349,2024,Freeport,56,Page P/T,Y,,16.0
+350,2024,Freeport,57,Page P/T,Y,,16.0
+351,2024,Freeport,58,Page P/T,Y,,16.85
+352,2024,Freeport,59,Page P/T,Y,,16.85
+353,2024,Freeport,60,Page P/T,Y,,16.85
+354,2024,Freeport,61,Page P/T,Y,,16.85
+355,2024,Freeport,62,Page P/T,Y,,16.35
+356,2024,Freeport,63,Page ,Y,,20.2
+357,2024,Freeport,64,Page P/T,Y,,16.35
+358,2024,Freeport,65,Principal Library Clerk,N,75842.0,
+359,2024,Freeport,66,Security Aide,N,38094.0,
+360,2024,Freeport,67,Security Aide,N,54880.0,
+361,2024,Freeport,68,Security Aide P/T,Y,,21.3
+362,2024,Freeport,69,Senior Account Clerk,N,121197.0,
+363,2024,Freeport,70,Senior Library Clerk,N,51162.0,
+364,2024,Freeport,71,Senior Library Clerk,N,74588.0,
+365,2024,Freeport,72,Senior Library Clerk,N,58624.0,
+366,2024,Freeport,73,Senior Library Clerk,N,61678.0,
+367,2024,Freeport,74,Senior Library Clerk,N,61520.0,
+368,2024,Freeport,75,Senior Library Clerk,Y,,38.4434
+369,2024,Freeport,76,Senior Typist Clerk,Y,,30.3151
+370,2024,Freeport,77,Typist Clerk,N,38000.0,
+371,2024,Freeport,78,Typist Clerk,N,38000.0,
+372,2024,Freeport,79,Typist-Clerk P/T (Non-Comp),Y,,19.2
+373,2024,Freeport,80,Typist-Clerk P/T (Non-Comp),Y,,18.0
+374,2024,Island Park,1,LIBRARIAN I,N,52780.0,
+375,2024,Island Park,2,LIBRARIAN I PART-TIME SUBSTITUTE,N,,22.0
+376,2024,Island Park,3,TREASURER PART-TIME,N,,55.0
+377,2024,Island Park,4,LIBRARIAN 1 PART-TIME,N,,26.25
+378,2024,Island Park,5,LIBRARY DIRECTOR,N,123622.0,
+379,2024,Island Park,6,"ACCOUNT CLERK, PART-TIME",N,,55.0
+380,2024,Island Park,7,"LIBRARIAN 1, PART-TIME",N,,24.0
+381,2024,Island Park,8,ASSISTANT LIBRARY DIRECTOR,N,77003.0,
+382,2024,Island Park,9,LIBRARIAN I PART-TIME,N,,27.05
+383,2024,Island Park,10,LIBRARIAN I PART-TIME,N,,26.25
+384,2024,Island Park,11,SENIOR LIBRARY CLERK,N,,20.75
+385,2024,Island Park,12,TYPIST CLERK PART-TIME,N,,16.5
+386,2024,Island Park,13,SECRETARY TO THE LIBRARY BOARD,N,,25.0
+387,2024,Island Park,14,TYPIST CLERK PART-TIME,N,,18.0
+388,2024,Island Park,15,PRINCIPAL LIBRARY CLERK,N,61370.0,
+389,2024,Island Park,16,LIBRARY AIDE,N,39694.0,
+390,2024,Island Park,17,LIBRARY AIDE PART-TIME,N,,21.3
+391,2024,Island Park,18,TYPIST CLERK PART-TIME,N,,16.75
+392,2024,Island Park,19,SENIOR LIBRARY CLERK,N,,20.75
+393,2024,Island Park,20,PAGE PART-TIME,N,,16.0
+394,2024,Island Park,21,CLEANER,N,,18.65
+395,2024,Island Park,22,CLEANER PART-TIME SUBSTITUTE,N,,16.0
+396,2024,Island Park,23,CUSTODIAN,N,47775.0,
+397,2024,Island Park,24,CLEANER,N,,17.0
+398,2024,Longwood,1,HEAD CUSTODIAN,N,59017.0,
+399,2024,Longwood,2,LIBRARIAN I,N,57769.0,
+400,2024,Longwood,3,LIBRARIAN II,N,75031.0,
+401,2024,Longwood,4,LIBRARIAN II,N,71178.0,
+402,2024,Longwood,5,LIBRARIAN III,N,91827.0,
+403,2024,Longwood,6,CUSTODIAL WORKER I,N,38855.0,
+404,2024,Longwood,7,LIBRARIAN I-CHILDRENS SERVICES,N,60875.0,
+405,2024,Longwood,8,LIBRARY CLERK,N,56803.0,
+406,2024,Longwood,9,LIBRARIAN III,N,111205.0,
+407,2024,Longwood,10,LIBRARY CLERK,N,49782.0,
+408,2024,Longwood,11,BUSINESS MANAGER,N,81300.0,
+409,2024,Longwood,12,CUSTODIAL WORKER II,N,41841.0,
+410,2024,Longwood,13,ASSISTANT LIBRARY DIRECTOR,N,120612.0,
+411,2024,Longwood,14,SENIOR LIBRARY CLERK,N,56768.0,
+412,2024,Longwood,15,LIBRARY DIRECTOR,N,164194.56,
+413,2024,Longwood,16,LIBRARIAN I-CHILDRENS SERVICES,N,57769.0,
+414,2024,Longwood,17,LIBRARY CLERK,N,34928.0,
+415,2024,Longwood,18,LIBRARIAN II,N,85633.0,
+416,2024,Longwood,19,LIBRARIAN III ,N,103467.0,
+417,2024,Longwood,20,LIBRARIAN III,N,111205.0,
+418,2024,Longwood,21,NETWORK & SYSTEMS SPECIALIST I,N,92137.0,
+419,2024,Longwood,22,LIBRARIAN II,N,79100.0,
+420,2024,Longwood,23,SENIOR ACCOUNT CLERK TYPIST,N,42364.0,
+421,2024,Longwood,24,LIBRARIAN II,N,64071.0,
+422,2024,Longwood,25,LIBRARY CLERK,N,35833.0,
+423,2024,Longwood,26,LIBRARIAN I,N,57769.0,
+424,2024,Longwood,27,LOCAL HISTORY,N,59302.0,
+425,2024,Longwood,28,LIBRARIAN II,N,100954.0,
+426,2024,Longwood,29,LIBRARIAN I-CHILDRENS SERVICES,N,59302.0,
+427,2024,Longwood,30,LIBRARIAN II,N,71178.0,
+428,2024,Longwood,31,OFFICE ASSISTANT,N,53411.0,
+429,2024,Longwood,32,SENIOR LIBRARY CLERK,N,60944.0,
+430,2024,Longwood,33,LIBRARY CLERK,N,36760.0,
+431,2024,Longwood,34,PRINCIPAL LIBRARY CLERK,N,76731.0,
+432,2024,Longwood,35,LIBRARIAN III,N,89425.0,
+433,2024,Longwood,36,LIBRARY CLERK,N,37716.0,
+434,2024,Longwood,37,LIBRARIAN I,N,90907.0,
+435,2024,Longwood,38,LIBRARIAN I,N,62494.0,
+436,2024,Longwood,39,LIBRARIAN I-CHILDRENS SERVICES,Y,,26.0
+437,2024,Longwood,40,LIBRARY CLERK,Y,,20.04
+438,2024,Longwood,41,LIBRARY CLERK,Y,,18.25
+439,2024,Longwood,42,PAGE,Y,,15.97
+440,2024,Longwood,43,LIBRARY CLERK,Y,,24.77
+441,2024,Longwood,44,CUSTODIAL WORKER I,Y,,19.31
+442,2024,Longwood,45,LIBRARIAN I,Y,,42.51
+443,2024,Longwood,46,LIBRARY CLERK,Y,,24.77
+444,2024,Longwood,47,LIBRARY CLERK,Y,,27.63
+445,2024,Longwood,48,GUARD,Y,,28.37
+446,2024,Longwood,49,LIBRARIAN I,Y,,52.02
+447,2024,Longwood,50,LIBRARIAN I-CHILDRENS SERVICES,Y,,26.0
+448,2024,Longwood,51,LIBRARY CLERK,Y,,25.06
+449,2024,Longwood,52,PAGE,Y,,17.12
+450,2024,Longwood,53,PAGE,Y,,15.97
+451,2024,Longwood,54,PAGE,Y,,15.97
+452,2024,Longwood,55,LIBRARY CLERK,Y,,20.61
+453,2024,Longwood,56,LIBRARY CLERK,Y,,29.24
+454,2024,Longwood,57,TECHNICAL SUPPORT AIDE,Y,,22.0
+455,2024,Longwood,58,PAGE,Y,,15.5
+456,2024,Longwood,59,LIBRARY CLERK,Y,,21.72
+457,2024,Longwood,60,PAGE,Y,,16.43
+458,2024,Longwood,61,GUARD,Y,,29.98
+459,2024,Longwood,62,LIBRARIAN I,Y,,38.73
+460,2024,Longwood,63,SENIOR ACCOUNT CLERK TYPIST,Y,,24.54
+461,2024,Longwood,64,LIBRARY CLERK,Y,,18.8
+462,2024,Longwood,65,GUARD,Y,,25.5
+463,2024,Longwood,66,PAGE,Y,,15.97
+464,2024,Longwood,67,LIBRARIAN TRAINEE,Y,,26.78
+465,2024,Longwood,68,PAGE,Y,,16.43
+466,2024,Longwood,69,LIBRARIAN I-CHILDRENS SERVICES,Y,,29.87
+467,2024,Longwood,70,LIBRARIAN I,Y,,39.06
+468,2024,Longwood,71,LIBRARY CLERK,Y,,19.49
+469,2024,Longwood,72,LIBRARIAN I,Y,,26.0
+470,2024,Longwood,73,LIBRARIAN I,Y,,26.78
+471,2024,Longwood,74,LIBRARIAN TRAINEE,Y,,26.0
+472,2024,Longwood,75,LIBRARIAN I,Y,,47.32
+473,2024,Longwood,76,GRAPHIC MATERIALS DESIGNER,Y,,29.73
+474,2024,Longwood,77,LIBRARIAN I,Y,,32.72
+475,2024,Longwood,78,PAGE,Y,,16.43
+476,2024,Longwood,79,PAGE,Y,,16.83
+477,2024,Longwood,80,LIBRARY CLERK,Y,,21.16
+478,2024,Longwood,81,LIBRARIAN I,Y,,31.01
+479,2024,Longwood,82,LIBRARY CLERK,Y,,20.04
+480,2024,Longwood,83,LIBRARIAN I,Y,,26.0
+481,2024,Longwood,84,LIBRARIAN TRAINEE,Y,,27.57
+482,2024,Longwood,85,LIBRARY CLERK,Y,,18.8
+483,2024,Longwood,86,LIBRARY CLERK,Y,,19.34
+484,2024,Longwood,87,TECHNICAL SUPPORT AIDE,Y,,25.98
+485,2024,Longwood,88,PAGE,Y,,16.43
+486,2024,Longwood,89,LIBRARY CLERK,Y,,19.49
+487,2024,Longwood,90,PAGE,Y,,15.5
+488,2024,Longwood,91,LIBRARIAN I,Y,,30.76
+489,2024,Longwood,92,LIBRARY CLERK,Y,,18.8
+490,2024,Longwood,93,LIBRARY CLERK,Y,,19.34
+491,2024,Longwood,94,LIBRARY CLERK,Y,,18.8
+492,2024,Longwood,95,LIBRARIAN I,Y,,46.45
+493,2024,Longwood,96,LIBRARIAN I,Y,,35.8
+494,2024,Longwood,97,LIBRARY CLERK,Y,,19.34
+495,2024,Longwood,98,LIBRARY CLERK,Y,,30.22
+496,2024,Longwood,99,LOCAL HISTORY,Y,,46.43
+497,2024,Longwood,100,LIBRARIAN I,Y,,44.63
+498,2024,Longwood,101,LIBRARY CLERK,Y,,26.01
+499,2024,Longwood,102,LIBRARIAN I,Y,,46.45
+500,2024,Longwood,103,LIBRARIAN I,Y,,48.22
+501,2024,Longwood,104,PAGE,Y,,16.54
+502,2024,Longwood,105,LIBRARIAN I,Y,,29.87
+503,2024,Longwood,106,LIBRARIAN I,Y,,31.82
+504,2024,Longwood,107,PAGE,Y,,18.44
+505,2024,Longwood,108,PAGE,Y,,16.43
+506,2024,Longwood,109,LIBRARIAN I,Y,,30.76
+507,2024,Longwood,110,LIBRARY CLERK,Y,,19.34
+508,2024,Longwood,111,PAGE,Y,,15.97
+509,2024,Longwood,112,PAGE,Y,,16.43
+510,2024,Longwood,113,PAGE,Y,,16.43
+511,2024,Longwood,114,LIBRARY CLERK,Y,,27.96
+512,2024,Longwood,115,GUARD,Y,,26.27
+513,2024,Longwood,116,PAGE,Y,,18.74
+514,2024,Longwood,117,LIBRARY CLERK,Y,,32.28
+515,2024,Lynnbrook,2,CLEANER,N,56536.19,
+516,2024,Lynnbrook,3,CLEANER (PART-TIME),Y,,18.0
+517,2024,Lynnbrook,4,TYPIST-CLERK (PART-TIME),Y,,18.75
+518,2024,Lynnbrook,5,TYPIST-CLERK (PART-TIME),Y,,18.5
+519,2024,Lynnbrook,6,TYPIST-CLERK (PART-TIME),Y,,26.7859
+520,2024,Lynnbrook,7,TYPIST-CLERK (PART-TIME),Y,,26.0057
+521,2024,Lynnbrook,8,TYPIST-CLERK (PART-TIME),Y,,18.0
+522,2024,Lynnbrook,9,TYPIST-CLERK (PART-TIME),Y,,18.0
+523,2024,Lynnbrook,10,TYPIST-CLERK,N,48562.61,
+524,2024,Lynnbrook,11,TYPIST-CLERK,N,47597.68,
+525,2024,Lynnbrook,12,TYPIST-CLERK,N,69405.38,
+526,2024,Lynnbrook,13,ACCOUNT CLERK,N,66567.39,
+527,2024,Lynnbrook,14,PAGE (PART-TIME),Y,,21.0297
+528,2024,Lynnbrook,15,PAGE (PART-TIME),Y,,17.262
+529,2024,Lynnbrook,16,PAGE (PART-TIME),Y,,16.75
+530,2024,Lynnbrook,17,PAGE (PART-TIME),Y,,16.0
+531,2024,Lynnbrook,18,PAGE (PART-TIME),Y,,16.75
+532,2024,Lynnbrook,19,PAGE (SEASONAL WORKER),Y,,16.75
+533,2024,Lynnbrook,20,PAGE (SEASONAL WORKER),Y,,16.75
+534,2024,Lynnbrook,21,LIBRARIAN I (PART-TIME),Y,,28.1484
+535,2024,Lynnbrook,22,LIBRARIAN I (PART-TIME),Y,,25.3876
+536,2024,Lynnbrook,23,LIBRARIAN I (PART-TIME),Y,,25.6444
+537,2024,Lynnbrook,24,LIBRARIAN I,N,65948.43,
+538,2024,Lynnbrook,25,LIBRARIAN I,N,56536.19,
+539,2024,Lynnbrook,26,LIBRARIAN II,N,95466.83,
+540,2024,Lynnbrook,27,ASSISTANT LIBRARY DIRECTOR,N,102262.31,
+541,2024,Lynnbrook,28,LIBRARY DIRECTOR,N,166230.02,
+542,2024,Mastics-Moriches-Shirley,1,ACCOUNT CLERK TYPIST,N,47187.66,
+543,2024,Mastics-Moriches-Shirley,2,ASSISTANT DIRECTOR,N,125047.52,
+544,2024,Mastics-Moriches-Shirley,3,BUSINESS MANAGER II,N,132698.02,
+545,2024,Mastics-Moriches-Shirley,4,COMMUNITY SERV AIDE,Y,,16.0
+546,2024,Mastics-Moriches-Shirley,5,COMPUTER TECHNICIAN,Y,,20.31
+547,2024,Mastics-Moriches-Shirley,6,CUSTODIAL WORKER I,Y,,16.0
+548,2024,Mastics-Moriches-Shirley,7,CUSTODIAL WORKER I,Y,,18.39
+549,2024,Mastics-Moriches-Shirley,8,CUSTODIAL WORKER I,Y,,26.54
+550,2024,Mastics-Moriches-Shirley,9,CUSTODIAL WORKER II,N,43477.2,
+551,2024,Mastics-Moriches-Shirley,10,CUSTODIAL WORKER III,N,58000.0,
+552,2024,Mastics-Moriches-Shirley,11,CUSTODIAL WORKER III,N,64479.22,
+553,2024,Mastics-Moriches-Shirley,12,GUARD,Y,,21.5
+554,2024,Mastics-Moriches-Shirley,13,GUARD,Y,,22.02
+555,2024,Mastics-Moriches-Shirley,14,GUARD,Y,,22.09
+556,2024,Mastics-Moriches-Shirley,15,GUARD,Y,,22.18
+557,2024,Mastics-Moriches-Shirley,16,GUARD,Y,,23.31
+558,2024,Mastics-Moriches-Shirley,17,GUARD,Y,,23.77
+559,2024,Mastics-Moriches-Shirley,18,GUARD,Y,,25.22
+560,2024,Mastics-Moriches-Shirley,19,LIB I CHILDRENS SERV,N,59730.58,
+561,2024,Mastics-Moriches-Shirley,20,LIB I CHILDRENS SERV,Y,,24.72
+562,2024,Mastics-Moriches-Shirley,21,LIB I CHILDRENS SERV,Y,,25.92
+563,2024,Mastics-Moriches-Shirley,22,LIB I CHILDRENS SERV,Y,,29.85
+564,2024,Mastics-Moriches-Shirley,23,LIB I CHILDRENS SERV,Y,,38.84
+565,2024,Mastics-Moriches-Shirley,24,LIBRARIAN I,N,53207.44,
+566,2024,Mastics-Moriches-Shirley,25,LIBRARIAN I,N,54483.78,
+567,2024,Mastics-Moriches-Shirley,26,LIBRARIAN I,N,72677.54,
+568,2024,Mastics-Moriches-Shirley,27,LIBRARIAN I,Y,,22.25
+569,2024,Mastics-Moriches-Shirley,28,LIBRARIAN I,Y,,24.72
+570,2024,Mastics-Moriches-Shirley,29,LIBRARIAN I,Y,,25.31
+571,2024,Mastics-Moriches-Shirley,30,LIBRARIAN I,Y,,26.54
+572,2024,Mastics-Moriches-Shirley,31,LIBRARIAN I,Y,,29.85
+573,2024,Mastics-Moriches-Shirley,32,LIBRARIAN I,Y,,31.68
+574,2024,Mastics-Moriches-Shirley,33,LIBRARIAN I,Y,,37.57
+575,2024,Mastics-Moriches-Shirley,34,LIBRARIAN I,Y,,58.62
+576,2024,Mastics-Moriches-Shirley,35,LIBRARIAN II,N,59961.46,
+577,2024,Mastics-Moriches-Shirley,36,LIBRARIAN II,N,70772.52,
+578,2024,Mastics-Moriches-Shirley,37,LIBRARIAN II,N,75372.7,
+579,2024,Mastics-Moriches-Shirley,38,LIBRARIAN II,N,81050.32,
+580,2024,Mastics-Moriches-Shirley,39,LIBRARIAN II,N,83923.84,
+581,2024,Mastics-Moriches-Shirley,40,LIBRARIAN II,N,103077.78,
+582,2024,Mastics-Moriches-Shirley,41,LIBRARIAN III,N,84557.2,
+583,2024,Mastics-Moriches-Shirley,42,LIBRARIAN III,N,90172.94,
+584,2024,Mastics-Moriches-Shirley,43,LIBRARIAN III,N,93639.52,
+585,2024,Mastics-Moriches-Shirley,44,LIBRARIAN III,N,95810.0,
+586,2024,Mastics-Moriches-Shirley,45,LIBRARIAN III,N,114135.06,
+587,2024,Mastics-Moriches-Shirley,46,LIBRARIAN TRAINEE,N,47902.66,
+588,2024,Mastics-Moriches-Shirley,47,LIBRARIAN TRAINEE,Y,,22.25
+589,2024,Mastics-Moriches-Shirley,48,LIBRARY ASSISTANT,Y,,23.54
+590,2024,Mastics-Moriches-Shirley,49,LIBRARY ASSISTANT,N,46524.92,
+591,2024,Mastics-Moriches-Shirley,50,LIBRARY ASSISTANT,Y,,18.16
+592,2024,Mastics-Moriches-Shirley,51,LIBRARY ASSISTANT,Y,,26.76
+593,2024,Mastics-Moriches-Shirley,52,LIBRARY CLERK,N,31893.42,
+594,2024,Mastics-Moriches-Shirley,53,LIBRARY CLERK,N,32658.86,
+595,2024,Mastics-Moriches-Shirley,54,LIBRARY CLERK,Y,,16.0
+596,2024,Mastics-Moriches-Shirley,55,LIBRARY CLERK,Y,,17.15
+597,2024,Mastics-Moriches-Shirley,56,LIBRARY CLERK,Y,,20.48
+598,2024,Mastics-Moriches-Shirley,57,LIBRARY CLERK SS,N,38716.6,
+599,2024,Mastics-Moriches-Shirley,58,LIBRARY CLERK SS,Y,,16.0
+600,2024,Mastics-Moriches-Shirley,59,LIBRARY DIRECTOR,N,193687.0,
+601,2024,Mastics-Moriches-Shirley,60,LIT VOL PROG ASST SS,N,35394.84,
+602,2024,Mastics-Moriches-Shirley,61,LIT VOL PROG CO ORD,N,88404.68,
+603,2024,Mastics-Moriches-Shirley,62,NETWRK   SYSTEMS TEC,N,111616.18,
+604,2024,Mastics-Moriches-Shirley,63,PAGE,Y,,16.0
+605,2024,Mastics-Moriches-Shirley,64,PAGE,N,29120.0,
+606,2024,Mastics-Moriches-Shirley,65,PRINCIPAL ACCOUNT CLERK,N,59000.0,
+607,2024,Mastics-Moriches-Shirley,66,PRINCIPAL LIB CLERK,N,62914.28,
+608,2024,Mastics-Moriches-Shirley,67,PUBLIC RELATIONS SPC,N,58626.62,
+609,2024,Mastics-Moriches-Shirley,68,SENIOR LIBRARY CLERK,N,47347.82,
+610,2024,Mastics-Moriches-Shirley,69,SR ACCOUNT CLERK TYP,N,70938.14,
+611,2024,Mastics-Moriches-Shirley,70,WEBSITE MANAGER,Y,,48.73
+612,2024,Mattituck-Laurel,1,Executive Director,N,100000.0,
+613,2024,Mattituck-Laurel,2,Librarian (Head of Youth & Parenting),N,83400.0,
+614,2024,Mattituck-Laurel,3,Librarian (Head of Adult Services),N,61000.0,
+615,2024,Mattituck-Laurel,4,Librarian (Teen Services),N,53000.0,
+616,2024,Mattituck-Laurel,5,Library Assistant,N,,32.0
+617,2024,Mattituck-Laurel,6,Social Media Marketing & Technology Coordinator,N,52000.0,
+618,2024,Mattituck-Laurel,7,Library Clerk,N,,17.5
+619,2024,Mattituck-Laurel,8,Senior Library Clerk,N,,22.81
+620,2024,Mattituck-Laurel,9,Head Library Clerk,N,38000.0,
+621,2024,Mattituck-Laurel,10,Tech Services,N,42000.0,
+622,2024,Mattituck-Laurel,11,Custodian,N,,21.0
+623,2024,Mattituck-Laurel,12,Readers Advisor,N,58600.0,
+624,2024,Mattituck-Laurel,13,Bookkeeper,N,,21.22
+625,2024,Middle Country,1,Library Clerk,N,39216.0,
+626,2024,Middle Country,2,Senior Library Clerk,N,45398.0,
+627,2024,Middle Country,3,Custodial Worker I,N,43235.0,
+628,2024,Middle Country,4,Custodial Worker II,N,52553.0,
+629,2024,Middle Country,5,Network and Systems Technician I ,N,57940.0,
+630,2024,Middle Country,6,Principal Library Clerk,N,63879.0,
+631,2024,Middle Country,7,Administrative Assistant,N,81528.0,
+632,2024,Middle Country,8,Custodial Worker III,N,81528.0,
+633,2024,Middle Country,9,Library Assistant,N,54281.0,
+634,2024,Middle Country,10,Librarian Trainee,N,59844.0,
+635,2024,Middle Country,11,Librarian I,N,65978.0,
+636,2024,Middle Country,12,Librarian II,N,76380.0,
+637,2024,Middle Country,13,Librarian III,N,88418.0,
+638,2024,Middle Country,14,Librarian IV,N,92838.0,
+639,2024,Middle Country,15,Network and Systems Specialist I,N,65978.0,
+640,2024,Middle Country,16,Netwrok and Systems Specialist II,N,72743.0,
+641,2024,Middle Country,17,Netwrok and Systems Administrator,N,88418.0,
+642,2024,Middle Country,18,Business Manager I,N,97480.0,
+643,2024,Middle Country,19,Assistant Library Director,N,102356.0,
+644,2024,Montauk,1,Director,N,149000.0,
+645,2024,Montauk,2,Archivist,N,,38.5
+646,2024,Montauk,3,Treasurer,N,,37.0
+647,2024,Montauk,4,Librarian I,N,,36.5
+648,2024,Montauk,5,Library Assistant,N,,27.75
+649,2024,Montauk,6,Library Clerk,N,,20.5
+650,2024,Montauk,7,Page,N,,20.0
+651,2024,Montauk,8,Custodial Worker I,N,,22.75
+652,2024,Montauk,9,Network & System Specialist II,N,,47.0
+653,2024,North Bellmore,1,HET - Page,Y,,33.48
+654,2024,North Bellmore,2,NME - Librarian I,Y,,38.5
+655,2024,North Bellmore,3,ACD - Clerk,N,55222.24,
+656,2024,North Bellmore,4,AGA - Typist Clerk,N,45000.0,
+657,2024,North Bellmore,5,NLL - Principle Library Clerk,Y,,41.72
+658,2024,North Bellmore,6,NNA - Librarian II,N,76968.0,
+659,2024,North Bellmore,7,NNA - Librarian II,N,72800.0,
+660,2024,North Bellmore,8,ACA - Clerk,Y,,31.42
+661,2024,North Bellmore,9,ACA - Clerk,Y,,25.24
+662,2024,North Bellmore,10,NMF - Librarian I,N,67600.0,
+663,2024,North Bellmore,11,1KK - Cleaner,N,45000.0,
+664,2024,North Bellmore,12,1OP - Head Custodian I,N,78000.0,
+665,2024,North Bellmore,13,NNA - Librarian II,N,75400.0,
+666,2024,North Bellmore,14,NMH - Librarian I,Y,,34.63
+667,2024,North Bellmore,15,HET - Page,Y,,17.5
+668,2024,North Bellmore,16,HET - Page,Y,,24.46
+669,2024,North Bellmore,17,HET - Page,Y,,16.0
+670,2024,North Bellmore,18,CAF - Account Clerk,Y,,52.0
+671,2024,North Bellmore,19,NLA - Senior Library Clerk,N,57678.4,
+672,2024,North Bellmore,20,NNA - Librarian II,N,94700.0,
+673,2024,North Bellmore,21,NQF - Assistant Library Director,N,97850.0,
+674,2024,North Bellmore,22,HET - Page,Y,,24.46
+675,2024,North Bellmore,23,1KI - Cleaner Temporary,Y,,20.0
+676,2024,North Bellmore,24,HET - Page,Y,,19.57
+677,2024,North Bellmore,25,1KJ - Cleaner,Y,,33.48
+678,2024,North Bellmore,26,NME - Librarian I,Y,,35.67
+679,2024,North Bellmore,27,BWD - Info. Tech. Specialist I,Y,,43.26
+680,2024,North Bellmore,28,NMH - Librarian I ,Y,,35.84
+681,2024,North Bellmore,29,AGB - Typist Clerk Substitute,Y,,20.0
+682,2024,North Bellmore,30,HET - Page,Y,,16.0
+683,2024,North Bellmore,31,HET - Page,Y,,16.0
+684,2024,North Bellmore,32,NMA - Librarian Trainee,N,50000.0,
+685,2024,North Bellmore,33,HET - Page,Y,,35.65
+686,2024,North Bellmore,34,AFT - Typist Clerk,Y,,20.0
+687,2024,North Bellmore,35,NNA - Librarian II,N,79919.52,
+688,2024,North Bellmore,36,HET - Page,Y,,33.48
+689,2024,North Bellmore,37,NQK - Library Director,N,137582.64,
+690,2024,North Bellmore,38,HET - Page,Y,,33.31
+691,2024,North Bellmore,39,NME - Librarian I,Y,,49.94
+692,2024,North Bellmore,40,NME - Librarian I,Y,,39.08
+693,2024,North Bellmore,41,EDO - Public Info. Assistant,Y,,25.0
+694,2024,North Bellmore,42,HET - Page,Y,,16.0
+695,2024,Oyster Bay-East Norwich,1,Clerk Typist FT,N,31504.2,
+696,2024,Oyster Bay-East Norwich,2,Clerk Typist PT,Y,,20.55
+697,2024,Oyster Bay-East Norwich,3,Clerk Tyoist PT,Y,,17.31
+698,2024,Oyster Bay-East Norwich,4,Clerk Typist PT,Y,,18.84
+699,2024,Oyster Bay-East Norwich,5,Senior Library Clerk FT,N,42770.0,
+700,2024,Oyster Bay-East Norwich,6,Senior Library Clerk FT,N,41186.6,
+701,2024,Oyster Bay-East Norwich,7,Librarian II FT,N,79570.4,
+702,2024,Oyster Bay-East Norwich,8,Librarian I FT,N,66229.8,
+703,2024,Oyster Bay-East Norwich,9,Libraran I  FT,N,65283.4,
+704,2024,Oyster Bay-East Norwich,10,Librarian I FT,N,60769.8,
+705,2024,Oyster Bay-East Norwich,11,Librarian I FT,N,58403.8,
+706,2024,Oyster Bay-East Norwich,12,Librarian I PT,Y,,33.52
+707,2024,Oyster Bay-East Norwich,13,Librarian 1 PT,Y,,32.07
+708,2024,Oyster Bay-East Norwich,14,Librarian Sub,Y,,33.97
+709,2024,Oyster Bay-East Norwich,15,Librarian Sub,Y,,35.39
+710,2024,Oyster Bay-East Norwich,16,Cleaner FT,N,51708.8,
+711,2024,Oyster Bay-East Norwich,17,Cleaner PT,Y,,18.44
+712,2024,Oyster Bay-East Norwich,18,Cleaner PT,Y,,17.07
+713,2024,Oyster Bay-East Norwich,19,Personnel Clerk FT,N,56929.6,
+714,2024,Peninusula Public Library,1,Director,N,138075.0,
+715,2024,Peninusula Public Library,2,Assistant Director,N,100695.0,
+716,2024,Peninusula Public Library,3,Librarian I,N,49959.0,
+717,2024,Peninusula Public Library,4,Librarian II,N,69564.0,
+718,2024,Peninusula Public Library,5,Librarian III,N,70724.0,
+719,2024,Peninusula Public Library,6,Principle Typist Clerk,N,59121.14,
+720,2024,Peninusula Public Library,7,Senior Typist Clerk,N,48919.93,
+721,2024,Peninusula Public Library,8,Typist Clerk,N,44126.16,
+722,2024,Peninusula Public Library,9,Librarian Trainee,N,35875.0,
+723,2024,Peninusula Public Library,10,Library Aide,N,56100.0,
+724,2024,Peninusula Public Library,11,Senior Account Clerk,N,66300.0,
+725,2024,Peninusula Public Library,12,Custodian,N,69563.78,
+726,2024,Peninusula Public Library,13,Cleaner,N,45313.71,
+727,2024,Peninusula Public Library,14,Page,N,39166.67,
+728,2024,Peninusula Public Library,15,Librarian I,Y,,24.4
+729,2024,Peninusula Public Library,16,Clerk Typist,Y,,18.0
+730,2024,Peninusula Public Library,17,Page,Y,,16.0
+731,2024,Port Washington,1,Library Director,N,143230.0,
+732,2024,Port Washington,2,Assistant Library Director,N,111730.0,
+733,2024,Port Washington,3,Librarian III,N,144070.0,
+734,2024,Port Washington,4,Librarian III,N,144070.0,
+735,2024,Port Washington,5,Librarian III,N,144070.0,
+736,2024,Port Washington,6,Librarian II,N,76760.0,
+737,2024,Port Washington,7,Librarian II,N,124430.0,
+738,2024,Port Washington,8,Librarian II,N,130650.0,
+739,2024,Port Washington,9,Librarian II,N,77950.0,
+740,2024,Port Washington,10,Librarian II,N,76760.0,
+741,2024,Port Washington,11,"Librarian I, BiLingual",N,76760.0,
+742,2024,Port Washington,12,Librarian I,N,69910.0,
+743,2024,Port Washington,13,Librarian I,N,69910.0,
+744,2024,Port Washington,14,Librarian I,N,119020.0,
+745,2024,Port Washington,15,Librarian I,N,119020.0,
+746,2024,Port Washington,16,Librarian I,N,55930.0,
+747,2024,Port Washington,17,Librarian I,N,69910.0,
+748,2024,Port Washington,18,Librarian I,N,119020.0,
+749,2024,Port Washington,19,Librarian I,N,69910.0,
+750,2024,Port Washington,20,Librarian I,N,71500.0,
+751,2024,Port Washington,21,Librarian I,N,69910.0,
+752,2024,Port Washington,22,Librarian I,N,69910.0,
+753,2024,Port Washington,23,Librarian I,N,119020.0,
+754,2024,Port Washington,24,Librarian Trainee,N,55990.0,
+755,2024,Port Washington,25,Community Service Information  Assistant,N,95216.0,
+756,2024,Port Washington,26,Principal Library Clerk,N,104730.0,
+757,2024,Port Washington,27,Junior Accountant,N,70000.0,
+758,2024,Port Washington,28,Principal Typist Clerk,N,64000.0,
+759,2024,Port Washington,29,Cultural Program Specialist,N,55990.0,
+760,2024,Port Washington,30,Information Technology Specialist,N,54660.0,
+761,2024,Port Washington,31,Senior Library Clerk,N,50760.0,
+762,2024,Port Washington,32,Typist Clerk,N,69780.0,
+763,2024,Port Washington,33,Typist Clerk,N,66450.0,
+764,2024,Port Washington,34,Typist Clerk,N,41620.0,
+765,2024,Port Washington,35,Library Aide,N,42180.0,
+766,2024,Port Washington,36,Audio Visual Technician,N,42180.0,
+767,2024,Port Washington,37,Page,N,42180.0,
+768,2024,Port Washington,38,Custodian,N,54080.0,
+769,2024,Port Washington,39,Custodian,N,84000.0,
+770,2024,Port Washington,40,Cleaner,N,46310.0,
+771,2024,Port Washington,41,Cleaner,N,46310.0,
+772,2024,Port Washington,42,"Librarian I, P-T",Y,,31.54
+773,2024,Port Washington,43,"Librarian I, P-T",Y,,27.28
+774,2024,Port Washington,44,"Librarian I, P-T",Y,,34.57
+775,2024,Port Washington,45,"Librarian I, P-T",Y,,38.41
+776,2024,Port Washington,46,"Librarian I, P-T",Y,,34.57
+777,2024,Port Washington,47,"Librarian I, P-T",Y,,31.25
+778,2024,Port Washington,48,"Librarian I, P-T",Y,,34.57
+779,2024,Port Washington,49,"Librarian I, P-T",Y,,45.96
+780,2024,Port Washington,50,"LibrarianTrainee, P-T",Y,,27.69
+781,2024,Port Washington,51,"Library Aide, P-T",Y,,20.86
+782,2024,Port Washington,52,"Typist-Clerk, P-T",Y,,20.86
+783,2024,Port Washington,53,"Typist-Clerk, P-T",Y,,20.86
+784,2024,Port Washington,54,"Typist-Clerk, P-T",Y,,20.39
+785,2024,Port Washington,55,"Typist-Clerk, P-T",Y,,20.86
+786,2024,Port Washington,56,"Clerk, P-T",Y,,29.8
+787,2024,Port Washington,57,"Clerk, P-T",Y,,29.8
+788,2024,Port Washington,58,"Cleaner, P-T",Y,,18.97
+789,2024,Port Washington,59,"Page, P-T",Y,,16.0
+790,2024,Port Washington,60,"Page, P-T",Y,,16.0
+791,2024,Port Washington,61,"Page, P-T",Y,,16.0
+792,2024,Port Washington,62,"Page, P-T",Y,,16.0
+793,2024,Port Washington,63,"Page, P-T",Y,,16.0
+794,2024,Port Washington,64,"Page, P-T",Y,,17.35
+795,2024,Port Washington,65,"Page, P-T",Y,,21.25
+796,2024,Port Washington,66,"Page, P-T",Y,,16.0
+797,2024,Port Washington,67,"Page, P-T",Y,,16.0
+798,2024,Port Washington,68,"Page, P-T",Y,,16.0
+799,2024,Port Washington,69,"Page, P-T",Y,,16.0
+800,2024,Port Washington,70,"Page, P-T",Y,,16.0
+801,2024,Port Washington,71,"Page, P-T",Y,,21.25
+802,2024,Port Washington,72,"Page, P-T",Y,,17.35
+803,2024,Port Washington,73,"Page, P-T",Y,,16.0
+804,2024,Port Washington,74,"Page, P-T",Y,,20.37
+805,2024,Port Washington,75,"Page, P-T",Y,,16.0
+806,2024,Port Washington,76,"Page, P-T",Y,,16.0
+807,2024,Port Washington,77,"Page, P-T",Y,,16.0
+808,2024,Port Washington,78,"Page, P-T",Y,,16.0
+809,2024,Port Washington,79,"Page, P-T",Y,,21.25
+810,2024,Port Washington,80,"Page, P-T",Y,,16.0
+811,2024,Port Washington,81,"Page, P-T",Y,,16.0
+812,2024,Port Washington,82,"Page, P-T",Y,,16.0
+813,2024,Port Washington,83,"Page, P-T",Y,,16.0
+814,2024,Port Washington,84,"Page, P-T",Y,,16.0
+815,2024,Port Washington,85,"Page, P-T",Y,,16.0
+816,2024,Port Washington,86,"Page, P-T",Y,,16.0
+817,2024,Port Washington,87,"Page, P-T",Y,,16.0
+818,2024,Port Washington,88,"Page, P-T",Y,,17.96
+819,2024,Port Washington,89,"Page, P-T",Y,,16.0
+820,2024,Port Washington,90,"Page, P-T",Y,,16.0
+821,2024,Port Washington,91,"Page, P-T",Y,,16.0
+822,2024,Riverhead,1,Director,N,137491.38,
+823,2024,Riverhead,2,Assistant Director,N,95429.0,
+824,2024,Riverhead,3,Business Manager,N,75000.0,
+825,2024,Riverhead,4,Adult & Info Serv Coordin,N,71500.0,
+826,2024,Riverhead,5,Youth Family Serv Coordin,N,73500.0,
+827,2024,Riverhead,6,Computer & Tech Coordin,N,75000.0,
+828,2024,Riverhead,7,Purchasing Coordinator,Y,,27.0
+829,2024,Riverhead,8,Patron Serv Coordinator,N,45000.0,
+830,2024,Riverhead,9,Building & Mainten Mngr,N,65000.0,
+831,2024,Riverhead,10,Librarian trainee,N,47778.06,
+832,2024,Riverhead,11,Librarian trainee part time,Y,,26.08
+833,2024,Riverhead,12,Librarian ,N,53482.57,
+834,2024,Riverhead,13,Librarian part time,Y,,30.28
+835,2024,Riverhead,14,Librarian II,N,59167.24,
+836,2024,Riverhead,15,Senior clerk,Y,,18.31
+837,2024,Riverhead,16,Clerk,Y,,16.29
+838,2024,Riverhead,17,Page,Y,,16.0
+839,2024,Riverhead,18,Bookkeeper part time,Y,,25.34
+840,2024,Riverhead,19,Custodian,Y,,25.0
+841,2024,Riverhead,20,Security guard part time,Y,,22.25
+842,2024,Rockville Center,1,Director,N,156139.0,85.79065934
+843,2024,Rockville Center,2,Assistant Director,N,120060.0,65.96703297
+844,2024,Rockville Center,3,Principal Account Clerk,N,90789.0,49.88406593
+845,2024,Rockville Center,4,Librarian II,N,90031.0,49.46758242
+846,2024,Rockville Center,5,Librarian II,N,79761.0,43.82472527
+847,2024,Rockville Center,6,Head Custodian,N,79761.0,43.82472527
+848,2024,Rockville Center,7,Senior Account Clerk,N,64795.0,35.60164835
+849,2024,Rockville Center,8,Senior Account Clerk,N,64635.0,35.51373626
+850,2024,Rockville Center,9,IT Specialist I,N,75190.0,41.31318681
+851,2024,Rockville Center,10,Librarian II,N,60118.0,33.03186813
+852,2024,Rockville Center,11,Librarian II,N,61395.0,33.73351648
+853,2024,Rockville Center,12,Librarian II,N,65530.0,36.00549451
+854,2024,Rockville Center,13,Librarian II,N,69212.0,38.02857143
+855,2024,Rockville Center,14,Librarian II,N,77530.0,42.5989011
+856,2024,Rockville Center,15,Librarian II,N,61395.0,33.73351648
+857,2024,Rockville Center,16,Librarian II,N,64199.0,35.27417582
+858,2024,Rockville Center,17,Librarian Trainee,N,50000.0,27.47252747
+859,2024,Rockville Center,18,Sr. Library Clerk,N,49572.0,27.23736264
+860,2024,Rockville Center,19,Sr. Library Clerk,N,47386.0,26.03626374
+861,2024,Rockville Center,20,Sr. Library Clerk,N,49454.0,27.17252747
+862,2024,Rockville Center,21,Sr. Library Clerk,N,46125.0,25.34340659
+863,2024,Rockville Center,22,Typist Clerk,N,42000.0,23.07692308
+864,2024,Rockville Center,23,Maintainer,N,73876.0,40.59120879
+865,2024,Rockville Center,24,Cleaner,N,47320.0,26.0
+866,2024,Rockville Center,25,PT Librarian II ,Y,,52.09
+867,2024,Rockville Center,26,PT Librarian I,Y,,30.75
+868,2024,Rockville Center,27,PT Librarian I,Y,,30.0
+869,2024,Rockville Center,28,PT Librarian I,Y,,30.75
+870,2024,Rockville Center,29,PT Librarian I,Y,,30.0
+871,2024,Rockville Center,30,PT Librarian I,Y,,30.75
+872,2024,Rockville Center,31,PT Librarian I,Y,,30.75
+873,2024,Rockville Center,32,PT Librarian I,Y,,33.3
+874,2024,Rockville Center,33,PT Librarian I,Y,,30.75
+875,2024,Rockville Center,34,PT Librarian I,Y,,37.35
+876,2024,Rockville Center,35,PT Librarian I,Y,,35.48
+877,2024,Rockville Center,36,PT Librarian I,Y,,31.75
+878,2024,Rockville Center,37,PT Library Assistant,Y,,30.26
+879,2024,Rockville Center,38,Librarian Trainee PT,Y,,25.63
+880,2024,Rockville Center,39,Librarian Trainee PT,Y,,25.63
+881,2024,Rockville Center,40,Clerk PT,Y,,26.75
+882,2024,Rockville Center,41,Clerk PT,Y,,26.05
+883,2024,Rockville Center,42,Typist Clerk PT,Y,,26.39
+884,2024,Rockville Center,43,Typist Clerk PT,Y,,23.23
+885,2024,Rockville Center,44,Page,Y,,16.0
+886,2024,Rockville Center,45,Page,Y,,16.0
+887,2024,Rockville Center,46,Page,Y,,16.0
+888,2024,Rockville Center,47,Page,Y,,17.18
+889,2024,Rockville Center,48,Page,Y,,21.25
+890,2024,Rockville Center,49,Page,Y,,16.0
+891,2024,Rockville Center,50,Cleaner PT,Y,,25.5
+892,2024,Rockville Center,51,Cleaner PT,Y,,30.38
+893,2024,Rockville Center,52,Cleaner PT,Y,,28.14
+894,2024,Rockville Center,53,Cleaner PT,Y,,20.5
+895,2024,Roslyn (Bryant Library),1,Director,N,155000.04,
+896,2024,Roslyn (Bryant Library),2,Assistant Director,N,104847.6,
+897,2024,Roslyn (Bryant Library),3,Financial Administrator,N,99509.8,
+898,2024,Roslyn (Bryant Library),4,Computer Support Tech II,N,77109.5,
+899,2024,Roslyn (Bryant Library),5,Director of Public Relations & Programming,N,72000.24,
+900,2024,Roslyn (Bryant Library),6,Librarian III,N,137613.32,
+901,2024,Roslyn (Bryant Library),7,Librarian II ,N,81955.12,
+902,2024,Roslyn (Bryant Library),8,Librarian II,N,81955.12,
+903,2024,Roslyn (Bryant Library),9,Librarian II,N,93080.26,
+904,2024,Roslyn (Bryant Library),10,Librarian II,N,85280.26,
+905,2024,Roslyn (Bryant Library),11,Librarian II,N,83315.7,
+906,2024,Roslyn (Bryant Library),12,Librarian II,N,75344.1,
+907,2024,Roslyn (Bryant Library),13,Librarian II,N,81120.0,
+908,2024,Roslyn (Bryant Library),14,Librarian I,N,70467.8,
+909,2024,Roslyn (Bryant Library),15,Librarian I,N,70279.04,
+910,2024,Roslyn (Bryant Library),16,Librarian I,N,73061.3,
+911,2024,Roslyn (Bryant Library),17,Librarian I,N,75240.1,
+912,2024,Roslyn (Bryant Library),18,Librarian I,N,70279.04,
+913,2024,Roslyn (Bryant Library),19,Librarian Trainee,N,50081.46,
+914,2024,Roslyn (Bryant Library),20,Principal Clerk,N,70065.84,
+915,2024,Roslyn (Bryant Library),21,Senior Clerk,N,60075.6,
+916,2024,Roslyn (Bryant Library),22,Clerk,N,45057.22,
+917,2024,Roslyn (Bryant Library),23,Clerk,N,45057.22,
+918,2024,Roslyn (Bryant Library),24,Clerk,N,41468.18,
+919,2024,Roslyn (Bryant Library),25,Facilities Manager,N,77899.64,
+920,2024,Roslyn (Bryant Library),26,Custodian,N,45500.0,
+921,2024,Roslyn (Bryant Library),27,Archivist,N,,45.92
+922,2024,Roslyn (Bryant Library),28,Librarian,N,,57.5
+923,2024,Roslyn (Bryant Library),29,Librarian,N,,43.16
+924,2024,Roslyn (Bryant Library),30,Librarian,N,,36.47
+925,2024,Roslyn (Bryant Library),31,Librarian,N,,34.2
+926,2024,Roslyn (Bryant Library),32,Librarian,N,,36.47
+927,2024,Roslyn (Bryant Library),33,Librarian,N,,37.25
+928,2024,Roslyn (Bryant Library),34,Librarian,N,,33.53
+929,2024,Roslyn (Bryant Library),35,Librarian,N,,34.2
+930,2024,Roslyn (Bryant Library),36,Librarian Trainee,N,,27.52
+931,2024,Roslyn (Bryant Library),37,Librarian Trainee,N,,28.07
+932,2024,Roslyn (Bryant Library),38,Library Aide,N,,23.02
+933,2024,Roslyn (Bryant Library),39,Library Aide,N,,22.59
+934,2024,Roslyn (Bryant Library),40,Library Aide,N,,20.5
+935,2024,Roslyn (Bryant Library),41,Clerk,N,,27.1
+936,2024,Roslyn (Bryant Library),42,Clerk,N,,21.23
+937,2024,Roslyn (Bryant Library),43,Clerk,N,,37.04
+938,2024,Roslyn (Bryant Library),44,Clerk,N,,19.09
+939,2024,Roslyn (Bryant Library),45,Clerk,N,,19.99
+940,2024,Roslyn (Bryant Library),46,Clerk,N,,25.25
+941,2024,Roslyn (Bryant Library),47,Clerk,N,,19.09
+942,2024,Roslyn (Bryant Library),48,Custodian,N,,40.35
+943,2024,Sachem,2,Head Custodian,N,73310.0,
+944,2024,Sachem,3,Custodian III,N,50442.0,
+945,2024,Sachem,4,Custodian II,N,46942.0,
+946,2024,Sachem,5,Custodian ,N,40000.0,
+947,2024,Sachem,6,PT Custodian,Y,,16.0
+948,2024,Sachem,8,Principal Clerk,N,51842.0,
+949,2024,Sachem,9,Senior Clerk,N,49392.0,
+950,2024,Sachem,10,FT Library Clerk,N,46942.0,
+951,2024,Sachem,11,PT Clerk,Y,,17.0
+952,2024,Sachem,13,Principal Account Clerk,N,92000.0,
+953,2024,Sachem,14,Senior Account Clerk,N,69895.0,
+954,2024,Sachem,15,Account Clerk,N,57000.0,
+955,2024,Sachem,16,Office Assistant,N,47500.0,
+956,2024,Sachem,18,Public Relations Assistant,Y,,35.8
+957,2024,Sachem,20,Librarian III,N,69987.67,
+958,2024,Sachem,21,Librarian II,N,65487.67,
+959,2024,Sachem,22,Librarian,N,59237.67,
+960,2024,Sachem,23,PT Librarian,Y,,27.0
+961,2024,Sachem,25,Page,Y,,16.0
+962,2024,Sachem,27,Network & Systems Specialist I,N,81076.0,
+963,2024,Sachem,28,Network and Systems Technician,N,55031.0,
+964,2024,Sachem,30,Director,N,202700.0,
+965,2024,Sachem,31,Assistant Director,N,137000.0,
+966,2024,Sea Cliff,1,Library Director,N,95000.0,
+967,2024,Sea Cliff,2,Librarian I,N,66000.0,
+968,2024,Sea Cliff,3,Librarian I,N,,32.63
+969,2024,Sea Cliff,4,Librarian I,N,,30.93
+970,2024,Sea Cliff,5,Librarian I,N,,30.25
+971,2024,Sea Cliff,6,Typist Clerk,N,,16.0
+972,2024,Sea Cliff,7,Typist Clerk,N,,16.0
+973,2024,Sea Cliff,8,Typist Clerk,N,,16.0
+974,2024,Sea Cliff,9,Typist Clerk,N,,18.85
+975,2024,Sea Cliff,10,Typist Clerk,N,,16.75
+976,2024,Seaford,1,Library Director,N,149000.0,
+977,2024,Seaford,2,Assistant Director,N,115916.0,
+978,2024,Seaford,3,Librarian III,N,96983.0,
+979,2024,Seaford,4,Librarian II,N,56952.0,
+980,2024,Seaford,5,Librarian II,N,70616.0,
+981,2024,Seaford,6,Librarian II,N,77282.0,
+982,2024,Seaford,7,Librarian I,N,49480.0,
+983,2024,Seaford,8,Librarian I,N,83760.0,
+984,2024,Seaford,9,Library Trainee,N,,23.0
+985,2024,Seaford,10,Library Trainee,N,,23.0
+986,2024,Seaford,11,Library Trainee,N,,23.0
+987,2024,Seaford,12,Senior Account Clerk,N,136512.0,
+988,2024,Seaford,13,Library Clerk,N,46410.0,
+989,2024,Seaford,14,Senior Account Clerk,N,80586.0,
+990,2024,Seaford,15,Library Clerk,N,38560.0,
+991,2024,Seaford,16,Library Clerk,N,,18.0
+992,2024,Seaford,17,Library Clerk,N,,18.0
+993,2024,Seaford,18,Library Clerk,N,,18.0
+994,2024,Seaford,19,Cleaners,N,,16.45
+995,2024,Seaford,20,Cleaners,N,,16.45
+996,2024,Seaford,21,Cleaners,N,,16.25
+997,2024,Seaford,22,Cleaners,N,,15.0
+998,2024,Seaford,23,Page,N,,15.0
+999,2024,Seaford,24,Page,N,,15.0
+1000,2024,Seaford,25,Page,N,,15.0
+1001,2024,Seaford,26,Page,N,,15.0
+1002,2024,Shelter Island,1,Library Director,N,137800.0,
+1003,2024,Shelter Island,2,Assistant Director,N,81000.0,
+1004,2024,Shelter Island,3,Head of Youth Services,N,62575.0,
+1005,2024,Shelter Island,4,Head of Programming,N,38584.0,
+1006,2024,Shelter Island,5,New Circulation Clerk,N,,16.75
+1007,2024,Shelter Island,6,Experienced Circulation Clerk,N,,20.0
+1008,2024,Shelter Island,7,Page,N,,16.0
+1009,2024,Shelter Island,8,IT/Network Administrator,N,,28.0
+1010,2024,Shelter Island,9,Assistant to Youth Services Librarian,N,,21.0
+1011,2024,Shelter Rock,4,Librarian II,N,72800.0,40.0
+1012,2024,Shelter Rock,5,Page ,Y,17972.5,19.75
+1013,2024,Shelter Rock,6,Typist Clerk,Y,16835.0,18.5
+1014,2024,Shelter Rock,7,Cleaner,Y,21385.0,23.5
+1015,2024,Shelter Rock,8,Page ,Y,15925.0,17.5
+1016,2024,Shelter Rock,9,Librarian I Sub,Y,28100.8,30.88
+1017,2024,Shelter Rock,10,Typist Clerk,N,54436.2,29.91
+1018,2024,Shelter Rock,11,Librarian I Sub,Y,28164.5,30.95
+1019,2024,Shelter Rock,12,Administrative Assistant,N,82009.2,45.06
+1020,2024,Shelter Rock,13,Cleaner,N,70379.4,38.67
+1021,2024,Shelter Rock,14,Page ,Y,15015.0,16.5
+1022,2024,Shelter Rock,15,Page ,Y,18655.0,20.5
+1023,2024,Shelter Rock,16,Librarian I,N,61880.0,34.0
+1024,2024,Shelter Rock,17,Librarian I,N,56656.6,31.13
+1025,2024,Shelter Rock,18,Cleaner,Y,35945.0,19.75
+1026,2024,Shelter Rock,19,Page ,Y,18655.0,20.5
+1027,2024,Shelter Rock,20,Typist Clerk,Y,16835.0,18.5
+1028,2024,Shelter Rock,21,Librarian II,N,129602.2,71.21
+1029,2024,Shelter Rock,22,Librarian I,N,56656.6,31.13
+1030,2024,Shelter Rock,23,Librarian I Sub,N,56456.4,31.02
+1031,2024,Shelter Rock,24,Senior Clerk,N,55619.2,30.56
+1032,2024,Shelter Rock,25,Cleaner,Y,19110.0,21.0
+1033,2024,Shelter Rock,26,Librarian I Sub,N,57603.0,31.65
+1034,2024,Shelter Rock,27,Custodian,N,60970.0,33.5
+1035,2024,Shelter Rock,28,Typist Clerk,Y,16835.0,18.5
+1036,2024,Shelter Rock,29,Cleaner,Y,17972.5,19.75
+1037,2024,Shelter Rock,30,Director,N,183274.0,100.7
+1038,2024,Shelter Rock,31,Secretary,N,61552.4,33.82
+1039,2024,Shelter Rock,32,Information Technology Aide,Y,18882.5,20.75
+1040,2024,Shelter Rock,33,Page ,Y,18655.0,20.5
+1041,2024,Shelter Rock,34,Librarian II,N,81244.8,44.64
+1042,2024,Shelter Rock,35,Typist Clerk,N,38220.0,21.0
+1043,2024,Shelter Rock,36,Assistant Director,N,102138.4,56.12
+1044,2024,Shelter Rock,37,Page ,N,45063.2,24.76
+1045,2024,Shelter Rock,38,Page ,Y,15925.0,17.5
+1046,2024,Shelter Rock,39,Page ,Y,15925.0,17.5
+1047,2024,Shelter Rock,40,Information Technology Aide,N,40040.0,22.0
+1048,2024,Shelter Rock,41,Information Technology Aide,Y,21157.5,23.25
+1049,2024,Shelter Rock,42,Information Technology Specialist,N,68832.4,37.82
+1050,2024,Shelter Rock,43,Page ,Y,15925.0,17.5
+1051,2024,South Country,1,director,N,147310.8,
+1052,2024,South Country,2,assistant director,N,128746.8,
+1053,2024,South Country,3,head of childrens,N,88743.2,
+1054,2024,South Country,4,assistant head of reference,N,86431.8,
+1055,2024,South Country,5,head of reference,N,86741.2,
+1056,2024,South Country,6,head of YA,N,72563.4,
+1057,2024,South Country,7,reference lib,N,55091.4,
+1058,2024,South Country,8,reference lib,N,58804.2,
+1059,2024,South Country,9,PT reference lib,N,,30.27
+1060,2024,South Country,10,PT childrens lib,N,,30.27
+1061,2024,South Country,11,childrens lib,N,59404.8,
+1062,2024,South Country,12,patron service dept head,N,80171.0,
+1063,2024,South Country,13,bookkeeper,N,68268.2,
+1064,2024,South Country,14,security,N,52288.6,
+1065,2024,South Country,15,patron service dept head,N,75439.0,
+1066,2024,South Country,16,patron service clerk,N,44408.0,
+1067,2024,South Country,17,newsletter editor,N,,24.72
+1068,2024,South Country,18,maintenance,N,,24.3
+1069,2024,South Country,19,patron services clerk,N,,21.08
+1070,2024,South Country,20,pages ,N,,16.0
+1071,2024,Southampton (Rogers Memorial),1,"Supervisor, Librarian, Reference",N,101370.0,
+1072,2024,Southampton (Rogers Memorial),2,"Supervisor, Librarian, Childrens",N,112563.0,
+1073,2024,Southampton (Rogers Memorial),3,"Supervisor, Librarian, Teen",N,86073.0,
+1074,2024,Southampton (Rogers Memorial),4,"Supervisor, Librarian, Computer/Tech",N,81882.0,
+1075,2024,Southampton (Rogers Memorial),5,"Supervisor, Tech Services (non mls)",N,96534.0,
+1076,2024,Southampton (Rogers Memorial),6,Supervisor Circulations (non-mls),N,65213.0,
+1077,2024,Southampton (Rogers Memorial),7,"Supervisor, Buildings and Grounds",N,107217.0,
+1078,2024,Southampton (Rogers Memorial),8,"Asst Supervisor Librarian, Childrens",N,96121.0,
+1079,2024,Southampton (Rogers Memorial),9,"Librarian, Reference",N,70295.0,
+1080,2024,Southampton (Rogers Memorial),10,"Librarian, Reference",N,67000.0,
+1081,2024,Southampton (Rogers Memorial),11,"Librarian, Reference",N,66000.0,
+1082,2024,Southampton (Rogers Memorial),12,"Librarian Trainee, Reference",N,45500.0,
+1083,2024,Southampton (Rogers Memorial),13,"Librarian, Childrens",N,75118.0,
+1084,2024,Southampton (Rogers Memorial),14,"Librarian Trainee, Teen",N,45500.0,
+1085,2024,Southampton (Rogers Memorial),15,"Clerk, Childrens",N,58913.0,
+1086,2024,Southampton (Rogers Memorial),16,"Clerk, Childrens",N,47320.0,
+1087,2024,Southampton (Rogers Memorial),17,"Clerk, Childrens, PT",Y,,26.83
+1088,2024,Southampton (Rogers Memorial),18,"Clerk, Childrens, PT",Y,,20.9
+1089,2024,Southampton (Rogers Memorial),19,"Clerk, Teen",N,50554.0,
+1090,2024,Southampton (Rogers Memorial),20,"Clerk, Computer/Tech",N,37856.0,
+1091,2024,Southampton (Rogers Memorial),21,"Clerk, Tech Services",N,47320.0,
+1092,2024,Southampton (Rogers Memorial),22,Clerk Tech Services,N,37856.0,
+1093,2024,Southampton (Rogers Memorial),23,"Clerk, Tech Services",N,36135.0,
+1094,2024,Southampton (Rogers Memorial),24,"Clerk, Tech Services",N,34580.0,
+1095,2024,Southampton (Rogers Memorial),25,"Clerk, Circulation",N,38038.0,
+1096,2024,Southampton (Rogers Memorial),26,"Clerk, Circulation",N,34000.0,
+1097,2024,Southampton (Rogers Memorial),27,"Clerk, Circulation, PT",Y,,20.9
+1098,2024,Southampton (Rogers Memorial),28,"Custodian, PT",Y,,22.61
+1099,2024,Southampton (Rogers Memorial),29,"Custodian, PT",Y,,20.13
+1100,2024,Southampton (Rogers Memorial),30,"Page, PT",Y,,16.0
+1101,2024,Southampton (Rogers Memorial),31,Director,N,179000.0,
+1102,2024,Wantagh,2,NLA - SENIOR LIBRARY CLERK,N,62974.0,
+1103,2024,Wantagh,3,NMH - LIBRARIAN I part time substitute,Y,,30.0
+1104,2024,Wantagh,4,AFL - TYPIST-CLERK (PART-TIME),Y,,19.93
+1105,2024,Wantagh,5,EAF - Personnel Clerk,Y,,59.0
+1106,2024,Wantagh,6,1KJ - CLEANER (PART-TIME),Y,,18.78
+1107,2024,Wantagh,7,1KK - CLEANER,N,59098.0,
+1108,2024,Wantagh,8,NME - LIBRARIAN I (PART-TIME),Y,,37.1
+1109,2024,Wantagh,9,NMF - LIBRARIAN I,N,69726.0,
+1110,2024,Wantagh,10, NMF - LIBRARIAN I,N,69726.0,
+1111,2024,Wantagh,11,NNA - LIBRARIAN II,N,77168.0,
+1112,2024,Wantagh,12,ACD - CLERK,N,64111.0,
+1113,2024,Wantagh,13,AGB - TYPIST-CLERK(PART TIME SUBSTITUTE),Y,,19.0
+1114,2024,Wantagh,14,NMF - LIBRARIAN I,N,71291.0,
+1115,2024,Wantagh,15,AFL - TYPIST-CLERK (PART-TIME),Y,,18.0
+1116,2024,Wantagh,16,NQK - LIBRARY DIRECTOR,N,126880.0,
+1117,2024,Wantagh,17,1MA - CUSTODIAN,N,62097.0,
+1118,2024,Wantagh,18,NME - LIBRARIAN I (PART-TIME),Y,,37.1
+1119,2024,Wantagh,19,NMH - LIBRARIAN I part time substitute,Y,,35.0
+1120,2024,Wantagh,20,NMR - Part Time Librarian II,Y,,49.66
+1121,2024,Wantagh,21,AFT - Part Time Typist Clerk,Y,,19.92
+1122,2024,Wantagh,22,AGA - TYPIST-CLERK,N,55076.0,
+1123,2024,Wantagh,23,NNA - LIBRARIAN II,N,74610.0,
+1124,2024,West Babylon,1,Library Director,N,146970.0,
+1125,2024,West Babylon,2,Librarian III,N,91035.0,
+1126,2024,West Babylon,3,Librarian II,N,75949.0,
+1127,2024,West Babylon,4,Librarian I,Y,64168.0,32.67
+1128,2024,West Babylon,5,Business Manager I,N,88434.0,
+1129,2024,West Babylon,6,Library Assistant,N,50219.0,
+1130,2024,West Babylon,7,Network and Systems Tech,N,64168.0,
+1131,2024,West Babylon,8,Principal Library Clerk,N,50525.0,
+1132,2024,West Babylon,9,Senior Library Clerk,N,44114.0,
+1133,2024,West Babylon,10,Library Clerk,Y,39627.0,17.93
+1134,2024,West Babylon,11,Senior Account Clerk,N,55000.0,
+1135,2024,West Babylon,12,Maintenance Mechanic II,Y,,34.62
+1136,2024,West Babylon,13,Maintenance Mechanic I,Y,,23.11
+1137,2024,West Babylon,14,Custodian,Y,,19.13
+1138,2024,West Babylon,15,Page,Y,,16.0
+1139,2024,West Babylon,16,Security Guard,Y,,20.78

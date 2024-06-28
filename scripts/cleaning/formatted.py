@@ -22,23 +22,31 @@ def clean_csv(file_path):
     new_columns = {
         "annual_salary" : "Salary",
         "Annual Salary" : "Salary",
+        " Annual Salary 6-7-24" : "Salary",
+        "Hourly Rate-6-7-24" : "Hourly",
         "Hourly Rate" : "Hourly",
         "Hourly Rate " : "Hourly",
         "hour_rate" : "Hourly",
         "Hourly Rate (Part-Time)" : "Hourly",
         "part_time" : "Part Time",
         "Part-Time" : "Part Time",
+        "Part time" : "Part Time",
         "Full/Part Time" : "Part Time",
         "civil_service_title" : "Title (civil servce title for civil service libraries)",
-        "other_title" : "Other Title (if different than civil service title)"
+        "other_title" : "Other Title (if different than civil service title)",
+        "Other Title (if different than civil service)" : "Other Title (if different than civil service title)"
         }
     df.rename(columns=new_columns, inplace=True)
 
     # Convert 'Salary' from string to float, removing commas and dollar signs
-    df['Salary'] = df['Salary'].astype(str).str.replace(',', '').str.replace('$','').astype(float)
+    df['Salary'] = df['Salary'].astype(str).str.replace(',', '').str.replace('$','').str.replace('N/A','').astype(float)
 
     # Convert 'Hourly' from string to float, removing commas and dollar signs
-    df['Hourly'] = df['Hourly'].astype(str).str.replace(',', '').str.replace('$','').astype(float)
+    df['Hourly'] = df['Hourly'].astype(str).str.replace(',', '').str.replace('$','').str.replace('N/A','').astype(float)
+    
+    # Remove N/A from empty titles
+    
+    df['Other Title (if different than civil service title)'] = df['Other Title (if different than civil service title)'].astype(str).str.replace('N/A', '')
 
     # Fill in values for 'Part time/Full time'
     def convert_PT(value):
@@ -46,7 +54,7 @@ def clean_csv(file_path):
             return 'N'
         elif value in ['No,', 'no', 'NO' 'FALSE', 'False', 'false', 'Full Time', 'F/T', 'FT']:
             return 'N'
-        elif value in ['Yes', 'yes', 'YES', 'TRUE', 'True', 'true', 'Part Time', 'P/T', 'PT', 'x']:
+        elif value in ['Yes', 'yes', 'YES', 'TRUE', 'True', 'true', 'Part Time', 'P/T', 'PT', 'x', 'X']:
             return 'Y'
         else:
             return 'N'
