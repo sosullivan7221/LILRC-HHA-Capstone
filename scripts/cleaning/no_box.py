@@ -37,7 +37,7 @@ def clean_csv(file_path):
     df.rename(columns=new_columns, inplace=True)
     
     # Convert 'Salary' from string to float, removing commas and dollar signs
-    df['Salary'] = df['Salary'].astype(str).str.replace(',', '').str.replace('$','').str.replace(' ', '').astype(float)
+    df['Salary'] = df['Salary'].astype(str).str.replace(',', '').str.replace('$','').str.replace(' ', '')
     
     #if df['Salary'].isnull == False:
         #df['Salary'] = df['Salary'].astype(str).apply(lambda x: re.sub(r'[^\d|\.]', '', x) if pd.notna(x) else None).astype(float)
@@ -45,12 +45,30 @@ def clean_csv(file_path):
         #pass
     
     # Convert 'Hourly' from string to float, removing commas and dollar signs
-    df['Hourly'] = df['Hourly'].astype(str).str.replace(',', '').str.replace('$','').str.replace(' ', '').str.replace('/hr', '').astype(float)
+    df['Hourly'] = df['Hourly'].astype(str).str.replace(',', '').str.replace('$','').str.replace(' ', '').str.replace('/hr', '')
     
     #if df['Hourly'].isnull == False:
         #df['Hourly'] = df['Hourly'].astype(str).apply(lambda x: re.sub(r'[^\d|\.]', '', x) if pd.notna(x) else None).astype(float)
     #else:
         #pass
+    
+        # Convert ranges into averages
+    
+    def average_from_range(range_str):
+        if ' to ' in range_str:
+            start, end = map(float, range_str.split(' to '))
+            return (start + end) / 2
+        elif '-' in range_str:
+            start, end = map(float, range_str.split('-'))
+            return (start + end) / 2
+        elif ' - ' in range_str:
+            start, end = map(float, range_str.split(' - '))
+            return (start + end) / 2
+        else:
+            return float(range_str)
+    
+    df['Salary'] = df['Salary'].apply(average_from_range)
+    df['Hourly'] = df['Hourly'].apply(average_from_range)
     
     # Filter between salary and hourly based on value
     for index, row in df.iterrows():

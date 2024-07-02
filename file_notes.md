@@ -46,7 +46,7 @@
 - Bellmore - Made column for full time (Y)
 - Connetquot - No part time column, is everyone full time (Y)
 - Freeport - Labeled everything as part time when they have part time (Y)
-- Hauppauge - Uses Ranges for salary and hourly rate (x)
+- Hauppauge - Uses Ranges for salary and hourly rate (Y)
 - Lindenhurst - ?
   - Column w something named steps? and credits
   - one position is listed twice at before and after a specific date
