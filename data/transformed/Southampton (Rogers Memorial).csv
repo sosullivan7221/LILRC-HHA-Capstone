@@ -15,8 +15,8 @@ Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
 2024,Southampton (Rogers Memorial),14,"Librarian Trainee, Teen",N,45500.0,
 2024,Southampton (Rogers Memorial),15,"Clerk, Childrens",N,58913.0,
 2024,Southampton (Rogers Memorial),16,"Clerk, Childrens",N,47320.0,
-2024,Southampton (Rogers Memorial),17,"Clerk, Childrens, PT",Y,,26.83
-2024,Southampton (Rogers Memorial),18,"Clerk, Childrens, PT",Y,,20.9
+2024,Southampton (Rogers Memorial),17,"Clerk, Childrens, PT",N,,26.83
+2024,Southampton (Rogers Memorial),18,"Clerk, Childrens, PT",N,,20.9
 2024,Southampton (Rogers Memorial),19,"Clerk, Teen",N,50554.0,
 2024,Southampton (Rogers Memorial),20,"Clerk, Computer/Tech",N,37856.0,
 2024,Southampton (Rogers Memorial),21,"Clerk, Tech Services",N,47320.0,
@@ -25,8 +25,8 @@ Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
 2024,Southampton (Rogers Memorial),24,"Clerk, Tech Services",N,34580.0,
 2024,Southampton (Rogers Memorial),25,"Clerk, Circulation",N,38038.0,
 2024,Southampton (Rogers Memorial),26,"Clerk, Circulation",N,34000.0,
-2024,Southampton (Rogers Memorial),27,"Clerk, Circulation, PT",Y,,20.9
-2024,Southampton (Rogers Memorial),28,"Custodian, PT",Y,,22.61
-2024,Southampton (Rogers Memorial),29,"Custodian, PT",Y,,20.13
-2024,Southampton (Rogers Memorial),30,"Page, PT",Y,,16.0
+2024,Southampton (Rogers Memorial),27,"Clerk, Circulation, PT",N,,20.9
+2024,Southampton (Rogers Memorial),28,"Custodian, PT",N,,22.61
+2024,Southampton (Rogers Memorial),29,"Custodian, PT",N,,20.13
+2024,Southampton (Rogers Memorial),30,"Page, PT",N,,16.0
 2024,Southampton (Rogers Memorial),31,Director,N,179000.0,

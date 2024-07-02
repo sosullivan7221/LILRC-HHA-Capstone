@@ -4,7 +4,7 @@ Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
 2024,Montauk,3,Treasurer,N,,37.0
 2024,Montauk,4,Librarian I,N,,36.5
 2024,Montauk,5,Library Assistant,N,,27.75
-2024,Montauk,6,Library Clerk,N,,20.5
-2024,Montauk,7,Page,N,,20.0
-2024,Montauk,8,Custodial Worker I,N,,22.75
+2024,Montauk,6,Library Clerk,Y,,20.5
+2024,Montauk,7,Page,Y,,20.0
+2024,Montauk,8,Custodial Worker I,Y,,22.75
 2024,Montauk,9,Network & System Specialist II,N,,47.0

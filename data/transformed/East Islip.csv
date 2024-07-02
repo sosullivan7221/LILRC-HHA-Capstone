@@ -12,46 +12,46 @@ Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
 2024,East Islip,11,FT Librarian Iii,N,89649.04,
 2024,East Islip,12,FT Library Clerk,N,57773.82000000001,
 2024,East Islip,13,FT Library Clerk,N,57745.48,
-2024,East Islip,14,Account Clerk,N,22683.7312,27.2641
-2024,East Islip,15,Custodial Worker I,N,5505.76,26.47
-2024,East Islip,16,Custodial Worker I,N,22360.0,21.5
-2024,East Islip,17,Custodian I,N,15805.919999999998,25.33
-2024,East Islip,18,Custodian I,N,4209.92,20.24
-2024,East Islip,19,Page,N,16956.16,20.38
-2024,East Islip,20,Page,N,6240.0,15.0
-2024,East Islip,21,Page,N,15749.76,18.93
-2024,East Islip,22,Page,N,8190.0,15.0
-2024,East Islip,23,Page,N,8580.0,15.0
-2024,East Islip,24,Page,N,8580.0,15.0
-2024,East Islip,25,Page,N,12920.96,15.53
-2024,East Islip,26,Page,N,8356.4,16.07
-2024,East Islip,27,Page,N,8356.4,16.07
-2024,East Islip,28,Page,N,12717.12,20.38
-2024,East Islip,29,Page,N,8356.4,16.07
-2024,East Islip,30,Page,N,7800.0,15.0
-2024,East Islip,31,Page,N,7800.0,15.0
-2024,East Islip,32,PT Clerk,N,24087.7,26.47
-2024,East Islip,33,PT Clerk,N,24087.7,26.47
-2024,East Islip,34,PT Clerk,N,13888.679999999998,18.42
-2024,East Islip,35,PT Librarian I,N,6938.88,33.36
-2024,East Islip,36,PT Librarian I,N,6805.76,32.72
-2024,East Islip,37,PT Librarian I,N,6805.76,32.72
-2024,East Islip,38,PT Librarian I,N,5955.04,32.72
-2024,East Islip,39,PT Librarian I,N,7977.060000000001,34.09
-2024,East Islip,40,PT Librarian I,N,8160.88,33.04
-2024,East Islip,41,PT Librarian I,N,18853.12,45.32
-2024,East Islip,42,PT Librarian I,N,2977.52,32.72
-2024,East Islip,43,PT Librarian I,N,2977.52,32.72
-2024,East Islip,44,PT Librarian I (Cs),N,9174.88,44.11
-2024,East Islip,45,PT Librarian I (Cs),N,14538.419999999998,29.43
-2024,East Islip,46,PT Librarian Ii,N,8243.04,39.63
-2024,East Islip,47,PT Library Clerk,N,24087.7,26.47
-2024,East Islip,48,PT Library Clerk,N,34246.16,25.33
-2024,East Islip,49,PT Library Clerk,N,24087.7,26.47
-2024,East Islip,50,PT Library Clerk,N,16607.5,18.25
-2024,East Islip,51,PT Library Clerk,N,7117.5,18.25
-2024,East Islip,52,PT Library Clerk,N,11068.98,18.51
-2024,East Islip,53,PT Library Clerk,N,6592.56,21.13
-2024,East Islip,54,PT Library Clerk,N,10831.6,20.83
-2024,East Islip,55,PT Library Clerk,N,10667.8,18.65
-2024,East Islip,56,PT Network/Sys.Special,N,27902.160000000003,32.52
+2024,East Islip,14,Account Clerk,Y,22683.7312,27.2641
+2024,East Islip,15,Custodial Worker I,Y,5505.76,26.47
+2024,East Islip,16,Custodial Worker I,Y,22360.0,21.5
+2024,East Islip,17,Custodian I,Y,15805.919999999998,25.33
+2024,East Islip,18,Custodian I,Y,4209.92,20.24
+2024,East Islip,19,Page,Y,16956.16,20.38
+2024,East Islip,20,Page,Y,6240.0,15.0
+2024,East Islip,21,Page,Y,15749.76,18.93
+2024,East Islip,22,Page,Y,8190.0,15.0
+2024,East Islip,23,Page,Y,8580.0,15.0
+2024,East Islip,24,Page,Y,8580.0,15.0
+2024,East Islip,25,Page,Y,12920.96,15.53
+2024,East Islip,26,Page,Y,8356.4,16.07
+2024,East Islip,27,Page,Y,8356.4,16.07
+2024,East Islip,28,Page,Y,12717.12,20.38
+2024,East Islip,29,Page,Y,8356.4,16.07
+2024,East Islip,30,Page,Y,7800.0,15.0
+2024,East Islip,31,Page,Y,7800.0,15.0
+2024,East Islip,32,PT Clerk,Y,24087.7,26.47
+2024,East Islip,33,PT Clerk,Y,24087.7,26.47
+2024,East Islip,34,PT Clerk,Y,13888.679999999998,18.42
+2024,East Islip,35,PT Librarian I,Y,6938.88,33.36
+2024,East Islip,36,PT Librarian I,Y,6805.76,32.72
+2024,East Islip,37,PT Librarian I,Y,6805.76,32.72
+2024,East Islip,38,PT Librarian I,Y,5955.04,32.72
+2024,East Islip,39,PT Librarian I,Y,7977.060000000001,34.09
+2024,East Islip,40,PT Librarian I,Y,8160.88,33.04
+2024,East Islip,41,PT Librarian I,Y,18853.12,45.32
+2024,East Islip,42,PT Librarian I,Y,2977.52,32.72
+2024,East Islip,43,PT Librarian I,Y,2977.52,32.72
+2024,East Islip,44,PT Librarian I (Cs),Y,9174.88,44.11
+2024,East Islip,45,PT Librarian I (Cs),Y,14538.419999999998,29.43
+2024,East Islip,46,PT Librarian Ii,Y,8243.04,39.63
+2024,East Islip,47,PT Library Clerk,Y,24087.7,26.47
+2024,East Islip,48,PT Library Clerk,Y,34246.16,25.33
+2024,East Islip,49,PT Library Clerk,Y,24087.7,26.47
+2024,East Islip,50,PT Library Clerk,Y,16607.5,18.25
+2024,East Islip,51,PT Library Clerk,Y,7117.5,18.25
+2024,East Islip,52,PT Library Clerk,Y,11068.98,18.51
+2024,East Islip,53,PT Library Clerk,Y,6592.56,21.13
+2024,East Islip,54,PT Library Clerk,Y,10831.6,20.83
+2024,East Islip,55,PT Library Clerk,Y,10667.8,18.65
+2024,East Islip,56,PT Network/Sys.Special,Y,27902.160000000003,32.52

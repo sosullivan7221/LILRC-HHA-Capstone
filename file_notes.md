@@ -42,8 +42,8 @@
 ### Other: 
 - Bayshore-Brightwater - slightly irregular format
 - Bellmore - Made column for full time (Y)
-- Connetquot - No part time column, is everyone full time (x)
-- Freeport - Labeled everything as part time when they have part time (x)
+- Connetquot - No part time column, is everyone full time (Y)
+- Freeport - Labeled everything as part time when they have part time (Y)
 - Hauppauge - Uses Ranges for salary and hourly rate (x)
 - Lindenhurst - ?
 - North Babylon - Irregular format

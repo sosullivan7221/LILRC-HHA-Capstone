@@ -7,21 +7,21 @@ Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
 2024,Seaford,6,Librarian II,N,77282.0,
 2024,Seaford,7,Librarian I,N,49480.0,
 2024,Seaford,8,Librarian I,N,83760.0,
-2024,Seaford,9,Library Trainee,N,,23.0
-2024,Seaford,10,Library Trainee,N,,23.0
-2024,Seaford,11,Library Trainee,N,,23.0
+2024,Seaford,9,Library Trainee,Y,,23.0
+2024,Seaford,10,Library Trainee,Y,,23.0
+2024,Seaford,11,Library Trainee,Y,,23.0
 2024,Seaford,12,Senior Account Clerk,N,136512.0,
 2024,Seaford,13,Library Clerk,N,46410.0,
 2024,Seaford,14,Senior Account Clerk,N,80586.0,
 2024,Seaford,15,Library Clerk,N,38560.0,
-2024,Seaford,16,Library Clerk,N,,18.0
-2024,Seaford,17,Library Clerk,N,,18.0
-2024,Seaford,18,Library Clerk,N,,18.0
-2024,Seaford,19,Cleaners,N,,16.45
-2024,Seaford,20,Cleaners,N,,16.45
-2024,Seaford,21,Cleaners,N,,16.25
-2024,Seaford,22,Cleaners,N,,15.0
-2024,Seaford,23,Page,N,,15.0
-2024,Seaford,24,Page,N,,15.0
-2024,Seaford,25,Page,N,,15.0
-2024,Seaford,26,Page,N,,15.0
+2024,Seaford,16,Library Clerk,Y,,18.0
+2024,Seaford,17,Library Clerk,Y,,18.0
+2024,Seaford,18,Library Clerk,Y,,18.0
+2024,Seaford,19,Cleaners,Y,,16.45
+2024,Seaford,20,Cleaners,Y,,16.45
+2024,Seaford,21,Cleaners,Y,,16.25
+2024,Seaford,22,Cleaners,Y,,15.0
+2024,Seaford,23,Page,Y,,15.0
+2024,Seaford,24,Page,Y,,15.0
+2024,Seaford,25,Page,Y,,15.0
+2024,Seaford,26,Page,Y,,15.0

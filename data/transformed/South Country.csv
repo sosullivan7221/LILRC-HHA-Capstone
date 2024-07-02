@@ -7,15 +7,15 @@ Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
 2024,South Country,6,head of YA,N,72563.4,
 2024,South Country,7,reference lib,N,55091.4,
 2024,South Country,8,reference lib,N,58804.2,
-2024,South Country,9,PT reference lib,N,,30.27
-2024,South Country,10,PT childrens lib,N,,30.27
+2024,South Country,9,PT reference lib,Y,,30.27
+2024,South Country,10,PT childrens lib,Y,,30.27
 2024,South Country,11,childrens lib,N,59404.8,
 2024,South Country,12,patron service dept head,N,80171.0,
 2024,South Country,13,bookkeeper,N,68268.2,
 2024,South Country,14,security,N,52288.6,
 2024,South Country,15,patron service dept head,N,75439.0,
 2024,South Country,16,patron service clerk,N,44408.0,
-2024,South Country,17,newsletter editor,N,,24.72
-2024,South Country,18,maintenance,N,,24.3
-2024,South Country,19,patron services clerk,N,,21.08
-2024,South Country,20,pages ,N,,16.0
+2024,South Country,17,newsletter editor,Y,,24.72
+2024,South Country,18,maintenance,Y,,24.3
+2024,South Country,19,patron services clerk,Y,,21.08
+2024,South Country,20,pages ,Y,,16.0

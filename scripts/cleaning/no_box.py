@@ -68,8 +68,6 @@ def clean_csv(file_path):
     today = datetime.date.today()
     df['Year'] = today.year
     
-
-    
     # Merge job titles into one column
     if 'Other Title (if different than civil service title)' in df.columns:
         job_title = df['Title (civil servce title for civil service libraries)'].fillna(df['Other Title (if different than civil service title)'])

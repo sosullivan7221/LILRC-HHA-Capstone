@@ -59,7 +59,7 @@ def clean_csv(file_path):
     # Remove N/A from empty titles
     
     df['Other Title (if different than civil service title)'] = df['Other Title (if different than civil service title)'].astype(str).str.replace('N/A', '')
-
+   
     # Fill in values for 'Part time/Full time'
     def convert_PT(value):
         if pd.isna(value):
@@ -98,11 +98,10 @@ def clean_csv(file_path):
     print(f"Cleaned file saved to: {output_file_path}")
 
 if __name__ == "__main__":
-    directory = 'data/raw/formatted/'
+    directory = 'data/raw/hauppauge/'
     
     # Iterate over each file in the directory
     for filename in os.listdir(directory):
         if filename.endswith('.csv'):  # Make sure it's a CSV file
             file_path = os.path.join(directory, filename)
             clean_csv(file_path)
-
