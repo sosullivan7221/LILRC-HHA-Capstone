@@ -13,6 +13,39 @@ import numpy as np
 # babylon.columns
 
 
+
+## hamp bay example 
+
+hamptonbays = pd.read_excel(
+    'scratch/Hampton Bays.xlsx',
+    sheet_name='2024',
+    )
+
+## conver NaN to missing
+hamptonbays = hamptonbays.fillna(np.nan)
+
+## get missing count for each column
+missing = hamptonbays.isnull().sum()
+
+## number of rows
+rows = hamptonbays.shape[0]
+
+hamptonbays.columns
+
+## check for each column if the missing count is greater then 80% of the rows, 
+## if the column rows contains only strings and no numbers, then drop the column
+for col in hamptonbays.columns:
+    print(col, missing[col])
+    getColLocation = hamptonbays.columns.get_loc(col)
+    if missing[col] > 0.8*rows:
+        print('Dropping', col)
+        ## loop through each row in the column and check if they are all strings or missing, if they are either all strings or missing, then drop the column
+        if hamptonbays[col].apply(lambda x: isinstance(x, str) or pd.isnull(x)).sum() == rows:
+            hamptonbays = hamptonbays.drop(hamptonbays.columns[getColLocation], axis=1)
+
+hamptonbays.to_csv('scratch/hamptonbays_clean.csv', index=False)
+
+
 babylon = pd.read_excel(
     'scratch/Babylon.xlsx',
     sheet_name='Salary Survey 2024',
