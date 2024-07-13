@@ -70,3 +70,10 @@
 - Hampton Bays - No part time column, merged with hourly rate (Uses ranges) (Y)
   - non-titles descriptions under title column may be read as titles
 -Baldwin - irregular title names (Y)
+
+
+To Do:
+
+Fix PT/FT Lindenhurst
+Manual Bayshore-Brightwater
+Mapping Job Titles
