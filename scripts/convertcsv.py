@@ -14,5 +14,5 @@ def convert_to_csv(directory):
             print(f"Converted: {excel_file_path} to CSV: {csv_output_path}")
 
 if __name__ == "__main__":
-    directory = 'data/raw/hampton_bays/'
+    directory = 'data/raw/westhampton/'
     convert_to_csv(directory)

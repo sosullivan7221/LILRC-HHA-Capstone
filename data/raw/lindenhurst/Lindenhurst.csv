@@ -1,0 +1,31 @@
+library,library_type,county,civil_service_title,other_title,annual_salary,hour_rate,part_time
+LIND,School District,Suffolk,Librarian Trainee,0-12 credits,50184.0,,27.18
+LIND,School District,Suffolk,Librarian Trainee,13-24 credits,51752.0,,28.23
+LIND,School District,Suffolk,Librarian Trainee,25-36 credits,54366.0,,29.8
+LIND,School District,Suffolk,Library Assistant,,,,24.05
+LIND,School District,Suffolk, Librarian I before 7/1/18,step 6,67102.0,step 6,36.87
+LIND,School District,Suffolk,Librarian I after 7/1/18,no steps,59228.0,no steps,31.37
+LIND,School District,Suffolk,Librarian II before 7/1/18,step 5,72521.0,,
+LIND,School District,Suffolk,Librarian II  after 7/1/18,no steps,67958.0,,
+LIND,School District,Suffolk,Library Clerk before 7/1/18,step 7,37601.0,step 7,20.66
+LIND,School District,Suffolk,Library Clerk after 7/1/18,no steps,36593.0,no steps,18.3
+LIND,School District,Suffolk,Senior Library Clerk before 7/1/18,step 7,47450.0,,
+LIND,School District,Suffolk,Senior Library Clerk after 7/1/18,no steps,43911.0,,
+LIND,School District,Suffolk,Principal Library Clerk before 7/1/18,step 8,56430.0,,
+LIND,School District,Suffolk,Principal Library Clerk after 7/1/18,no steps,49139.0,,
+LIND,School District,Suffolk,Guard before 7/1/18,step 8,43170.0,,23.72
+LIND,School District,Suffolk,Guard after 7/1/18,no steps,,,23.46
+LIND,School District,Suffolk,Technical Support Aide before 7/1/18,,,step 7,23.45
+LIND,School District,Suffolk,Technical Support Aide after 7/1/18,,,no steps,19.86
+LIND,School District,Suffolk,Custodial Worker I after 7/1/18,no steps,41820.0,no steps,19.86
+LIND,School District,Suffolk,Custodial Worker II before 7/1/18,step 10,55537.0,,
+LIND,School District,Suffolk,Custodial Worker II after 7/1/18,no steps,48093.0,no steps,23.0
+LIND,School District,Suffolk,Custodial Worker III after 7/1/18,no steps,54366.0,,
+LIND,School District,Suffolk,Head Custodian,no steps,67958.0,,
+LIND,School District,Suffolk,Page NON UNION,NYS minimum wage,,,16.0
+LIND,School District,Suffolk,Senior Account Clerk NON UNION,,60000.0,,
+LIND,School District,Suffolk,Principal Account Clerk NON UNION,,54000.0,,
+LIND,School District,Suffolk,Librarian III NON UNION,,80000.0,,
+LIND,School District,Suffolk,Network & Systems Specialist I NON UNION,,95000.0,,
+LIND,School District,Suffolk,Assistant Director NON UNION,,105000.0,,
+LIND,School District,Suffolk,Director NON UNION,,168000.0,,
