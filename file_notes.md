@@ -40,33 +40,33 @@
 - Southhampton (Rogers Memorial) - Yes? No true in part time column (Y)
 
 ### Other: 
-- Bayshore-Brightwater - slightly irregular format (IO/H)
+- Bayshore-Brightwater - slightly irregular format (N)
   - Column A: row w numbers that indicate how many ppl are in each position
   - read column names thats not in row 1; column C has no column name
 - Bellmore - Made column for full time (Y)
 - Connetquot - No part time column, is everyone full time (Y)
 - Freeport - Labeled everything as part time when they have part time (Y)
 - Hauppauge - Uses Ranges for salary and hourly rate (Y)
-- Lindenhurst - ? (T)
+- Lindenhurst - ? (N)
   - Column w something named steps? and credits
   - one position is listed twice at before and after a specific date
-- North Babylon - Irregular format
+- North Babylon - Irregular format (Y)
   - hourly and annual combined into one column 
-- Smithtown Non-Professional - ? (T)
+- Smithtown Non-Professional - ? (Y)
   - use mean of salaries as salary for everyone in the position (assume all full time)
   - row w numbers that indicate how many ppl are in each position
-- Smithtown Professional - ? (T/IO/H)
+- Smithtown Professional - ? (Y)
   - columns may not be picked up due to formatting
   - treat same as non-professional
   - note abt ft and pt, longevity is confusing
-- Unknown Libraries - ? (T)
-- Westhampton - Irregular Format (T)
+- Unknown Libraries - ? (Y)
+- Westhampton - Irregular Format (Y)
   - salary and hourly in same column
   - diff values based on time hired
 - Babylon - Irregular Format (Y)
   - titles are not in first cell of column
   - "/hour" in hourly rate
   - row w no job title but 16/hr hourly rate
-- Hampton Bays - No part time column, merged with hourly rate (Uses ranges) (H)
+- Hampton Bays - No part time column, merged with hourly rate (Uses ranges) (Y)
   - non-titles descriptions under title column may be read as titles
 -Baldwin - irregular title names (Y)
