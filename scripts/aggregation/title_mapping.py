@@ -15,6 +15,8 @@ with open(mapping_file, mode='r', newline='', encoding='utf-8') as file:
 final = 'data\clean\clean.csv'
 df = pd.read_csv(final)
 
+df['Job Title'] = df['Job Title'].str.title()
+
 df['Standard Titles'] = df['Job Title'].map(job_mapping)
 
 directory = ''

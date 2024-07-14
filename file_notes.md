@@ -70,8 +70,3 @@
 - Hampton Bays - No part time column, merged with hourly rate (Uses ranges) (Y)
   - non-titles descriptions under title column may be read as titles
 -Baldwin - irregular title names (Y)
-
-
-To Do:
-
-Mapping Job Titles
