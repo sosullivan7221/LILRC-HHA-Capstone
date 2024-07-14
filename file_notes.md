@@ -74,6 +74,4 @@
 
 To Do:
 
-Fix PT/FT Lindenhurst
-Manual Bayshore-Brightwater
 Mapping Job Titles

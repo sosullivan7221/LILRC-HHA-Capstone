@@ -1,31 +1,31 @@
 Year,Library Name,Employee Number,Job Title,Part Time,Salary,Hourly
-2024,Lindenhurst,1,Librarian Trainee,N,50184.0,27.18
-2024,Lindenhurst,2,Librarian Trainee,N,51752.0,28.23
-2024,Lindenhurst,3,Librarian Trainee,N,54366.0,29.8
-2024,Lindenhurst,4,Library Assistant,N,,24.05
-2024,Lindenhurst,5, Librarian I before 7/1/18,N,67102.0,36.87
-2024,Lindenhurst,6,Librarian I after 7/1/18,N,59228.0,31.37
-2024,Lindenhurst,7,Librarian II before 7/1/18,N,72521.0,
-2024,Lindenhurst,8,Librarian II  after 7/1/18,N,67958.0,
-2024,Lindenhurst,9,Library Clerk before 7/1/18,N,37601.0,20.66
-2024,Lindenhurst,10,Library Clerk after 7/1/18,N,36593.0,18.3
-2024,Lindenhurst,11,Senior Library Clerk before 7/1/18,N,47450.0,
-2024,Lindenhurst,12,Senior Library Clerk after 7/1/18,N,43911.0,
-2024,Lindenhurst,13,Principal Library Clerk before 7/1/18,N,56430.0,
-2024,Lindenhurst,14,Principal Library Clerk after 7/1/18,N,49139.0,
-2024,Lindenhurst,15,Guard before 7/1/18,N,43170.0,23.72
-2024,Lindenhurst,16,Guard after 7/1/18,N,,23.46
-2024,Lindenhurst,17,Technical Support Aide before 7/1/18,N,,23.45
-2024,Lindenhurst,18,Technical Support Aide after 7/1/18,N,,19.86
-2024,Lindenhurst,19,Custodial Worker I after 7/1/18,N,41820.0,19.86
-2024,Lindenhurst,20,Custodial Worker II before 7/1/18,N,55537.0,
-2024,Lindenhurst,21,Custodial Worker II after 7/1/18,N,48093.0,23.0
-2024,Lindenhurst,22,Custodial Worker III after 7/1/18,N,54366.0,
-2024,Lindenhurst,23,Head Custodian,N,67958.0,
-2024,Lindenhurst,24,Page NON UNION,N,,16.0
-2024,Lindenhurst,25,Senior Account Clerk NON UNION,N,60000.0,
-2024,Lindenhurst,26,Principal Account Clerk NON UNION,N,54000.0,
-2024,Lindenhurst,27,Librarian III NON UNION,N,80000.0,
-2024,Lindenhurst,28,Network & Systems Specialist I NON UNION,N,95000.0,
-2024,Lindenhurst,29,Assistant Director NON UNION,N,105000.0,
-2024,Lindenhurst,30,Director NON UNION,N,168000.0,
+2024,Lindenhurst,1,Librarian Trainee,N,50184,27.18
+2024,Lindenhurst,2,Librarian Trainee,N,51752,28.23
+2024,Lindenhurst,3,Librarian Trainee,N,54366,29.8
+2024,Lindenhurst,4,Library Assistant,Y,,24.05
+2024,Lindenhurst,5, Librarian I before 7/1/18,N,67102,36.87
+2024,Lindenhurst,6,Librarian I after 7/1/18,N,59228,31.37
+2024,Lindenhurst,7,Librarian II before 7/1/18,N,72521,
+2024,Lindenhurst,8,Librarian II  after 7/1/18,N,67958,
+2024,Lindenhurst,9,Library Clerk before 7/1/18,N,37601,20.66
+2024,Lindenhurst,10,Library Clerk after 7/1/18,N,36593,18.3
+2024,Lindenhurst,11,Senior Library Clerk before 7/1/18,N,47450,
+2024,Lindenhurst,12,Senior Library Clerk after 7/1/18,N,43911,
+2024,Lindenhurst,13,Principal Library Clerk before 7/1/18,N,56430,
+2024,Lindenhurst,14,Principal Library Clerk after 7/1/18,N,49139,
+2024,Lindenhurst,15,Guard before 7/1/18,N,43170,23.72
+2024,Lindenhurst,16,Guard after 7/1/18,Y,,23.46
+2024,Lindenhurst,17,Technical Support Aide before 7/1/18,Y,,23.45
+2024,Lindenhurst,18,Technical Support Aide after 7/1/18,Y,,19.86
+2024,Lindenhurst,19,Custodial Worker I after 7/1/18,N,41820,19.86
+2024,Lindenhurst,20,Custodial Worker II before 7/1/18,N,55537,
+2024,Lindenhurst,21,Custodial Worker II after 7/1/18,N,48093,23
+2024,Lindenhurst,22,Custodial Worker III after 7/1/18,N,54366,
+2024,Lindenhurst,23,Head Custodian,N,67958,
+2024,Lindenhurst,24,Page NON UNION,Y,,16
+2024,Lindenhurst,25,Senior Account Clerk NON UNION,N,60000,
+2024,Lindenhurst,26,Principal Account Clerk NON UNION,N,54000,
+2024,Lindenhurst,27,Librarian III NON UNION,N,80000,
+2024,Lindenhurst,28,Network & Systems Specialist I NON UNION,N,95000,
+2024,Lindenhurst,29,Assistant Director NON UNION,N,105000,
+2024,Lindenhurst,30,Director NON UNION,N,168000,
