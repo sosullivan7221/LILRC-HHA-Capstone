@@ -9,7 +9,9 @@ job_mapping = {}
 with open(mapping_file, mode='r', newline='', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        job_mapping[row['Titles (CIVIL SERVICE and non-civil service)']] = row['Standard Titles']
+        standardized_title = row['standardized_title']  # Keep the standardized title as it is
+        survey_response_title = row['survey_response_title'].title()  # Apply .title() formatting
+        job_mapping[survey_response_title] = standardized_title
         
 
 final = 'data\clean\clean.csv'
