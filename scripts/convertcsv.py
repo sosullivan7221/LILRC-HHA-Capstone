@@ -13,6 +13,14 @@ def convert_to_csv(directory):
             df.to_csv(csv_output_path, index=False)
             print(f"Converted: {excel_file_path} to CSV: {csv_output_path}")
 
+def convert_to_csv_file(uploaded_file):
+    try:
+        # Load Excel file into a DataFrame
+        df = pd.read_excel(uploaded_file)
+        return df
+    except Exception as e:
+        return f'Error: {e}'
+
 if __name__ == "__main__":
     directory = 'data/raw/formatted/'
     convert_to_csv(directory)
