@@ -3,7 +3,7 @@ import datetime
 import os
 import re
 
-def clean_df(df):
+def clean_westhampton(df):
     
     # Data model
     df_transformed_column_names = [
