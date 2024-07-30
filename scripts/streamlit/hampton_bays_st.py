@@ -1,8 +1,9 @@
 import pandas as pd
 import datetime
 import os
+import re
 
-def clean_babylon(df):
+def clean_hampton_bays(df):
     # Data model
     df_transformed_column_names = [
         'Library Name', 
@@ -13,19 +14,20 @@ def clean_babylon(df):
         'Hourly', 
         'Year'
     ]
-    # Read CSV file
-    df = pd.read_csv(file_path,
-                     skiprows = 4,
-                     usecols = [1,2,3,4])
     
+    # Read CSV file
+    df = pd.read_csv(df)
+
     # Standardizing column names
     new_columns = {
         "annual_salary" : "Salary",
         "Annual Salary" : "Salary",
+        "2024 Annual Base Salary" : "Salary",
         "Hourly Rate" : "Hourly",
         "Hourly Rate " : "Hourly",
         "hour_rate" : "Hourly",
         "Hourly Rate (Part-Time)" : "Hourly",
+        "2024 Hourly Rate (Part-Time)" : "Hourly",
         "part_time" : "Part Time",
         "Part-Time" : "Part Time",
         "Full/Part Time" : "Part Time",
@@ -44,7 +46,7 @@ def clean_babylon(df):
         #pass
     
     # Convert 'Hourly' from string to float, removing commas and dollar signs
-    df['Hourly'] = df['Hourly'].astype(str).str.replace(',', '').str.replace('$','').str.replace(' ', '').str.replace('/hr', '').str.replace('/Hour', '')
+    df['Hourly'] = df['Hourly'].astype(str).str.replace(',', '').str.replace('$','').str.replace(' ', '').str.replace('/hr', '')
     
     #if df['Hourly'].isnull == False:
         #df['Hourly'] = df['Hourly'].astype(str).apply(lambda x: re.sub(r'[^\d|\.]', '', x) if pd.notna(x) else None).astype(float)
@@ -98,7 +100,7 @@ def clean_babylon(df):
     df['Job Title'] = df['Job Title'].fillna(method='ffill')
     
     # Add Library Name from file name
-    library_name = os.path.splitext(os.path.basename(file_path))[0]
+    library_name = 'Hampton Bays'
     df.insert(0,'Library Name', library_name)
     
     # Selecting and reordering columns to match the desired format
@@ -108,16 +110,5 @@ def clean_babylon(df):
     # Filter out empty rows
     df = df[df[['Hourly', 'Salary']].notna().any(axis=1)]
     
-     # Save the transformed data to CSV
-    output_file_path = os.path.join('data/transformed', os.path.basename(file_path))
-    df.to_csv(output_file_path, index=False)
-    print(f"Cleaned file saved to: {output_file_path}")
-
-if __name__ == "__main__":
-    directory = 'data/raw/babylon/'
+    return df
     
-    # Iterate over each file in the directory
-    for filename in os.listdir(directory):
-        if filename.endswith('.csv'):  # Make sure it's a CSV file
-            file_path = os.path.join(directory, filename)
-            clean_csv(file_path)

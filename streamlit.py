@@ -1,8 +1,11 @@
 ## create a basic stremalit app
 import streamlit as st
 from scripts.convertcsv import convert_to_csv_file
-from scripts.cleaning.westhampton_st import clean_westhampton
-from scripts.cleaning.baldwin_st import clean_baldwin
+from scripts.streamlit.westhampton_st import clean_westhampton
+from scripts.streamlit.baldwin_st import clean_baldwin
+from scripts.streamlit.airtable_st import clean_airtable
+from scripts.streamlit.hampton_bays_st import clean_hampton_bays
+from scripts.streamlit.lindenhurst_st import clean_lindenhurst
 import pandas as pd
 from io import StringIO
 
@@ -10,7 +13,10 @@ from io import StringIO
 
 cleaning_functions = { 
     'westhampton' : clean_westhampton,
-    'baldwin' : clean_baldwin}
+    'baldwin' : clean_baldwin,
+    'airtable' : clean_airtable,
+    'hampton_bays' : clean_hampton_bays,
+    'lindenhurst' : clean_lindenhurst}
 
 st.title('LILRC Salary Data Cleaning')
 
