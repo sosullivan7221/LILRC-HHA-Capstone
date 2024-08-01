@@ -6,6 +6,9 @@ from scripts.streamlit.baldwin_st import clean_baldwin
 from scripts.streamlit.airtable_st import clean_airtable
 from scripts.streamlit.hampton_bays_st import clean_hampton_bays
 from scripts.streamlit.lindenhurst_st import clean_lindenhurst
+from scripts.streamlit.north_babylon_st import clean_north_babylon
+from scripts.streamlit.smithtown_non_prof_st import clean_smithtown_non_prof
+from scripts.streamlit.babylon import clean_bablyon
 import pandas as pd
 from io import StringIO
 
@@ -15,8 +18,11 @@ cleaning_functions = {
     'westhampton' : clean_westhampton,
     'baldwin' : clean_baldwin,
     'airtable' : clean_airtable,
-    'hampton_bays' : clean_hampton_bays,
-    'lindenhurst' : clean_lindenhurst}
+    'hampton bays' : clean_hampton_bays,
+    'lindenhurst' : clean_lindenhurst,
+    'north_babylon' : clean_north_babylon,
+    'smithtown non-professional' : clean_smithtown_non_prof,
+    'babylon' : clean_bablyon}
 
 st.title('LILRC Salary Data Cleaning')
 
@@ -37,7 +43,10 @@ if uploaded_file is not None:
 
     try:
         if file_extension == 'xlsx':
-            df = convert_to_csv_file(uploaded_file)
+           if file_name.lower() == 'babylon':
+               df = pd.read_excel(uploaded_file, skiprows=4, usecols=[1,2,3,4])
+           else:
+               df = pd.read_excel(uploaded_file)
         else:
             print('Unknown file extension')
     except Exception as e:
@@ -52,7 +61,6 @@ if df is not None:
     
     if cleaning_function:
         try:
-            
             df_clean = cleaning_function(df)
             csv = df_clean.to_csv(index=False)
             st.download_button(label='Download cleaned data', data=csv, 
