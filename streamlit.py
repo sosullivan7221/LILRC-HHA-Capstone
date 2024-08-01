@@ -8,7 +8,8 @@ from scripts.streamlit.hampton_bays_st import clean_hampton_bays
 from scripts.streamlit.lindenhurst_st import clean_lindenhurst
 from scripts.streamlit.north_babylon_st import clean_north_babylon
 from scripts.streamlit.smithtown_non_prof_st import clean_smithtown_non_prof
-from scripts.streamlit.babylon import clean_bablyon
+from scripts.streamlit.babylon_st import clean_bablyon
+from scripts.streamlit.smithtown_prof_st import clean_smithtown_prof
 import pandas as pd
 from io import StringIO
 
@@ -22,7 +23,8 @@ cleaning_functions = {
     'lindenhurst' : clean_lindenhurst,
     'north_babylon' : clean_north_babylon,
     'smithtown non-professional' : clean_smithtown_non_prof,
-    'babylon' : clean_bablyon}
+    'babylon' : clean_bablyon,
+    'smithtown professional' : clean_smithtown_prof}
 
 st.title('LILRC Salary Data Cleaning')
 
@@ -43,8 +45,10 @@ if uploaded_file is not None:
 
     try:
         if file_extension == 'xlsx':
-           if file_name.lower() == 'babylon':
+           if file_name == 'Babylon.xlsx':
                df = pd.read_excel(uploaded_file, skiprows=4, usecols=[1,2,3,4])
+           elif file_name == 'Smithtown Professional.xlsx':
+               df = pd.read_excel(uploaded_file, skiprows=2)
            else:
                df = pd.read_excel(uploaded_file)
         else:
