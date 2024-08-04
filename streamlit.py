@@ -11,6 +11,7 @@ from scripts.streamlit.smithtown_non_prof_st import clean_smithtown_non_prof
 from scripts.streamlit.babylon_st import clean_bablyon
 from scripts.streamlit.smithtown_prof_st import clean_smithtown_prof
 from scripts.streamlit.formatted_st import clean_formatted
+from scripts.streamlit.no_box_st import clean_no_box
 import pandas as pd
 from io import StringIO
 
@@ -46,7 +47,21 @@ cleaning_functions = {
     'shelter island' : clean_formatted,
     'shelter rock' : clean_formatted,
     'south country' : clean_formatted,
-    'unknown libraries' : clean_formatted}
+    'unknown libraries' : clean_formatted,
+    'connetquot' : clean_no_box,
+    'deer park' : clean_no_box,
+    'freeport' : clean_no_box,
+    'longwood' : clean_no_box,
+    'lynnbrook' : clean_no_box,
+    'middle country' : clean_no_box,
+    'oyster bay-east norwich' : clean_no_box,
+    'peninsula public library' : clean_no_box,
+    'port washington' : clean_no_box,
+    'riverhead' : clean_no_box,
+    'sachem' : clean_no_box,
+    'southampton (rogers memorial)' : clean_no_box,
+    'wantagh' : clean_no_box,
+    'west babylon' : clean_no_box}
 
 st.title('LILRC Salary Data Cleaning')
 
@@ -90,7 +105,7 @@ for file in uploaded_files:
         
         if cleaning_function:
             try:
-                if cleaning_function == clean_formatted:
+                if cleaning_function == clean_formatted or clean_no_box:
                     df_clean = cleaning_function(df)
                     df_clean['Library Name'] = base_name.capitalize()
                     csv = df_clean.to_csv(index=False, encoding='utf-8')
@@ -117,6 +132,7 @@ for file in uploaded_files:
     else:
         st.error('No cleaning function for this file')
 
+# APPLY JOB MAPPING!!!!!!!
 if dataframes:        
     final_data = pd.concat(dataframes, ignore_index=True)
     st.write('Final Data')
