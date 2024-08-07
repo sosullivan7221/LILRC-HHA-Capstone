@@ -12,6 +12,7 @@ from scripts.streamlit.babylon_st import clean_bablyon
 from scripts.streamlit.smithtown_prof_st import clean_smithtown_prof
 from scripts.streamlit.formatted_st import clean_formatted
 from scripts.streamlit.no_box_st import clean_no_box
+from scripts.streamlit.no_lib_st import clean_no_lib
 import pandas as pd
 from io import StringIO
 
@@ -101,33 +102,31 @@ for file in uploaded_files:
         base_name = file_name.split('.')[0].lower()
         
         # Get corresponding cleaning function
-        cleaning_function = cleaning_functions.get(base_name)
+        cleaning_function = cleaning_functions.get(base_name, clean_no_lib)
         
         if cleaning_function:
             try:
-                if cleaning_function == clean_formatted or clean_no_box:
+                if cleaning_function == clean_formatted or cleaning_function == clean_no_box:
                     df_clean = cleaning_function(df)
                     df_clean['Library Name'] = base_name.capitalize()
                     csv = df_clean.to_csv(index=False, encoding='utf-8')
-                    st.download_button(label='Download cleaned data', data=csv, 
-                            file_name='cleaned_data.csv', mime='text/csv')
+
+                elif cleaning_function == clean_no_lib:
+                    df_clean = cleaning_function(df)
+                    df_clean['Library Name'] = base_name.capitalize()
+                    csv = df_clean.to_csv(index=False, encoding='utf-8')
+                    
+                    st.write(f'No cleaning file in record for {base_name} . Attempted clean with default script.')
+                    st.write(f'File name: {file_name}')
+                    st.write('Cleaned data:')
+                    st.write(df_clean)
                 else:    
                     df_clean = cleaning_function(df)
                     csv = df_clean.to_csv(index=False, encoding='utf-8')
-                    st.download_button(label='Download cleaned data', data=csv, 
-                            file_name='cleaned_data.csv', mime='text/csv')
 
             except Exception as e:
                 st.write(f'Error: {e}')
-
-        # Delete this stuff later !
-        st.write(f'File name: {file_name}')
-        st.write(f'File extension: {file_extension}')
-        st.write('Cleaned data:')
-        st.write(df_clean)
-        
-        st.write('------------')
-        
+                
         dataframes.append(df_clean)
     else:
         st.error('No cleaning function for this file')
@@ -137,6 +136,8 @@ if dataframes:
     final_data = pd.concat(dataframes, ignore_index=True)
     st.write('Final Data')
     st.write(final_data)
+    st.download_button(label='Download cleaned data', data=csv, 
+                    file_name='cleaned_data.csv', mime='text/csv')
 else:
     st.write('No data')
 
