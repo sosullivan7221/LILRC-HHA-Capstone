@@ -68,6 +68,7 @@ st.title('LILRC Salary Data Cleaning')
 
 ## create an file upload widget for .csv
 uploaded_files = st.file_uploader("Upload Excel Data", type=['xlsx'], accept_multiple_files= True)
+mapping_file = st.file_uploader("Upload Title Mapping", type=['xlsx'])
 
 dataframes = []
 
@@ -131,9 +132,18 @@ for file in uploaded_files:
     else:
         st.error('No cleaning function for this file')
 
-# APPLY JOB MAPPING!!!!!!!
-if dataframes:        
+if dataframes and mapping_file is not None:        
     final_data = pd.concat(dataframes, ignore_index=True)
+    
+    df_mapping = pd.read_excel(mapping_file)
+    mapping_dictionary = dict(zip(df_mapping['survey_response_title'].str.title(), df_mapping['standardized_title']))
+    
+    final_data['Job Title'] = final_data['Job Title'].str.title()
+
+    standard_titles = final_data['Job Title'].map(mapping_dictionary)
+    final_data.insert(4, 'Standard Titles', standard_titles)
+    
+    
     st.write('Final Data')
     st.write(final_data)
     st.download_button(label='Download cleaned data', data=csv, 
