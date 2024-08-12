@@ -1,20 +1,19 @@
 ## create a basic stremalit app
 import streamlit as st
 from scripts.convertcsv import convert_to_csv_file
-from scripts.streamlit.westhampton_st import clean_westhampton
-from scripts.streamlit.baldwin_st import clean_baldwin
-from scripts.streamlit.airtable_st import clean_airtable
-from scripts.streamlit.hampton_bays_st import clean_hampton_bays
-from scripts.streamlit.lindenhurst_st import clean_lindenhurst
-from scripts.streamlit.north_babylon_st import clean_north_babylon
-from scripts.streamlit.smithtown_non_prof_st import clean_smithtown_non_prof
-from scripts.streamlit.babylon_st import clean_bablyon
-from scripts.streamlit.smithtown_prof_st import clean_smithtown_prof
-from scripts.streamlit.formatted_st import clean_formatted
-from scripts.streamlit.no_box_st import clean_no_box
-from scripts.streamlit.no_lib_st import clean_no_lib
+from westhampton_st import clean_westhampton
+from baldwin_st import clean_baldwin
+from airtable_st import clean_airtable
+from hampton_bays_st import clean_hampton_bays
+from lindenhurst_st import clean_lindenhurst
+from north_babylon_st import clean_north_babylon
+from smithtown_non_prof_st import clean_smithtown_non_prof
+from babylon_st import clean_bablyon
+from smithtown_prof_st import clean_smithtown_prof
+from formatted_st import clean_formatted
+from no_box_st import clean_no_box
+from no_lib_st import clean_no_lib
 import pandas as pd
-from io import StringIO
 
 ## dictionary for cleaning functions
 
@@ -70,6 +69,7 @@ st.title('LILRC Salary Data Cleaning')
 uploaded_files = st.file_uploader("Upload Excel Data", type=['xlsx'], accept_multiple_files= True)
 mapping_file = st.file_uploader("Upload Title Mapping", type=['xlsx'])
 
+## empty list for aggregation
 dataframes = []
 
 for file in uploaded_files:
