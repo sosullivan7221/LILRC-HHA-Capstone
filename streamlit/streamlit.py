@@ -77,11 +77,9 @@ for file in uploaded_files:
         
         ## get the file name of the uploaded file
         file_name = file.name
-        st.write(file_name)
 
         ## get the file extension
         file_extension = file_name.split('.')[-1]
-        st.write(file_extension)
 
         ## print object type of uploaded file
         print('Object type: ', type(file))
