@@ -1,6 +1,5 @@
 ## create a basic stremalit app
 import streamlit as st
-from scripts.convertcsv import convert_to_csv_file
 from westhampton_st import clean_westhampton
 from baldwin_st import clean_baldwin
 from airtable_st import clean_airtable
