@@ -35,9 +35,6 @@ def clean_no_box(df):
         }
     df.rename(columns=new_columns, inplace=True)
     
-    # Filter out empty rows
-    df = df[df[['Hourly', 'Salary']].notna().any(axis=1)]
-    
     # Convert 'Salary' from string to float, removing commas and dollar signs
     df['Salary'] = df['Salary'].astype(str).str.replace(',', '').str.replace('$','').str.replace(' ', '')
     
@@ -55,6 +52,9 @@ def clean_no_box(df):
         #pass
     
         # Convert ranges into averages
+        
+    # Filter out empty rows
+    df = df[df[['Hourly', 'Salary']].notna().any(axis=1)]
     
     def average_from_range(range_str):
         if ' to ' in range_str:
