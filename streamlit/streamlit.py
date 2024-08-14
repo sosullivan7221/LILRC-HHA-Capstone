@@ -113,8 +113,10 @@ for file in uploaded_files:
         
             try:
                 if cleaning_function:
+                    st.write(df.head())
                     df_clean = cleaning_function(df)
                     df_clean['Library Name'] = base_name.capitalize()
+                    st.write(df_clean.head())
                 
                     if cleaning_function == clean_no_lib:
                         csv = df_clean.to_csv(index=False, encoding='utf-8')

@@ -45,21 +45,28 @@ def clean_formatted(df):
     
     # Convert ranges into averages
     
-    def average_from_range(range_str):
-        if ' to ' in range_str:
-            start, end = map(float, range_str.split(' to '))
-            return (start + end) / 2
-        elif '-' in range_str:
-            start, end = map(float, range_str.split('-'))
-            return (start + end) / 2
-        elif ' - ' in range_str:
-            start, end = map(float, range_str.split(' - '))
-            return (start + end) / 2
-        else:
-            return float(range_str)
-    
-    df['Salary'] = df['Salary'].apply(average_from_range)
-    df['Hourly'] = df['Hourly'].apply(average_from_range)
+    def average_from_range(value):
+        if pd.isna(value) or not value:
+            return None  # Return None if the value is NaN or empty
+        value_str = str(value)
+        try:
+            if ' to ' in value_str:
+                start, end = map(float, value_str.split(' to '))
+                return (start + end) / 2
+            elif '-' in value_str:
+                start, end = map(float, value_str.split('-'))
+                return (start + end) / 2
+            elif ' - ' in value_str:
+                start, end = map(float, value_str.split(' - '))
+                return (start + end) / 2
+            else:
+                return float(value_str)
+        except ValueError:
+            return None
+
+    # Apply the function to non-empty values only
+    df['Salary'] = df['Salary'].apply(lambda x: average_from_range(x) if pd.notna(x) and x != '' else None)
+    df['Hourly'] = df['Hourly'].apply(lambda x: average_from_range(x) if pd.notna(x) and x != '' else None)
     
     # Remove N/A from empty titles
     
