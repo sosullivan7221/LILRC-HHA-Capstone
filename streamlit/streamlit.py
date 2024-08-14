@@ -130,6 +130,8 @@ for file in uploaded_files:
                 else:    
                     df_clean = cleaning_function(df)
                     csv = df_clean.to_csv(index=False, encoding='utf-8')
+                    st.write('Cleaned Data')
+                    st.write(df_clean)
 
             except Exception as e:
                 st.write(f'Error: {e}')
