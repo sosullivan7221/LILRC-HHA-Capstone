@@ -131,7 +131,7 @@ for file in uploaded_files:
             if df_clean is not None:
                 dataframes.append(df_clean)
             else:
-                st.error('Data could not be cleaned')
+                st.error(f'Data could not be cleaned for {base_name}')
         else:
             st.error('No cleaning function for this file')
     else:

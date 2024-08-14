@@ -16,7 +16,7 @@ def clean_hampton_bays(df):
     ]
     
     # Read CSV file
-    df = pd.read_csv(df)
+    #df = pd.read_csv(df)
 
     # Standardizing column names
     new_columns = {
