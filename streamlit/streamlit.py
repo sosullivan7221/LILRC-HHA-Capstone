@@ -73,6 +73,10 @@ mapping_file = st.file_uploader("Upload Title Mapping", type=['xlsx'])
 dataframes = []
 
 for file in uploaded_files:
+    
+    ## initialize df_clean
+    df_clean = None
+    
     ## check if file is uploaded
     if file is not None:
         
@@ -102,62 +106,60 @@ for file in uploaded_files:
         except Exception as e:
             st.write(f'Error: {e}')
             
-    if df is not None:
-        # Retrieve name of file
-        base_name = file_name.split('.')[0].lower()
-        st.write(base_name)
+        if df is not None:
+            # Retrieve name of file
+            base_name = file_name.split('.')[0].lower()
+            st.write(base_name)
         
-        # Get corresponding cleaning function
-        cleaning_function = cleaning_functions.get(base_name, clean_no_lib)
-        st.write(cleaning_function)
+            # Get corresponding cleaning function
+            cleaning_function = cleaning_functions.get(base_name, clean_no_lib)
+            st.write(cleaning_function)
         
-        if cleaning_function:
             try:
-                if cleaning_function == clean_formatted or cleaning_function == clean_no_box:
+                if cleaning_function:
                     df_clean = cleaning_function(df)
                     df_clean['Library Name'] = base_name.capitalize()
-                    csv = df_clean.to_csv(index=False, encoding='utf-8')
-
-                elif cleaning_function == clean_no_lib:
-                    df_clean = cleaning_function(df)
-                    df_clean['Library Name'] = base_name.capitalize()
-                    csv = df_clean.to_csv(index=False, encoding='utf-8')
-                    
-                    st.write(f'No cleaning file in record for {base_name} . Attempted clean with default script.')
-                    st.write(f'File name: {file_name}')
-                    st.write('Cleaned data:')
-                    st.write(df_clean)
-                else:    
-                    df_clean = cleaning_function(df)
-                    csv = df_clean.to_csv(index=False, encoding='utf-8')
-                    st.write('Cleaned Data')
-                    st.write(df_clean)
+                
+                    if cleaning_function == clean_no_lib:
+                        csv = df_clean.to_csv(index=False, encoding='utf-8')
+                        st.write(f'No cleaning file in record for {base_name} . Attempted clean with default script.')
+                        st.write(f'File name: {file_name}')
+                        st.write('Cleaned data:')
+                        st.write(df_clean)
+                    else:    
+                        csv = df_clean.to_csv(index=False, encoding='utf-8')
 
             except Exception as e:
                 st.write(f'Error: {e}')
                 
-        #dataframes.append(df_clean)
+            if df_clean is not None:
+                dataframes.append(df_clean)
+            else:
+                st.error('Data could not be cleaned')
+        else:
+            st.error('No cleaning function for this file')
     else:
-        st.error('No cleaning function for this file')
+        st.error('No file uploaded')
+    
 
-#if dataframes and mapping_file is not None:        
-    #final_data = pd.concat(dataframes, ignore_index=True)
+if dataframes and mapping_file is not None:        
+    final_data = pd.concat(dataframes, ignore_index=True)
     
-    #df_mapping = pd.read_excel(mapping_file)
-    #mapping_dictionary = dict(zip(df_mapping['survey_response_title'].str.title(), df_mapping['standardized_title']))
+    df_mapping = pd.read_excel(mapping_file)
+    mapping_dictionary = dict(zip(df_mapping['survey_response_title'].str.title(), df_mapping['standardized_title']))
     
-    #final_data['Job Title'] = final_data['Job Title'].str.title()
+    final_data['Job Title'] = final_data['Job Title'].str.title()
 
-    #standard_titles = final_data['Job Title'].map(mapping_dictionary)
-    #final_data.insert(4, 'Standard Titles', standard_titles)
+    standard_titles = final_data['Job Title'].map(mapping_dictionary)
+    final_data.insert(4, 'Standard Titles', standard_titles)
     
     
-    #st.write('Final Data')
-    #st.write(final_data)
-    #st.download_button(label='Download cleaned data', data=csv, 
-                    #file_name='cleaned_data.csv', mime='text/csv')
-#else:
-    #st.write('No data')
+    st.write('Final Data')
+    st.write(final_data)
+    st.download_button(label='Download cleaned data', data=final_data.to_csv(index=False,  encoding='utf-8'), 
+                    file_name='cleaned_data.csv', mime='text/csv')
+else:
+    st.write('No data')
 
 # Run the app
 # streamlit run app.py
