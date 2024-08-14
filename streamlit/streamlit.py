@@ -114,14 +114,18 @@ for file in uploaded_files:
             try:
                 if cleaning_function:
                     df_clean = cleaning_function(df)
-                    df_clean['Library Name'] = base_name.capitalize()
+                    
+                    if cleaning_function in {clean_formatted, clean_no_box, clean_airtable}:
+                        df_clean['Library Name'] = base_name.capitalize()
+                        csv = df_clean.to_csv(index=False, encoding='utf-8')
                 
-                    if cleaning_function == clean_no_lib:
+                    elif cleaning_function == clean_no_lib:
                         csv = df_clean.to_csv(index=False, encoding='utf-8')
                         st.write(f'No cleaning file in record for {base_name} . Attempted clean with default script.')
                         st.write(f'File name: {file_name}')
                         st.write('Cleaned data:')
                         st.write(df_clean)
+                        
                     else:    
                         csv = df_clean.to_csv(index=False, encoding='utf-8')
 
