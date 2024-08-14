@@ -35,6 +35,9 @@ def clean_no_box(df):
         }
     df.rename(columns=new_columns, inplace=True)
     
+    # Filter out empty rows
+    df = df[df[['Hourly', 'Salary']].notna().any(axis=1)]
+    
     # Convert 'Salary' from string to float, removing commas and dollar signs
     df['Salary'] = df['Salary'].astype(str).str.replace(',', '').str.replace('$','').str.replace(' ', '')
     
@@ -105,7 +108,7 @@ def clean_no_box(df):
     final_columns = ['Year', 'Library Name', 'Employee Number', 'Job Title', 'Part Time', 'Salary', 'Hourly',]
     df = df[final_columns]
     
-    # Filter out empty rows
+    # re-filter out empty rows
     df = df[df[['Hourly', 'Salary']].notna().any(axis=1)]
     
     return df
