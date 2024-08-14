@@ -136,28 +136,28 @@ for file in uploaded_files:
             except Exception as e:
                 st.write(f'Error: {e}')
                 
-        dataframes.append(df_clean)
+        #dataframes.append(df_clean)
     else:
         st.error('No cleaning function for this file')
 
-if dataframes and mapping_file is not None:        
-    final_data = pd.concat(dataframes, ignore_index=True)
+#if dataframes and mapping_file is not None:        
+    #final_data = pd.concat(dataframes, ignore_index=True)
     
-    df_mapping = pd.read_excel(mapping_file)
-    mapping_dictionary = dict(zip(df_mapping['survey_response_title'].str.title(), df_mapping['standardized_title']))
+    #df_mapping = pd.read_excel(mapping_file)
+    #mapping_dictionary = dict(zip(df_mapping['survey_response_title'].str.title(), df_mapping['standardized_title']))
     
-    final_data['Job Title'] = final_data['Job Title'].str.title()
+    #final_data['Job Title'] = final_data['Job Title'].str.title()
 
-    standard_titles = final_data['Job Title'].map(mapping_dictionary)
-    final_data.insert(4, 'Standard Titles', standard_titles)
+    #standard_titles = final_data['Job Title'].map(mapping_dictionary)
+    #final_data.insert(4, 'Standard Titles', standard_titles)
     
     
-    st.write('Final Data')
-    st.write(final_data)
-    st.download_button(label='Download cleaned data', data=csv, 
-                    file_name='cleaned_data.csv', mime='text/csv')
-else:
-    st.write('No data')
+    #st.write('Final Data')
+    #st.write(final_data)
+    #st.download_button(label='Download cleaned data', data=csv, 
+                    #file_name='cleaned_data.csv', mime='text/csv')
+#else:
+    #st.write('No data')
 
 # Run the app
 # streamlit run app.py
