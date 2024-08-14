@@ -115,7 +115,7 @@ for file in uploaded_files:
                 if cleaning_function:
                     df_clean = cleaning_function(df)
                     
-                    if cleaning_function in {clean_formatted, clean_no_box, clean_airtable}:
+                    if cleaning_function in {clean_formatted, clean_no_box}:
                         df_clean['Library Name'] = base_name.capitalize()
                         csv = df_clean.to_csv(index=False, encoding='utf-8')
                 
