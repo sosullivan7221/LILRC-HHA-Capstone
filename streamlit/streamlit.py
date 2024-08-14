@@ -22,7 +22,7 @@ cleaning_functions = {
     'airtable' : clean_airtable,
     'hampton bays' : clean_hampton_bays,
     'lindenhurst' : clean_lindenhurst,
-    'north_babylon' : clean_north_babylon,
+    'north babylon' : clean_north_babylon,
     'smithtown non-professional' : clean_smithtown_non_prof,
     'babylon' : clean_bablyon,
     'smithtown professional' : clean_smithtown_prof,
