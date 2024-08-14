@@ -40,7 +40,7 @@ cleaning_functions = {
     'montauk' : clean_formatted,
     'north bellmore' : clean_formatted,
     'rockville center' : clean_formatted,
-    'rosyln (bryant library)' : clean_formatted,
+    'roslyn (bryant library)' : clean_formatted,
     'sea cliff' : clean_formatted,
     'seaford' : clean_formatted,
     'shelter island' : clean_formatted,
@@ -60,7 +60,8 @@ cleaning_functions = {
     'sachem' : clean_no_box,
     'southampton (rogers memorial)' : clean_no_box,
     'wantagh' : clean_no_box,
-    'west babylon' : clean_no_box}
+    'west babylon' : clean_no_box,
+    'mattituck-laurel' : clean_formatted}
 
 st.title('LILRC Salary Data Cleaning')
 
@@ -90,6 +91,8 @@ for file in uploaded_files:
                     df = pd.read_excel(file, skiprows=4, usecols=[1,2,3,4], engine='openpyxl')
                 elif file_name == 'Smithtown Professional.xlsx':
                     df = pd.read_excel(file, skiprows=2, engine='openpyxl')
+                elif file_name == 'Longwood.xlsx':
+                    df = pd.read_excel(file, skiprows=1, engine='openpyxl')
                 else:
                     df = pd.read_excel(file, engine='openpyxl')
             else:
