@@ -13,9 +13,9 @@ def clean_lindenhurst(df):
         'Hourly', 
         'Year'
     ]
-    
+
     # Read CSV file
-    df = pd.read_csv(df)
+    #df = pd.read_csv(df)
 
     # Standardizing column names
     new_columns = {
@@ -54,3 +54,4 @@ def clean_lindenhurst(df):
     df = df[df[['Hourly', 'Salary']].notna().any(axis=1)]
     
     return df
+    
