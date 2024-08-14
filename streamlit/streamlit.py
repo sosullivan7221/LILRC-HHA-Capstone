@@ -78,9 +78,11 @@ for file in uploaded_files:
         
         ## get the file name of the uploaded file
         file_name = file.name
+        st.write(file_name)
 
         ## get the file extension
         file_extension = file_name.split('.')[-1]
+        st.write(file_extension)
 
         ## print object type of uploaded file
         print('Object type: ', type(file))
@@ -103,9 +105,11 @@ for file in uploaded_files:
     if df is not None:
         # Retrieve name of file
         base_name = file_name.split('.')[0].lower()
+        st.write(base_name)
         
         # Get corresponding cleaning function
         cleaning_function = cleaning_functions.get(base_name, clean_no_lib)
+        st.write(cleaning_function)
         
         if cleaning_function:
             try:
