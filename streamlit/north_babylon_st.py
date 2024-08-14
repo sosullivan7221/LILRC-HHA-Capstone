@@ -31,9 +31,9 @@ def clean_north_babylon(df):
     
     # Filter between salary and hourly based on value
     for index, row in df.iterrows():
-        if row['Salary'] < 1000:
+        if pd.notna(row['Salary']) and row['Salary'] < 1000:
             df.at[index, 'Hourly'] = row['Salary']
-            df.at[index, 'Salary'] = ''
+            df.at[index, 'Salary'] = pd.NA
         else:
             pass
     
