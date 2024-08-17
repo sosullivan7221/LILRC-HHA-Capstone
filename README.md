@@ -1,7 +1,7 @@
 # LILRC-HHA-Capstone
 Capstone Project for SBU AHI Program: ingesting and standardizing salary survey data from Long Island libraries
 
-## Google Drive Link
+## 2024 Google Drive Link
 
 https://drive.google.com/drive/folders/1vc8jQYpzkczLiXFHjTLitzCv0Gz3uMnx
 
@@ -38,3 +38,28 @@ The Long Island Library Resource Council (LILRC) distributes a survey to all lib
 1. Public libraries must be able to submit a spreadsheet, individual reporting can be flexible in format (currently using an airtable survey).
 2. Survey fields should be open-ended, can be further condensed and constrained in Python aggregation.
 3. Nassau libraries submit their own spreadsheet, which may vary significantly from the survey sent by the LILRC.
+
+### Current State
+
+The application is currently deployed using streamlit. Cleaning scripts have been written only for libraries that have submitted in the 2024 survey. Recordings explaining the repository structure and demoing the app are below:
+
+Repository Overview: https://www.loom.com/share/59238720c5104392a4f42a7e29b40b30?sid=8772188e-e508-4827-a3a1-c8dc7a0a3f80
+
+Application Demo: https://www.loom.com/share/9bcaa3d48eb4426193326880cb86ff8f?sid=bb1b39e0-6fdb-449b-a34a-911d4c14b36a
+
+### Future Recommendations
+
+There are a number of features/changes that could be implemented in the future to improbe the applcation:
+
+1. Consolidate the formatted.py and no_box.py scripts into a single script. This should act as a single script that can clean all of the files that follow the standardized format.
+2. Improve and incorporate NLP for title mapping into the application. Give the NLP feedback and utilize accuracy metrics to help it improve in making predictions. 
+3. Utilize regex or similar package to more cleanly remove unwanted characters from speficied columns.
+4. Allow application to auto pull data from a google drive folder. Will likely need API keys.
+
+
+
+
+
+
+
+
